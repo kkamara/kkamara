@@ -5,3 +5,7 @@
 <img src="https://raw.githubusercontent.com/kkamara/useful/main/go-workspace.png" alt="go-workspace.png" width="400"/>   <img src="https://raw.githubusercontent.com/kkamara/useful/main/php-workspace.png" alt="php-workspace.png" width="400"/>
 
 <img src="https://github.com/kkamara/useful/raw/main/amazon-scrapers.png" alt="amazon-scrapers.png" width="400"/>
+
+Open source projects I've contributed to:
+
+* https://www.flamingo.me/flamingo-commerce.html#Home
