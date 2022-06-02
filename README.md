@@ -11,3 +11,7 @@
 Open source projects I've contributed to:
 
 * https://www.flamingo.me/flamingo-commerce.html#Home
+
+Business cards printed: 
+
+3500.
