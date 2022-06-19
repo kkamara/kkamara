@@ -1,3 +1,5 @@
+# This is software engineering.
+
 Achieved UK Government (cabinet office) award at 22 years old ([link](https://kelvinkamara.com/award.jpg)) ([link2](https://kelvinkamara.herokuapp.com/award.jpg)).
 
 Open source projects I've contributed to:
@@ -7,6 +9,8 @@ Open source projects I've contributed to:
 Business cards printed: 
 
 3500.
+
+[Software engineering challenges with solutions and tests](https://github.com/kkamara/playground).
 
 <img src="https://github.com/kkamara/useful/raw/main/mpts-london.jpg" alt="mpts-london.jpg" width="170"/> <img src="https://github.com/kkamara/useful/raw/d34b52595cc136a9b5503ba54fa36926963de3d0/business-card.jpeg" alt="mpts-london.jpg" width="500"/> 
 
