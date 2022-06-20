@@ -1,6 +1,6 @@
 ## This is software engineering.
 
-Achieved UK Government (cabinet office) award at 22 years old ([link](https://kelvinkamara.com/award.jpg)) ([link2](https://kelvinkamara.herokuapp.com/award.jpg)).
+I achieved the UK government cabinet office recognition award at 22 years old (22/04/19) ([link](https://kelvinkamara.com/award.jpg)) ([link2](https://kelvinkamara.herokuapp.com/award.jpg)).
 
 Open source projects I've contributed to:
 
