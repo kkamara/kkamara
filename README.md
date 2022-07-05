@@ -2,6 +2,8 @@
 
 I achieved the UK government cabinet office recognition award at 22 years old (22/04/19) ([link](https://kelvinkamara.com/award.jpg)) ([link2](https://kelvinkamara.herokuapp.com/award.jpg)).
 
+I didn't go to university.
+
 Open source projects I've contributed to:
 
 * https://www.flamingo.me/flamingo-commerce.html#Home
