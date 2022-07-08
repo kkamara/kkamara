@@ -16,7 +16,7 @@ Business cards printed:
 
 [Real Time Operating Systems (RTOS)](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz).
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/kkamara/useful/raw/main/arduino.jpg" alt="mpts-london.jpg" width="580"/>
+<img src="https://github.com/kkamara/useful/raw/main/arduino.jpg" alt="mpts-london.jpg" width="780"/>
 
 <img src="https://github.com/kkamara/useful/raw/main/mpts-london.jpg" alt="mpts-london.jpg" width="170"/> <img src="https://github.com/kkamara/useful/raw/d34b52595cc136a9b5503ba54fa36926963de3d0/business-card.jpeg" alt="mpts-london.jpg" width="400"/> <img src="https://github.com/kkamara/useful/raw/main/EcommerceMobile-1.jpg" alt="EcommerceMobile-1.jpg" width="100"/>   <img src="https://github.com/kkamara/useful/raw/main/city-maps-splash-screen.jpg" alt="city-maps-splash-screen.jpg" width="100"/> 
 
