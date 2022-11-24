@@ -8,6 +8,15 @@ I didn't go to university.
 
 <details>
 <summary>
+  Premium templates:
+</summary>
+
+* https://github.com/kkamara/premium-artist-cms-template
+
+</details>
+
+<details>
+<summary>
   Principles:
 </summary>
 
