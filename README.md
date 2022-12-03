@@ -19,6 +19,15 @@ Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 
 <details>
 <summary>
+  My gists:
+</summary>
+
+* https://gist.github.com/kkamara
+
+</details>
+
+<details>
+<summary>
   Principles:
 </summary>
 
