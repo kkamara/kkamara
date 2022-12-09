@@ -1,4 +1,4 @@
-## This is software engineering. ![visitors](https://visitor-badge.glitch.me/badge?page_id=kkamara.kkamara)
+## <img src="https://github.com/kkamara/useful/raw/main/this-is-software-engineering.png" alt="this-is-software-engineering.png" width=""/> ![visitors](https://visitor-badge.glitch.me/badge?page_id=kkamara.kkamara)
 
 I achieved the UK government cabinet office recognition award at 22 years old (22/04/19) ([link](https://kelvinkamara.com/award.jpg)) ([link2](https://kelvinkamara.herokuapp.com/award.jpg)) ([link3](https://github.com/kkamara/kelvinkamara.com/blob/develop/public/award.jpg)) ([link4](https://camo.githubusercontent.com/26b5dfe8484f6222b7beec38187ef82c6f24790379f638b0f9c0cce8cb5225f8/68747470733a2f2f7777772e6b656c76696e6b616d6172612e636f6d2f61776172642e6a7067)).
 
