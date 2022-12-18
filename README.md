@@ -1,5 +1,15 @@
 ## <img src="https://github.com/kkamara/useful/raw/main/this-is-software-engineering.png" alt="this-is-software-engineering.png" width=""/> ![visitors](https://visitor-badge.glitch.me/badge?page_id=kkamara.kkamara)
 
+<p>Hi</p>
+
+<p>Born & raised in south east London, I have excellent it skills. I am a great time keeper with outstanding organisational skills. I am also always willing to learn new skills. I am friendly, helpful and polite, with a good sense of humour. I am able to work both independently and in busy teams.</p>
+
+<p>From my time as the lead developer at Jobsender. I am outgoing, tactful and capable of listening effectively when solving problems. Most importantly - I am dedicated and committed to performing to the best ability. I am a person who strives to complete personal and team goals.</p>
+
+<p>I have over 10 years programming experience working with unix systems to a high level. I have enjoyed working with both monolithic and microservice applications.</p>
+
+<p>I am a firm believer in using the right tool for the job. Specializing in backend server development I was fortunate to achieve a uk government award for my work with secure web systems.</p>
+
 I achieved the UK government cabinet office recognition award at 22 years old (22/04/19) ([link](https://kelvinkamara.com/award.jpg)) ([link2](https://kelvinkamara.herokuapp.com/award.jpg)) ([link3](https://github.com/kkamara/kelvinkamara.com/blob/develop/public/award.jpg)) ([link4](https://camo.githubusercontent.com/26b5dfe8484f6222b7beec38187ef82c6f24790379f638b0f9c0cce8cb5225f8/68747470733a2f2f7777772e6b656c76696e6b616d6172612e636f6d2f61776172642e6a7067)).
 
 I didn't go to university.
@@ -149,6 +159,7 @@ Misc:
 Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal.
+
 </details>
 
 <details>
