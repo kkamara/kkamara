@@ -18,6 +18,8 @@ I didn't go to university.
 
 Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 
+[Responsive todo app with react 18 and light and dark theme switch.](https://kkamara.github.io/todo-app)
+
 [I built Premium Artist CMS Template in two weeks back in early 2020.](https://github.com/kkamara/premium-artist-cms-template#premium-artist-cms-template)
 
 [Crawl and click buttons on websites with gui.](https://github.com/kkamara/php-scraper#php-scraper)
