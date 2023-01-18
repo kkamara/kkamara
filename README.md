@@ -179,9 +179,32 @@ Donate:
 https://kelvinkamara.com
 </details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkamara&repo=kelvinkamara.com&show_owner=true&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/kkamara/kelvinkamara.com) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkamara&repo=premium-artist-cms-template&show_owner=true&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/kkamara/premium-artist-cms-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkamara&repo=mrvl&show_owner=true&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/kkamara/mrvl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkamara&repo=wordpress&show_owner=true&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/kkamara/wordpress) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkamara&repo=selenium-py&show_owner=true&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/kkamara/selenium-py)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkamara&repo=amazon-scraper&show_owner=true&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/kkamara/amazon-scraper) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkamara&repo=react-boilerplate&show_owner=true&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/kkamara/react-boilerplate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkamara&repo=city-maps-mobile&show_owner=true&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/kkamara/city-maps-mobile) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkamara&repo=ecommerce-mobile&show_owner=true&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/kkamara/ecommerce-mobile)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkamara&repo=django-react-boilerplate&show_owner=true&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/kkamara/django-react-boilerplate)
+<table>
+  <tr>
+    <td colspan="2">Featured projects</td>
+  </tr>
+  <tr>
+    <td>
+      <img width='200' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light-2.png' />
+      <br/>
+      <a href='https://github.com/kkamara/kelvinkamara.com'>kelvinkamara.com</a>
+    </td>
+    <td><a href='https://github.com/kkamara/premium-artist-cms-template'>premium-artist-cms-template</a></td>
+  </tr>
+  <tr>
+    <td><a href='https://github.com/kkamara/mrvl'>mrvl</a></td>
+    <td><a href='https://github.com/kkamara/wordpress'>wordpress</a></td>
+  </tr>
+  <tr>
+    <td><a href='https://github.com/kkamara/selenium-py'>selenium-py</a></td>
+    <td><a href='https://github.com/kkamara/amazon-scraper'>amazon-scraper</a></td>
+  </tr>
+  <tr>
+    <td><a href='https://github.com/kkamara/react-boilerplate'>react-boilerplate</a></td>
+    <td><a href='https://github.com/kkamara/city-maps-mobile'>city-maps-mobile</a></td>
+  </tr>
+  <tr>
+    <td><a href='https://github.com/kkamara/ecommerce-mobile'>ecommerce-mobile</a></td>
+    <td><a href='https://github.com/kkamara/django-react-boilerplate'>django-react-boilerplate</a></td>
+  </tr>
+</table>
