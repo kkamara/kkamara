@@ -185,26 +185,62 @@ https://kelvinkamara.com
   </tr>
   <tr>
     <td>
-      <img width='200' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light-2.png' />
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light-2.png' />
       <br/>
       <a href='https://github.com/kkamara/kelvinkamara.com'>kelvinkamara.com</a>
     </td>
-    <td><a href='https://github.com/kkamara/premium-artist-cms-template'>premium-artist-cms-template</a></td>
+    <td>
+      <img height='150' src='https://github.com/kkamara/premium-artist-cms-template/raw/main/premium-artist-cms-theme/admin/dashboard.png' />
+      <br/>
+      <a href='https://github.com/kkamara/premium-artist-cms-template'>premium-artist-cms-template</a>
+    </td>
   </tr>
   <tr>
-    <td><a href='https://github.com/kkamara/mrvl'>mrvl</a></td>
-    <td><a href='https://github.com/kkamara/wordpress'>wordpress</a></td>
+    <td>
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/mrvl4.png' />
+      <br/>
+      <a href='https://github.com/kkamara/mrvl'>mrvl</a>
+    </td>
+    <td>
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/wordpress.png' />
+      <br/>
+      <a href='https://github.com/kkamara/wordpress'>wordpress</a>
+    </td>
   </tr>
   <tr>
-    <td><a href='https://github.com/kkamara/selenium-py'>selenium-py</a></td>
-    <td><a href='https://github.com/kkamara/amazon-scraper'>amazon-scraper</a></td>
+    <td>
+      <img height='150' src='https://github.com/kkamara/useful/raw/main/selenium-py.png' />
+      <br/>
+      <a href='https://github.com/kkamara/selenium-py'>selenium-py</a>
+    </td>
+    <td>
+      <img height='150' src='https://github.com/kkamara/useful/raw/main/selenium-py.png' />
+      <br/>
+      <a href='https://github.com/kkamara/amazon-scraper'>amazon-scraper</a>
+    </td>
   </tr>
   <tr>
-    <td><a href='https://github.com/kkamara/react-boilerplate'>react-boilerplate</a></td>
-    <td><a href='https://github.com/kkamara/city-maps-mobile'>city-maps-mobile</a></td>
+    <td>
+      <img height='150' src='https://github.com/kkamara/useful/raw/main/lrb.png' />
+      <br/>
+      <a href='https://github.com/kkamara/react-boilerplate'>react-boilerplate</a>
+    </td>
+    <td>
+      <img height='150' src='https://github.com/kkamara/useful/raw/main/city-maps-splash-screen.jpg' />
+      <br/>
+      <a href='https://github.com/kkamara/city-maps-mobile'>city-maps-mobile</a>
+    </td>
   </tr>
   <tr>
-    <td><a href='https://github.com/kkamara/ecommerce-mobile'>ecommerce-mobile</a></td>
-    <td><a href='https://github.com/kkamara/django-react-boilerplate'>django-react-boilerplate</a></td>
+    <td>
+      <img height='150' src='https://github.com/kkamara/useful/raw/main/EcommerceMobile-3.jpg' />
+      <br/>
+      <a href='https://github.com/kkamara/ecommerce-mobile'>ecommerce-mobile</a>
+    </td>
+    <td>
+      <img height='150' src='https://github.com/kkamara/useful/raw/main/lrb.png' />
+      <br/>
+      <a href='https://github.com/kkamara/django-react-boilerplate'>django-react-boilerplate</a>
+    </td>
   </tr>
 </table>
