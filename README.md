@@ -176,6 +176,10 @@ Favourite words: Socially, Pristine.
 
 [ASMR Triggers for Instant Sleep.](https://www.youtube.com/watch?v=cUpFWyjalR4)
 
+[PTSD Healing 2.](https://www.youtube.com/watch?v=WCarlqDpeVE)
+
+[ASMR Satisfying Water Sounds Compilation.](https://www.youtube.com/watch?v=EQAx7Iuk7Fo)
+
 </details>
 
 <details>
