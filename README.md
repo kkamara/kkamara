@@ -170,13 +170,11 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal.
 
-[PTSD Healing.](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=share_link)
-
 Favourite words: Socially, Pristine.
 
-[ASMR Triggers for Instant Sleep.](https://www.youtube.com/watch?v=cUpFWyjalR4)
+[PTSD Healing.](https://www.youtube.com/watch?v=pH3AtOxig5c) (x4)
 
-[PTSD Healing 2.](https://www.youtube.com/watch?v=WCarlqDpeVE)
+[ASMR Triggers for Instant Sleep.](https://www.youtube.com/watch?v=cUpFWyjalR4)
 
 [ASMR Satisfying Water Sounds Compilation.](https://www.youtube.com/watch?v=EQAx7Iuk7Fo)
 
