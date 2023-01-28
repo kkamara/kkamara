@@ -172,9 +172,7 @@ Favourite football team: Arsenal.
 
 Favourite words: Socially, Pristine.
 
-[PTSD Healing.](https://www.youtube.com/watch?v=pH3AtOxig5c) (x4)
-
-[ASMR Triggers for Instant Sleep.](https://www.youtube.com/watch?v=cUpFWyjalR4)
+[ASMR Triggers for Instant Sleep](https://www.youtube.com/watch?v=cUpFWyjalR4) (x8+ with [vlc](https://www.videolan.org/) & `nohup vlc &`).
 
 [ASMR Satisfying Water Sounds Compilation.](https://www.youtube.com/watch?v=EQAx7Iuk7Fo)
 
