@@ -1,4 +1,4 @@
-## <img src="https://github.com/kkamara/useful/raw/main/www.kelvinkamara.com.png" alt="www.kelvinkamara.com.png" width=""/> ![visitors](https://visitor-badge.glitch.me/badge?page_id=kkamara.kkamara)
+## <img src="https://github.com/kkamara/useful/raw/main/www.kelvinkamara.com.png" alt="www.kelvinkamara.com.png" width=""/> ![visitors](https://komarev.com/ghpvc/?username=kkamara&color=blueviolet&style=for-the-badge)
 
 > <p>Hi</p>
 >
