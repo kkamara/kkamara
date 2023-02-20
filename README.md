@@ -176,7 +176,7 @@ Favourite words: Socially, Pristine.
 
 [ASMR Satisfying Water Sounds Compilation](https://www.youtube.com/watch?v=EQAx7Iuk7Fo).
 
-[Bell Metronome](https://www.youtube.com/watch?v=WCarlqDpeVE&t=110s).
+[Bell Metronome](https://www.youtube.com/watch?v=MzbauO_MmKE).
 
 [Audio Visualization](https://www.youtube.com/watch?v=t6jlhqNxRYk).
 
