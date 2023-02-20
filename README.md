@@ -172,13 +172,19 @@ Favourite football team: Arsenal.
 
 Favourite words: Socially, Pristine.
 
-[ASMR Triggers for Instant Sleep](https://www.youtube.com/watch?v=cUpFWyjalR4) (x8+ with [vlc](https://www.videolan.org/) & `nohup vlc &`).
+[ASMR Triggers for Instant Sleep](https://www.youtube.com/watch?v=cUpFWyjalR4) (x2+ with [vlc](https://www.videolan.org/) & `nohup vlc &`).
 
-[ASMR Satisfying Water Sounds Compilation.](https://www.youtube.com/watch?v=EQAx7Iuk7Fo)
+[ASMR Satisfying Water Sounds Compilation](https://www.youtube.com/watch?v=EQAx7Iuk7Fo).
 
-[Bell Metronome.](https://www.youtube.com/watch?v=WCarlqDpeVE&t=110s)
+[Bell Metronome](https://www.youtube.com/watch?v=WCarlqDpeVE&t=110s).
 
-[Audio Visualization.](https://www.youtube.com/watch?v=t6jlhqNxRYk)
+[Audio Visualization](https://www.youtube.com/watch?v=t6jlhqNxRYk).
+
+[Pink noise](https://www.youtube.com/watch?v=8SHf6wmX5MU).
+
+[3 Hour BROWN NOISE w/ BLACKOUT SCREEN 🖤 for FOCUS, SLEEP, AND COMFORT 💭](https://www.youtube.com/watch?v=GSiqI-uwaN0).
+
+[Whip Sound Effect (1 Hour)](https://www.youtube.com/watch?v=1Ax_CwajF0s).
 
 </details>
 
