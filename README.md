@@ -182,7 +182,7 @@ Favourite words: Socially, Pristine.
 
 [Pink noise](https://www.youtube.com/watch?v=8SHf6wmX5MU).
 
-[3 Hour BROWN NOISE w/ BLACKOUT SCREEN 🖤 for FOCUS, SLEEP, AND COMFORT 💭](https://www.youtube.com/watch?v=GSiqI-uwaN0).
+[Brown noise](https://www.youtube.com/watch?v=UwullClrOuw).
 
 [Whip Sound Effect (1 Hour)](https://www.youtube.com/watch?v=1Ax_CwajF0s).
 
