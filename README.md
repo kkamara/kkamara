@@ -190,6 +190,8 @@ Favourite words: Socially, Pristine.
 
 [Music for Work](https://www.youtube.com/watch?v=k9ts6p63ns0).
 
+Favourite radio: [talkSport](https://talksport.com/).
+
 </details>
 
 <details>
