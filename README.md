@@ -192,6 +192,8 @@ Favourite words: Socially, Pristine.
 
 Favourite radio: [talkSport](https://talksport.com/).
 
+[25 BPM - Metronome](https://www.youtube.com/watch?v=Bz_LW-SE6oM).
+
 </details>
 
 <details>
