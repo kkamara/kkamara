@@ -194,6 +194,8 @@ Favourite radio: [talkSport](https://talksport.com/).
 
 [25 BPM - Metronome](https://www.youtube.com/watch?v=Bz_LW-SE6oM).
 
+[1 Hour of Finger Clicking (ASMR)](https://www.youtube.com/watch?v=JeD5V5aaaoI).
+
 </details>
 
 <details>
