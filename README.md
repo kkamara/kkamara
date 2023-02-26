@@ -8,7 +8,7 @@
 >
 ><p>I have over 10 years programming experience working with unix systems to a high level. I have enjoyed working with both monolithic and microservice applications.</p>
 >
-><p>I am a firm believer in using the right tool for the job. Specializing in backend server development I was fortunate to achieve a uk government award for my work with secure web systems.</p>
+><p>I am a firm believer in using the right tool for the job. Specializing in backend server development I was fortunate to achieve a UK government award for my work with secure web systems.</p>
 >
 >www.kelvinkamara.com
 
@@ -195,6 +195,8 @@ Favourite radio: [talkSport](https://talksport.com/).
 [25 BPM - Metronome](https://www.youtube.com/watch?v=Bz_LW-SE6oM).
 
 [1 Hour of Finger Clicking (ASMR)](https://www.youtube.com/watch?v=JeD5V5aaaoI).
+
+[500 BPM - Metronome](https://www.youtube.com/watch?v=PvSq2XcuDfw&t=2s).
 
 </details>
 
