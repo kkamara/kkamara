@@ -196,7 +196,9 @@ Favourite radio: [talkSport](https://talksport.com/).
 
 [1 Hour of Finger Clicking (ASMR)](https://www.youtube.com/watch?v=JeD5V5aaaoI).
 
-[500 BPM - Metronome](https://www.youtube.com/watch?v=PvSq2XcuDfw&t=2s).
+[500 BPM - Metronome](https://www.youtube.com/watch?v=PvSq2XcuDfw).
+
+[ASMR People Shouting](https://www.youtube.com/watch?v=klJMNosyLPk).
 
 </details>
 
