@@ -200,6 +200,8 @@ Favourite radio: [talkSport](https://talksport.com/).
 
 [ASMR People Shouting](https://www.youtube.com/watch?v=klJMNosyLPk).
 
+[Laugh Track Sound Effect](https://www.youtube.com/watch?v=ToOV5i8ym8o).
+
 </details>
 
 <details>
