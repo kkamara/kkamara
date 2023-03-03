@@ -202,6 +202,8 @@ Favourite radio: [talkSport](https://talksport.com/).
 
 [Laugh Track Sound Effect](https://www.youtube.com/watch?v=ToOV5i8ym8o).
 
+Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2](https://www.youtube.com/@DjeasyMixmaster).
+
 </details>
 
 <details>
