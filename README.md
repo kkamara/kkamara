@@ -204,6 +204,8 @@ Favourite radio: [talkSport](https://talksport.com/).
 
 Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2](https://www.youtube.com/@DjeasyMixmaster).
 
+[ASMR Metal](https://www.youtube.com/watch?v=BvOVJe94SZY).
+
 </details>
 
 <details>
