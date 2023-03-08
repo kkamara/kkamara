@@ -192,7 +192,7 @@ Favourite words: Socially, Pristine.
 
 Favourite radio: [talkSport](https://talksport.com/).
 
-[25 BPM - Metronome](https://www.youtube.com/watch?v=Bz_LW-SE6oM).
+[30 BPM - Metronome](https://www.youtube.com/watch?v=1xKK5u4c5sU&t=1295s) (half a second).
 
 [1 Hour of Finger Clicking (ASMR)](https://www.youtube.com/watch?v=JeD5V5aaaoI).
 
@@ -207,6 +207,8 @@ Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2
 [ASMR Metal](https://www.youtube.com/watch?v=BvOVJe94SZY).
 
 [PTSD Healing](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=share_link).
+
+[ASMR Rustling Sounds](https://www.youtube.com/watch?v=2LriGE-b8Ho&t=84s).
 
 </details>
 
