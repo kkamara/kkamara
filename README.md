@@ -210,6 +210,12 @@ Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2
 
 [ASMR Rustling Sounds](https://www.youtube.com/watch?v=2LriGE-b8Ho).
 
+[ASMR Humming](https://www.youtube.com/watch?v=KKrqPB3O46E).
+
+[ASMR Humming 2](https://www.youtube.com/watch?v=_dxbJ3CYsHg).
+
+[ASMR Humming 3](https://www.youtube.com/watch?v=NSWeqijT1nw).
+
 </details>
 
 <details>
