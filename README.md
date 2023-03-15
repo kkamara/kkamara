@@ -192,10 +192,6 @@ Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2
 
 [ASMR Humming](https://www.youtube.com/watch?v=KKrqPB3O46E).
 
-[ASMR Humming 2](https://www.youtube.com/watch?v=_dxbJ3CYsHg).
-
-[ASMR Humming 3](https://www.youtube.com/watch?v=NSWeqijT1nw).
-
 [Tropical Thunderstorm](https://www.youtube.com/watch?v=CRtLJ0dS6C4).
 
 [ASMR Birds Singing](https://www.youtube.com/watch?v=AtCuTQyqWGM) (x2+ with [vlc](https://www.videolan.org/) & `nohup vlc &`).
