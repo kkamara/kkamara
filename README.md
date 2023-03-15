@@ -172,33 +172,13 @@ Favourite football team: Arsenal.
 
 Favourite words: Socially, Pristine.
 
-[ASMR Triggers for Instant Sleep](https://www.youtube.com/watch?v=cUpFWyjalR4) (x2+ with [vlc](https://www.videolan.org/) & `nohup vlc &`).
-
-[ASMR Satisfying Water Sounds Compilation](https://www.youtube.com/watch?v=EQAx7Iuk7Fo).
-
-[Bell Metronome](https://www.youtube.com/watch?v=MzbauO_MmKE).
-
 [Audio Visualization](https://www.youtube.com/watch?v=t6jlhqNxRYk).
-
-[Pink noise](https://www.youtube.com/watch?v=8SHf6wmX5MU).
-
-[Brown noise](https://www.youtube.com/watch?v=UwullClrOuw).
-
-[Whip Sound Effect (1 Hour)](https://www.youtube.com/watch?v=1Ax_CwajF0s).
 
 [Business Conversation in English](https://www.youtube.com/watch?v=k_ofXhe_tEY).
 
 [Music for Work](https://www.youtube.com/watch?v=gwprBKVjnWI).
 
 Favourite radio: [talkSport](https://talksport.com/).
-
-[30 BPM - Metronome](https://www.youtube.com/watch?v=1xKK5u4c5sU) (half a second).
-
-[1 Hour of Finger Clicking (ASMR)](https://www.youtube.com/watch?v=JeD5V5aaaoI).
-
-[500 BPM - Metronome](https://www.youtube.com/watch?v=PvSq2XcuDfw).
-
-[ASMR People Shouting](https://www.youtube.com/watch?v=klJMNosyLPk).
 
 [Laugh Track Sound Effect](https://www.youtube.com/watch?v=ToOV5i8ym8o).
 
@@ -208,13 +188,19 @@ Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2
 
 [PTSD Healing](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=share_link).
 
-[ASMR Rustling Sounds](https://www.youtube.com/watch?v=2LriGE-b8Ho).
+[ASMR Rustling Sounds](https://www.youtube.com/watch?v=mwxAqjwakeE).
 
 [ASMR Humming](https://www.youtube.com/watch?v=KKrqPB3O46E).
 
 [ASMR Humming 2](https://www.youtube.com/watch?v=_dxbJ3CYsHg).
 
 [ASMR Humming 3](https://www.youtube.com/watch?v=NSWeqijT1nw).
+
+[ASMR Humming 3](https://www.youtube.com/watch?v=NSWeqijT1nw).
+
+[Tropical Thunderstorm](https://www.youtube.com/watch?v=CRtLJ0dS6C4).
+
+[ASMR 4 HOURS of Birds Singing in the Woods, No loop, 4K Cat TV, Relaxing Sound, Awesome World 030](https://www.youtube.com/watch?v=AtCuTQyqWGM) (x2+ with [vlc](https://www.videolan.org/) & `nohup vlc &`).
 
 </details>
 
