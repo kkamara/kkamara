@@ -202,6 +202,8 @@ Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2
 
 [ASMR 4 HOURS of Birds Singing in the Woods, No loop, 4K Cat TV, Relaxing Sound, Awesome World 030](https://www.youtube.com/watch?v=AtCuTQyqWGM) (x2+ with [vlc](https://www.videolan.org/) & `nohup vlc &`).
 
+[Rainforest Rain Sounds for Sleeping or Studying 🌧️ White Noise Rainstorm 10 Hours](https://www.youtube.com/watch?v=ubNfkpbxXUs).
+
 </details>
 
 <details>
