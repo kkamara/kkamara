@@ -198,6 +198,8 @@ Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2
 
 [Rainforest Rain Sounds](https://www.youtube.com/watch?v=ubNfkpbxXUs).
 
+[Rumbling Semi Truck Sleep Sound - 10 Hours - Black Screen](https://www.youtube.com/watch?v=ZACpt-xikIs).
+
 </details>
 
 <details>
