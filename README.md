@@ -200,6 +200,8 @@ Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2
 
 [Rumbling Semi Truck Sleep Sound - 10 Hours - Black Screen](https://www.youtube.com/watch?v=ZACpt-xikIs).
 
+[ASMR the Most IMMERSIVE Triggers Ever Recorded! Sleep & Tingles GUARANTEED! (Ear to Ear, No Talking)](https://www.youtube.com/watch?v=6liVElBusy4).
+
 </details>
 
 <details>
