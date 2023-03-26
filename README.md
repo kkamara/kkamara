@@ -184,25 +184,21 @@ Favourite radio: [talkSport](https://talksport.com/).
 
 Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2](https://www.youtube.com/@DjeasyMixmaster).
 
-[ASMR Metal](https://www.youtube.com/watch?v=BvOVJe94SZY).
-
 [PTSD Healing](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=share_link).
 
-[ASMR Rustling Sounds](https://www.youtube.com/watch?v=mwxAqjwakeE).
+[ASMR Rustling Sounds](https://www.youtube.com/watch?v=OzTOXc1KUA8) )x2+ with [vlc](https://www.videolan.org/) & `nohup vlc &`).
 
 [ASMR Humming](https://www.youtube.com/watch?v=KKrqPB3O46E).
 
 [Tropical Thunderstorm](https://www.youtube.com/watch?v=CRtLJ0dS6C4).
 
-[ASMR Birds Singing](https://www.youtube.com/watch?v=AtCuTQyqWGM) (x2+ with [vlc](https://www.videolan.org/) & `nohup vlc &`).
-
 [Rainforest Rain Sounds](https://www.youtube.com/watch?v=ubNfkpbxXUs).
 
 [Rumbling Semi Truck Sleep Sound - 10 Hours - Black Screen](https://www.youtube.com/watch?v=ZACpt-xikIs).
 
-[ASMR the Most IMMERSIVE Triggers Ever Recorded! Sleep & Tingles GUARANTEED! (Ear to Ear, No Talking)](https://www.youtube.com/watch?v=6liVElBusy4).
-
 ["This will annoy your neighbours"](https://www.youtube.com/watch?v=6liVElBusy4).
+
+[250 BPM - Metronome](https://www.youtube.com/watch?v=1J6qIbSKKmM).
 
 </details>
 
