@@ -204,6 +204,8 @@ Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2
 
 [1 Hour of Phone Vibrating](https://www.youtube.com/watch?v=QuDkSDsl7W8).
 
+[Killing Floor 2 Complete Instrumental Soundtrack Collection (June 2020)](https://www.youtube.com/watch?v=zO2jlP2V6DI).
+
 </details>
 
 <details>
