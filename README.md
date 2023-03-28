@@ -176,7 +176,7 @@ Favourite words: Socially, Pristine.
 
 [Business Conversation in English](https://www.youtube.com/watch?v=k_ofXhe_tEY).
 
-[Music for Work](https://www.youtube.com/watch?v=V27VS8XfO1w).
+[Music for Work](https://www.youtube.com/watch?v=OzzBrw3gqHk).
 
 Favourite radio: [talkSport](https://talksport.com/).
 
@@ -199,6 +199,8 @@ Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2
 ["This will annoy your neighbours"](https://www.youtube.com/watch?v=6liVElBusy4).
 
 [250 BPM - Metronome](https://www.youtube.com/watch?v=1J6qIbSKKmM).
+
+[Bell Metronome : 250 BPM - Beats Per Minute](https://www.youtube.com/watch?v=WCarlqDpeVE).
 
 </details>
 
