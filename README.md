@@ -170,43 +170,11 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal.
 
-Favourite words: Socially, Pristine.
+Favourite radios: [TalkSport](https://talksport.com/), [Rinse FM](https://www.radioplayeruk.com/radio/urban/rinsefm.php), [Easy Listening Radio](https://www.radioplayeruk.com/radio/easylistening/index.php).
 
-[Audio Visualization](https://www.youtube.com/watch?v=t6jlhqNxRYk).
+[Fractal Animations](https://www.youtube.com/watch?v=t6jlhqNxRYk).
 
-[Business Conversation in English](https://www.youtube.com/watch?v=k_ofXhe_tEY).
-
-[Music for Work](https://www.youtube.com/watch?v=OzzBrw3gqHk).
-
-Favourite radio: [talkSport](https://talksport.com/).
-
-[Laugh Track Sound Effect](https://www.youtube.com/watch?v=ToOV5i8ym8o).
-
-Favourite music: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2](https://www.youtube.com/@DjeasyMixmaster).
-
-[PTSD Healing](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=share_link).
-
-[ASMR Rustling Sounds](https://www.youtube.com/watch?v=OzTOXc1KUA8) )x2+ with [vlc](https://www.videolan.org/) & `nohup vlc &`).
-
-[ASMR Humming](https://www.youtube.com/watch?v=KKrqPB3O46E).
-
-[Tropical Thunderstorm](https://www.youtube.com/watch?v=CRtLJ0dS6C4).
-
-[Rainforest Rain Sounds](https://www.youtube.com/watch?v=ubNfkpbxXUs).
-
-[Rumbling Semi Truck Sleep Sound - 10 Hours - Black Screen](https://www.youtube.com/watch?v=ZACpt-xikIs).
-
-["This will annoy your neighbours"](https://www.youtube.com/watch?v=6liVElBusy4).
-
-[250 BPM - Metronome](https://www.youtube.com/watch?v=1J6qIbSKKmM).
-
-[Bell Metronome : 250 BPM - Beats Per Minute](https://www.youtube.com/watch?v=WCarlqDpeVE).
-
-[1 Hour of Phone Vibrating](https://www.youtube.com/watch?v=QuDkSDsl7W8).
-
-[Killing Floor 2 Complete Instrumental Soundtrack Collection (June 2020)](https://www.youtube.com/watch?v=zO2jlP2V6DI).
-
-[ASMR Super Crunchy Clay Cracking (No Talking)](https://www.youtube.com/watch?v=u1Ask3TrSv4).
+[Bells](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=share_link).
 
 </details>
 
