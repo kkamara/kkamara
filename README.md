@@ -170,7 +170,7 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal.
 
-Favourite radios: [TalkSport](https://talksport.com/), [Rinse FM](https://www.radioplayeruk.com/radio/urban/rinsefm.php), [Easy Listening Radio](https://www.radioplayeruk.com/radio/easylistening/index.php).
+Favourite radios: [TalkSport](https://talksport.com/),  [Rinse FM](https://www.radioplayeruk.com/radio/urban/rinsefm.php), [Tranquil Music](https://www.youtube.com/@Valdiviation), [Easy Listening Radio](https://www.radioplayeruk.com/radio/easylistening/index.php).
 
 [Fractal Animations](https://www.youtube.com/watch?v=t6jlhqNxRYk).
 
