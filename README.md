@@ -170,7 +170,7 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal.
 
-Favourite radios: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2](https://www.youtube.com/@DjeasyMixmaster),  [Rinse FM](https://www.radioplayeruk.com/radio/urban/rinsefm.php), [Tranquil Music](https://www.youtube.com/@Valdiviation), [TalkSport](https://talksport.com/), [Easy Listening Radio](https://www.radioplayeruk.com/radio/easylistening/index.php).
+Favourite radios: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2](https://www.youtube.com/@DjeasyMixmaster), [Greenred Productions](https://www.youtube.com/@GreenredProductions/videos), [TalkSport](https://talksport.com/).
 
 [Fractal Animations](https://www.youtube.com/watch?v=t6jlhqNxRYk).
 
