@@ -1,4 +1,5 @@
 ## <img src="https://github.com/kkamara/useful/raw/main/www.kelvinkamara.com.png" alt="www.kelvinkamara.com.png" width=""/> ![visitors](https://komarev.com/ghpvc/?username=kkamara&color=blueviolet&style=for-the-badge)
++447956666734 | kamaracomputers@gmail.com
 
 > <p>Hi</p>
 >
