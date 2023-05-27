@@ -7,7 +7,6 @@
 >
 ><p>From my time as the lead developer at Jobsender. I am outgoing, tactful and capable of listening effectively when solving problems. Most importantly - I am dedicated and committed to performing to the best ability. I am a person who strives to complete personal and team goals.</p>
 >
-><p>I have over 10 years programming experience working with unix systems to a high level. I have enjoyed working with both monolithic and microservice applications.</p>
 >
 ><p>I am a firm believer in using the right tool for the job. Specializing in backend server development I was fortunate to achieve a UK government award for my work with secure web systems.</p>
 >
@@ -179,7 +178,7 @@ Favourite radios: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy
 
 [Free Text To Speech Reader Online](https://ttsreader.com).
 
-[YouTube Video Downloader Online](https://www.ytbvideoly.com/d10-home/).
+[YouTube Video and Audio Downloader Online](https://www.ytbvideoly.com/d10-home/).
 
 </details>
 
