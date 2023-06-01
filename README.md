@@ -51,7 +51,7 @@ Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 * https://github.com/kkamara/playground/blob/main/go/wait-groups/main.go
 * https://github.com/kkamara/playground/blob/main/js/descending-order/test.spec.js
 * https://github.com/kkamara/playground/blob/main/js/template-literal/test.spec.js
-* https://www.youtube.com/watch?v=q1fsBWLpYW4
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/popover
 
 </details>
 
