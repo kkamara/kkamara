@@ -53,6 +53,7 @@ Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 <summary>
   My gists:
 </summary>
+<details>
 
 * https://gist.github.com/kkamara
 
