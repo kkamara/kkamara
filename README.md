@@ -42,6 +42,7 @@ Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
   Interview Prep:
 </summary>
 
+* https://phptherightway.com/
 * https://www.youtube.com/watch?v=NeeBXWbQvJE
 * https://github.com/kkamara/playground/tree/main/py
 * https://github.com/kkamara/playground/tree/main/php
@@ -50,6 +51,7 @@ Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 * https://github.com/kkamara/playground/blob/main/go/wait-groups/main.go
 * https://github.com/kkamara/playground/blob/main/js/descending-order/test.spec.js
 * https://github.com/kkamara/playground/blob/main/js/template-literal/test.spec.js
+* https://www.youtube.com/watch?v=q1fsBWLpYW4
 
 </details>
 
