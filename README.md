@@ -32,16 +32,15 @@ Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 <summary>
   Premium templates:
 </summary>
-<details>
 
 * https://github.com/kkamara/premium-artist-cms-template
 
 </details>
+
 <details>
 <summary>
   Interview Prep:
 </summary>
-<details>
 
 * https://www.youtube.com/watch?v=NeeBXWbQvJE
 * https://github.com/kkamara/playground/blob/main/go/fibonacci/main.go
@@ -50,12 +49,9 @@ Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 </details>
 
 <details>
-
-<details>
 <summary>
   My gists:
 </summary>
-<details>
 
 * https://gist.github.com/kkamara
 
