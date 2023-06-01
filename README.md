@@ -33,9 +33,21 @@ Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
   Premium templates:
 </summary>
 
+<summary>
+
 * https://github.com/kkamara/premium-artist-cms-template
 
 </details>
+  Interview Prep:
+</summary>
+
+* https://www.youtube.com/watch?v=NeeBXWbQvJE
+* https://github.com/kkamara/playground/blob/main/go/fibonacci/main.go
+* https://github.com/kkamara/playground/blob/main/go/projectsearcher/main.go
+
+</details>
+
+<details>
 
 <details>
 <summary>
