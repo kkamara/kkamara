@@ -254,7 +254,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/react-boilerplate'>react-boilerplate</a>
     </td>
     <td>
-      <img height='150' src='https://camo.githubusercontent.com/98c5bcbc0af0a7eff2d14a8dbadb544cbe54851074015905cfbb501004b308cf/68747470733a2f2f636f6465647468656d65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f6564642f323032322f30352f4d6174657269616c6c792d52656163744a532d41646d696e2d44617368626f6172642e77656270' />
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png' />
       <br/>
       <a href='https://github.com/kkamara/desktop-react-boilerplate'>desktop-react-boilerplate</a>
     </td>
