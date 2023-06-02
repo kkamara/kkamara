@@ -1,4 +1,4 @@
-## <img src="https://github.com/kkamara/useful/raw/main/www.kelvinkamara.com.png" alt="www.kelvinkamara.com.png" width=""/> 
+<img src="https://github.com/kkamara/useful/raw/main/www.kelvinkamara.com.png" alt="www.kelvinkamara.com.png" width=""/> 
 
 [![Web](https://img.shields.io/badge/-Web-black?style=for-the-badge&labelColor=white&logo=internet-explorer&logoColor=black)](#) [![Mobile](https://img.shields.io/badge/-Mobile-black?style=for-the-badge&labelColor=white&logo=android&logoColor=black)](#) [![Desktop](https://img.shields.io/badge/-Desktop-black?style=for-the-badge&labelColor=white&logo=whatsapp&logoColor=black)](#) [![Embedded Devices](https://img.shields.io/badge/-Embedded%20Devices-black?style=for-the-badge&labelColor=white&logo=youtube&logoColor=black)](#)
 
