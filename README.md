@@ -191,11 +191,7 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal.
 
-Favourite radios: [DJ Easy](https://www.youtube.com/@DjeasyMuzikRyder), [DJ Easy2](https://www.youtube.com/@DjeasyMixmaster), [Greenred Productions](https://www.youtube.com/@GreenredProductions/videos), [TalkSport](https://talksport.com).
-
-[Fractal Animations](https://www.youtube.com/watch?v=t6jlhqNxRYk).
-
-[Bells](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=share_link).
+Favourite music: Electronic.
 
 [Free Text To Speech Reader Online](https://ttsreader.com).
 
