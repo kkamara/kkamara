@@ -191,7 +191,7 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal.
 
-Favourite music: Electronic.
+Favourite music: Electronic (https://www.youtube.com/@SensationmusicBlack/playlists).
 
 [Free Text To Speech Reader Online](https://ttsreader.com).
 
