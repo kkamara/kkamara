@@ -23,6 +23,8 @@ I didn't go to university.
 
 Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 
+[Python is an interpreted, high-level, general-purpose programming language.](https://endoflife.date/python)
+
 [Desktop 2023.](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
 
 [Responsive todo app with react 18 and light and dark theme switch.](https://kkamara.github.io/todo-app)
