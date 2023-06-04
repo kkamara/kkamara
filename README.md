@@ -236,9 +236,9 @@ https://kelvinkamara.com
   </tr>
   <tr>
     <td>
-      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/crm.png' />
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png' />
       <br/>
-      <a href='https://github.com/kkamara/django-react-boilerplate'>web-react-boilerplate</a>
+      <a href='https://github.com/kkamara/python-react-boilerplate'>python-react-boilerplate</a>
     </td>
     <td>
       <img height='150' src='https://github.com/kkamara/useful/raw/main/lrb.png' />
