@@ -269,7 +269,7 @@ https://kelvinkamara.com
     <td>
       <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/selenium-py.png' />
       <br/>
-      <a href='https://github.com/kkamara/selenium-py'>selenium-py</a>
+      <a href='https://github.com/kkamara/python-selenium'>python-selenium</a>
     </td>
   </tr>
 </table>
