@@ -194,6 +194,9 @@ Height: 6 foot 4 inches.
 Favourite football team: Arsenal.
 
 Favourite music: Electronic (https://www.youtube.com/@SensationmusicBlack/playlists).
+  
+> The track that got me into SensationmusicBlack was [DJ Gvozd - Pirate Station 1121 - 05 May 2023 | Гвоздь Пиратская Станция
+> ](https://www.youtube.com/watch?v=DwSp8pYT_L8) and [Raphaël Marionneau - Abstrait 463 - 10 October 2022 | chill-out, ambient, easy listening, relaxing](https://www.youtube.com/watch?v=S8CszBEzsbk).
 
 [Free Text To Speech Reader Online](https://ttsreader.com).
 
