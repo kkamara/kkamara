@@ -23,7 +23,7 @@ I didn't go to university.
 
 Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 
-[Python is an interpreted, high-level, general-purpose programming language.](https://endoflife.date/python)
+[The United Kingdom works with Python as an interpreted, high-level, general-purpose programming language.](https://endoflife.date/python)
 
 [Desktop 2023.](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
 
