@@ -160,7 +160,7 @@ Vimrc:
 https://github.com/kkamara/useful/blob/main/vimrc
 </details>
 
-<details>
+<details open>
 <summary>
 Pictures:
 </summary>
