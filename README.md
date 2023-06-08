@@ -202,6 +202,8 @@ Favourite music: Electronic (https://www.youtube.com/@SensationmusicBlack/playli
 
 [YouTube Video and Audio Downloader Online](https://www.ytbvideoly.com/d10-home/).
 
+[Binaural Beats Explained (see description for 5 different wave types).](https://www.youtube.com/watch?v=p1HasPl3QvU)
+
 </details>
 
 <details>
