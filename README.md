@@ -23,6 +23,11 @@ I didn't go to university.
 
 Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 
+```bash
+# Search repos with the search input on github.com (Github API)
+user:kkamara in:readme node.js
+```
+
 [The United Kingdom works with Python as an interpreted, high-level, general-purpose programming language.](https://endoflife.date/python)
 
 [Desktop 2023.](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
