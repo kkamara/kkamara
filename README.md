@@ -204,6 +204,8 @@ Favourite music: Electronic (https://www.youtube.com/@SensationmusicBlack/playli
 
 [Binaural Beats Explained (see description for 5 different wave types).](https://www.youtube.com/watch?v=p1HasPl3QvU)
 
+[What is bilateral music?](https://www.ementalhealth.ca/Waterloo-Regional-Municipality/Bilateral-Music-for-Anxiety-Stress-and-Trauma/index.php?m=article&ID=84502)
+
 </details>
 
 <details>
