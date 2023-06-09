@@ -260,4 +260,28 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/node-react-boilerplate'>javascript-nodejs-react-boilerplate</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/selenium-py.png' />
+      <br/>
+      <a href='https://github.com/kkamara/github-to-bitbucket-backup-repo-updater'>github-to-bitbucket-backup-repo-updater</a>
+    </td>
+    <td>
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png' />
+      <br/>
+      <a href='https://github.com/kkamara/debian-linux-desktop-setup'>debian-linux-desktop-setup</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/selenium-py.png' />
+      <br/>
+      <a href='https://github.com/kkamara/nodejs-scraper'>nodejs-scraper</a>
+    </td>
+    <td>
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/team-component.png' />
+      <br/>
+      <a href='https://github.com/kkamara/team-component'>team-component</a>
+    </td>
+  </tr>
 </table>
