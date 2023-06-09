@@ -290,5 +290,15 @@ https://kelvinkamara.com
       <br/>
       <a href='https://github.com/kkamara/team-component'>team-component</a>
     </td>
+    <td>
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/js-workspace.png' />
+      <br/>
+      <a href='https://github.com/kkamara/blockchain'>blockchain</a>
+    </td>
+    <td>
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/js-workspace.png' />
+      <br/>
+      <a href='https://github.com/kkamara/cpp'>C++</a>
+    </td>
   </tr>
 </table>
