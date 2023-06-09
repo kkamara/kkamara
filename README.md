@@ -58,8 +58,21 @@ user:kkamara in:readme node.js
 
 <details>
 <summary>
+  Production Best Practices: Security
+</summary>
+
+* [Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
+* [Forms, File Uploads and Security with Node.js and Express](Forms, File Uploads and Security with Node.js and Express)
+* [The Open Worldwide Application Security Project (OWASP)](https://en.wikipedia.org/wiki/OWASP)
+* [The Modern JavaScript Tutorial](https://github.com/javascript-tutorial/en.javascript.info)
+* [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y).
+
+</details>
+
+<summary>
   Interview Prep:
 </summary>
+<details>
 
 * https://phptherightway.com/
 * https://www.youtube.com/watch?v=NeeBXWbQvJE
