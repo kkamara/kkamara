@@ -219,3 +219,45 @@ Donate:
 </summary>
 https://kelvinkamara.com
 </details>
+
+<table>
+  <tr>
+    <td colspan="2">Featured projects</td>
+  </tr>
+  <tr>
+    <td>
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light-2.png' />
+      <br/>
+      <a href='https://github.com/kkamara/kelvinkamara.com'>kelvinkamara.com</a>
+    </td>
+    <td>
+      <img height='150' src='https://github.com/kkamara/premium-artist-cms-template/raw/main/premium-artist-cms-theme/admin/dashboard.png' />
+      <br/>
+      <a href='https://github.com/kkamara/premium-artist-cms-template'>premium-artist-cms-template</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/wordpress.png' />
+      <br/>
+      <a href='https://github.com/kkamara/wordpress'>wordpress</a>
+    </td>
+    <td>
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png' />
+      <br/>
+      <a href='https://github.com/kkamara/python-react-boilerplate'>python-react-boilerplate</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/selenium-py.png' />
+      <br/>
+      <a href='https://github.com/kkamara/python-selenium'>python-selenium</a>
+    </td>
+    <td>
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png' />
+      <br/>
+      <a href='https://github.com/kkamara/node-react-boilerplate'>node-react-boilerplate</a>
+    </td>
+  </tr>
+</table>
