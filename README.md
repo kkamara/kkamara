@@ -252,7 +252,7 @@ https://kelvinkamara.com
     <td>
       <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/selenium-py.png' />
       <br/>
-      <a href='https://github.com/kkamara/python-selenium'>python-selenium</a>
+      <a href='https://github.com/kkamara/python-selenium'>python-selenium-web-scraper</a>
     </td>
     <td>
       <img height='150' src='https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png' />
@@ -262,7 +262,7 @@ https://kelvinkamara.com
   </tr>
   <tr>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/selenium-py.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/js-workspace.png' />
       <br/>
       <a href='https://github.com/kkamara/github-to-bitbucket-backup-repo-updater'>github-to-bitbucket-backup-repo-updater</a>
     </td>
@@ -274,9 +274,9 @@ https://kelvinkamara.com
   </tr>
   <tr>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/selenium-py.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/js-workspace.png' />
       <br/>
-      <a href='https://github.com/kkamara/nodejs-scraper'>nodejs-scraper</a>
+      <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
     <td>
       <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/team-component.png' />
