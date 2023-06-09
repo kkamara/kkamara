@@ -47,6 +47,15 @@ user:kkamara in:readme node.js
 
 </details>
 
+<details open>
+<summary>
+  UK Government Recognition Award:
+</summary>
+
+![government award](https://www.kelvinkamara.com/award.jpg)
+
+</details>
+
 <details>
 <summary>
   Interview Prep:
