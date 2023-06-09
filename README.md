@@ -231,7 +231,7 @@ https://kelvinkamara.com
 
 <table>
   <tr>
-    <td colspan="2">Featured projects</td>
+    <td colspan="3">Featured projects</td>
   </tr>
   <tr>
     <td>
@@ -244,20 +244,18 @@ https://kelvinkamara.com
       <br/>
       <a href='https://github.com/kkamara/premium-artist-cms-template'>premium-artist-cms-template</a>
     </td>
-  </tr>
-  <tr>
     <td>
       <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/wordpress.png' />
       <br/>
       <a href='https://github.com/kkamara/wordpress'>wordpress</a>
     </td>
+  </tr>
+  <tr>
     <td>
       <img height='150' src='https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png' />
       <br/>
       <a href='https://github.com/kkamara/python-react-boilerplate'>python-react-boilerplate</a>
     </td>
-  </tr>
-  <tr>
     <td>
       <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/selenium-py.png' />
       <br/>
@@ -280,13 +278,13 @@ https://kelvinkamara.com
       <br/>
       <a href='https://github.com/kkamara/debian-linux-desktop-setup'>debian-linux-desktop-setup</a>
     </td>
-  </tr>
-  <tr>
     <td>
       <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/js-workspace.png' />
       <br/>
       <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
+  </tr>
+  <tr>
     <td>
       <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/team-component.png' />
       <br/>
