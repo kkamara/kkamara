@@ -6,6 +6,8 @@
 
 +447956666734 | kamaracomputers@gmail.com | www.kelvinkamara.com
 
+<img src="https://github.com/kkamara/useful/blob/main/profile.jpeg?raw=true" alt="profile.jpeg" width="50"/> <img src="https://github.com/kkamara/useful/blob/main/profile2.jpg?raw=true" alt="profile2.jpg" width="50"/> <img src="https://github.com/kkamara/useful/blob/main/profile3.jpg?raw=true" alt="profile3.jpg" width="50"/>
+
 > <p>Hi</p>
 >
 > <p>Born & raised in south east London, I have excellent it skills. I am a great time keeper with outstanding organisational skills. I am also always willing to learn new skills. I am friendly, helpful and polite, with a good sense of humour. I am able to work both independently and in busy teams.</p>
