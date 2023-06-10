@@ -60,6 +60,18 @@ user:kkamara in:readme node.js
 
 <details>
 <summary>
+  The best IDEs (Integration Development Environment):
+</summary>
+
+* [Notepad++ (Windows)](https://expressjs.com/en/advanced/best-practice-security.html)
+* [TextMate (macOs)](https://macromates.com/)
+* [Geany (Ubuntu Linux, Windows, macOs)](https://www.geany.org/)
+* [Netbeans (Java, Javascript, PhP)](https://netbeans.apache.org/).
+
+</details>
+
+<details>
+<summary>
   Production Best Practices: Security
 </summary>
 
