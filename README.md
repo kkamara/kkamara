@@ -63,7 +63,6 @@ user:kkamara in:readme node.js
   The best IDEs (Integration Development Environment):
 </summary>
 
-* [Eclipse (Ubuntu Linux, Windows, macOs)](https://eclipseide.org/)
 * [Notepad++ (Windows)](https://expressjs.com/en/advanced/best-practice-security.html)
 * [TextMate (macOs)](https://macromates.com/).
 
