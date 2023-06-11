@@ -58,14 +58,14 @@ user:kkamara in:readme node.js
 
 </details>
 
-<details>
+<details open>
 <summary>
   The best IDEs (Integration Development Environment):
 </summary>
 
+* [Eclipse (Ubuntu Linux, Windows, macOs)](https://eclipseide.org/)
 * [Notepad++ (Windows)](https://expressjs.com/en/advanced/best-practice-security.html)
-* [TextMate (macOs)](https://macromates.com/)
-* [Eclipse (Ubuntu Linux, Windows, macOs)](https://eclipseide.org/).
+* [TextMate (macOs)](https://macromates.com/).
 
 </details>
 
