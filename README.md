@@ -65,7 +65,7 @@ user:kkamara in:readme node.js
 
 * [Notepad++ (Windows)](https://expressjs.com/en/advanced/best-practice-security.html)
 * [TextMate (macOs)](https://macromates.com/)
-* [Geany (Ubuntu Linux, Windows, macOs) (activate Project Organiser or File Browser plugins](https://www.geany.org/).
+* [Eclipse (Ubuntu Linux, Windows, macOs)](https://eclipseide.org/).
 
 </details>
 
