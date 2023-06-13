@@ -63,8 +63,9 @@ user:kkamara in:readme node.js
   The best IDEs (Integration Development Environment):
 </summary>
 
-* [Notepad++ (Windows)](https://expressjs.com/en/advanced/best-practice-security.html)
-* [TextMate (macOs)](https://macromates.com/).
+* [Notepad++ (Windows)](https://notepad-plus-plus.org/)
+* [TextMate (macOs)](https://macromates.com/)
+* [Sublime Text (Windows, macOs, Ubuntu Linux) (written in C++, Python)](https://www.sublimetext.com/).
 
 </details>
 
