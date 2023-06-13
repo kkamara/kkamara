@@ -65,7 +65,9 @@ user:kkamara in:readme node.js
 
 * [Notepad++ (Windows)](https://notepad-plus-plus.org/)
 * [TextMate (macOs)](https://macromates.com/)
-* [Sublime Text (Windows, macOs, Ubuntu Linux) (written in C++, Python)](https://www.sublimetext.com/).
+* [Sublime Text (Windows, macOs, Ubuntu Linux) (written in C++, Python)](https://www.sublimetext.com/)
+* [vscode-install-extensions.sh](https://github.com/kkamara/useful/blob/main/vscode-install-extensions.sh)
+* [vscode-settings.json](https://github.com/kkamara/useful/blob/main/vscode-settings.json).
 
 </details>
 
