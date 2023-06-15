@@ -32,6 +32,8 @@ user:kkamara in:readme node.js
 
 [The United Kingdom works with Python as an interpreted, high-level, general-purpose programming language.](https://endoflife.date/python)
 
+[Node.js is an open-source, cross-platform JavaScript run-time environment built on Chrome’s V8 JavaScript engine that executes JavaScript code outside a browser.](https://endoflife.date/nodejs)
+
 [Desktop 2023.](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
 
 [Responsive todo app with react 18 and light and dark theme switch.](https://kkamara.github.io/todo-app)
