@@ -40,6 +40,8 @@ user:kkamara in:readme node.js
 
 [I built Premium Artist CMS Template in two weeks back in early 2020.](https://github.com/kkamara/premium-artist-cms-template#premium-artist-cms-template)
 
+[Building the MRVL (15 Jun 23) desktop app](https://github.com/kkamara/useful/blob/main/mrvl-desktop-building5.png) ([MRVL desktop](https://github.com/kkamara/mrvl-desktop)) ([MRVL web](https://github.com/kkamara/mrvl)).
+
 [Crawl and click buttons on websites with gui.](https://github.com/kkamara/php-scraper#php-scraper)
 
 <details>
