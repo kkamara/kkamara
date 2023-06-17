@@ -242,6 +242,7 @@ https://bitbucket.org/kkamara2
 <summary>
 Misc:
 </summary>
+
 Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal.
