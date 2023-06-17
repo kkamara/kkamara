@@ -30,7 +30,9 @@ Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 
 ```bash
 # Search operators that you can use with Gmail.
+# Unread emails
 label:read
+# Today unread emails
 # label:read newer:month-day-year
 label:unread newer:06-17-23
 ```
