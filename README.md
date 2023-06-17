@@ -246,15 +246,6 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal.
 
-Favourite music: Electronic...
-
-* [Good Vibes Only - Chillout • House • Funk | LTB Radio 24/7](https://www.youtube.com/watch?v=nqPKYY7mE7A)
-
-* [SensationmusicBlack](https://www.youtube.com/@SensationmusicBlack/playlists)
-
-> The track that got me into SensationmusicBlack was [DJ Gvozd - Pirate Station 1121 - 05 May 2023 | Гвоздь Пиратская Станция
-> ](https://www.youtube.com/watch?v=DwSp8pYT_L8) and [Raphaël Marionneau - Abstrait 463 - 10 October 2022 | chill-out, ambient, easy listening, relaxing](https://www.youtube.com/watch?v=S8CszBEzsbk).
-
 [Free Text To Speech Reader Online](https://ttsreader.com).
 
 [YouTube Video and Audio Downloader Online](https://www.ytbvideoly.com/d10-home/).
@@ -262,6 +253,8 @@ Favourite music: Electronic...
 [Binaural Beats Explained (see description for 5 different wave types).](https://www.youtube.com/watch?v=p1HasPl3QvU)
 
 [What is bilateral music?](https://www.ementalhealth.ca/Waterloo-Regional-Municipality/Bilateral-Music-for-Anxiety-Stress-and-Trauma/index.php?m=article&ID=84502)
+
+I remove related videos and comments with [YouTube magic options](https://www.chromeactions.com/) (referring to YouTube video playing page).
 
 </details>
 
