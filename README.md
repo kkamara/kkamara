@@ -50,7 +50,7 @@ user:kkamara in:readme node.js
 
 [Responsive todo app with react 18 and light and dark theme switch.](https://kkamara.github.io/todo-app)
 
-[I built Premium Artist CMS Template in two weeks back in early 2020.](https://github.com/kkamara/premium-artist-cms-template#premium-artist-cms-template)
+[I built Premium Artist CMS Template in one week in early 2020.](https://github.com/kkamara/premium-artist-cms-template#premium-artist-cms-template)
 
 [Building the MRVL (15 Jun 23) desktop app](https://github.com/kkamara/useful/blob/main/mrvl-desktop-building5.png) ([MRVL desktop](https://github.com/kkamara/mrvl-desktop)) ([MRVL web](https://github.com/kkamara/mrvl)).
 
