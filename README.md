@@ -270,6 +270,8 @@ Favourite football team: Arsenal.
 
 I remove related videos and comments with [YouTube magic options](https://www.chromeactions.com/) (referring to YouTube video playing page).
 
+Favourite music: [EDM Remixes of Popular Songs](https://www.youtube.com/watch?v=G0x6DJ9eVsM).
+
 </details>
 
 <details>
