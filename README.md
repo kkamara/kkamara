@@ -4,7 +4,7 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=kkamara&color=blueviolet&style=for-the-badge)
 
-+447956666734 | kamaracomputers@gmail.com | www.kelvinkamara.com
++447956694595 | kamaracomputers@gmail.com | www.kelvinkamara.com
 
 <img src="https://github.com/kkamara/useful/blob/main/profile.jpeg?raw=true" alt="profile.jpeg" width="50"/> <img src="https://github.com/kkamara/useful/blob/main/profile2.jpg?raw=true" alt="profile2.jpg" width="50"/> <img src="https://github.com/kkamara/useful/blob/main/profile3.jpg?raw=true" alt="profile3.jpg" width="50"/>
 
