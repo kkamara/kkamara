@@ -233,9 +233,12 @@ Pictures:
 
 <details>
 <summary>
-Version control backup:
+Version control:
 </summary>
-https://bitbucket.org/kkamara2
+
+* [Github](https://github.com/kkamara/kkamara)
+* [Bitbucket](https://bitbucket.org/kkamara2)
+
 </details>
 
 <details>
