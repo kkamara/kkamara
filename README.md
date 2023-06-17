@@ -1,6 +1,6 @@
 <img src="https://github.com/kkamara/useful/raw/main/www.kelvinkamara.com.png" alt="www.kelvinkamara.com.png" width=""/> 
 
-This is the programmer page ([Github](https://www.github.com/kkamara)) ([Bitbucket](https://bitbucket.org/kkamara2)).
+Programmer pages: ([Github](https://www.github.com/kkamara)), ([Bitbucket](https://bitbucket.org/kkamara2)).
 
 [![Web](https://img.shields.io/badge/-Web-black?style=for-the-badge&labelColor=white&logo=internet-explorer&logoColor=black)](#) [![Mobile](https://img.shields.io/badge/-Mobile-black?style=for-the-badge&labelColor=white&logo=android&logoColor=black)](#) [![Desktop](https://img.shields.io/badge/-Desktop-black?style=for-the-badge&labelColor=white&logo=whatsapp&logoColor=black)](#) [![Embedded Devices](https://img.shields.io/badge/-Embedded%20Devices-black?style=for-the-badge&labelColor=white&logo=youtube&logoColor=black)](#)
 
