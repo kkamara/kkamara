@@ -30,9 +30,9 @@ Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 
 ```bash
 # Search operators that you can use with Gmail.
-label:unread
-# label:read after:00:01 newer:month-day-year
-label:read after:00:01 newer:06-16-23
+label:read
+# label:read newer:month-day-year
+label:unread newer:06-17-23
 ```
 
 ```bash
