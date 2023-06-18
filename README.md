@@ -46,7 +46,7 @@ user:kkamara in:readme node.js
 
 [Node.js is an open-source, cross-platform JavaScript run-time environment built on Chrome’s V8 JavaScript engine that executes JavaScript code outside a browser.](https://endoflife.date/nodejs)
 
-[Desktop 2023.](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
+[Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png) [(extra)](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33).
 
 [Responsive todo app with react 18 and light and dark theme switch.](https://kkamara.github.io/todo-app)
 
