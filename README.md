@@ -56,6 +56,8 @@ user:kkamara in:readme node.js
 
 [Building the MRVL (15 Jun 23) desktop app 2](https://github.com/kkamara/useful/blob/main/mrvl-desktop-building6.png).
 
+[Building the MRVL (15 Jun 23) desktop app 3](https://github.com/kkamara/useful/blob/main/mrvl-desktop-building7.png).
+
 [Crawl and click buttons on websites with gui.](https://github.com/kkamara/php-scraper#php-scraper)
 
 <details>
