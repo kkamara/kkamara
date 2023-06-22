@@ -83,8 +83,9 @@ user:kkamara in:readme node.js
   The best IDEs (Integration Development Environment):
 </summary>
 
-* [Eclipse (Windows, macOs, Ubuntu Linux) (The Leading Open Platform for
-Professional Developers)](https://eclipseide.org/)
+I am working with [Visual Studio Code](https://code.visualstudio.com/) (written in Javascript).
+
+* [Eclipse (Windows, macOs, Ubuntu Linux) (The Leading Open Platform for Professional Developers)](https://eclipseide.org/)
 * [Notepad++ (Windows)](https://notepad-plus-plus.org/)
 * [TextMate (macOs)](https://macromates.com/)
 * [Sublime Text (Windows, macOs, Ubuntu Linux) (written in C++, Python)](https://www.sublimetext.com/)
