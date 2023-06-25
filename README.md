@@ -1,4 +1,4 @@
-<img src="https://github.com/kkamara/useful/raw/main/www.kelvinkamara.com.png" alt="www.kelvinkamara.com.png" width=""/> 
+<img src="https://github.com/kkamara/useful/raw/main/business-systems.png" alt="business-systems.png" width=""/> 
 
 Programmer pages: [Github](https://www.github.com/kkamara), [Bitbucket](https://bitbucket.org/kkamara2).
 
