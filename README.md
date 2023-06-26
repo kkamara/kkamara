@@ -27,6 +27,7 @@ I didn't go to university.
 
 Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
 
+Google me at Kelvin award developer and Kamara award developer.
 
 ```bash
 # Search operators that you can use with Gmail.
