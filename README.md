@@ -274,7 +274,7 @@ Favourite football team: Arsenal.
 
 [What is bilateral music?](https://www.ementalhealth.ca/Waterloo-Regional-Municipality/Bilateral-Music-for-Anxiety-Stress-and-Trauma/index.php?m=article&ID=84502)
 
-I remove related videos and comments with [YouTube magic options](https://www.chromeactions.com/) (referring to YouTube video playing page).
+I remove live chat and comments with [YouTube magic options](https://www.chromeactions.com/) (referring to YouTube video playing page).
 
 Favourite music: [EDM Remixes of Popular Songs](https://www.youtube.com/watch?v=G0x6DJ9eVsM).
 
