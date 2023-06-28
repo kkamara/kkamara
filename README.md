@@ -84,7 +84,7 @@ user:kkamara in:readme node.js
   The best IDEs (Integration Development Environment):
 </summary>
 
-I am working with [Visual Studio Code](https://code.visualstudio.com/) (written in Javascript).
+I am working with Eclipse.
 
 * [Eclipse (Windows, macOs, Ubuntu Linux) (The Leading Open Platform for Professional Developers)](https://eclipseide.org/)
 * [Notepad++ (Windows)](https://notepad-plus-plus.org/)
