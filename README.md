@@ -84,7 +84,7 @@ user:kkamara in:readme node.js
   The best IDEs (Integration Development Environment):
 </summary>
 
-I am working with [Neovim](https://neovim.io/).
+I am working with [Vim](https://www.vim.org/).
 
 * [Eclipse (Windows, macOs, Ubuntu Linux) (The Leading Open Platform for Professional Developers)](https://eclipseide.org/)
 * [Notepad++ (Windows)](https://notepad-plus-plus.org/)
