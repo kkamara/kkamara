@@ -328,12 +328,12 @@ https://kelvinkamara.com
   </tr>
   <tr>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-building4.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-building5.png' />
       <br/>
-      <a href='https://github.com/kkamara/github-to-bitbucket-backup-repo-updater'>github-to-bitbucket-backup-repo-updater</a>
+      <a href='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-building4.png'>github-to-bitbucket-backup-repo-updater</a>
     </td>
     <td>
-      <img height='150' src='https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-building5.png' />
       <br/>
       <a href='https://github.com/kkamara/debian-linux-desktop-setup'>debian-linux-desktop-setup</a>
     </td>
