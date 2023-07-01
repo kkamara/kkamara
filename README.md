@@ -84,7 +84,7 @@ user:kkamara in:readme node.js
   The best IDEs (Integration Development Environment):
 </summary>
 
-I am working with [Vim](https://www.vim.org/).
+I am working with [Visual Studio Code](https://code.visualstudio.com/).
 
 * Use TAB key to trigger [emmet snippets](https://vimawesome.com/plugin/emmet-vim) in Vim (https://stackoverflow.com/questions/34822074/vim-key-mapping-for-emmet-vim)
 * [Eclipse (Windows, macOs, Ubuntu Linux) (The Leading Open Platform for Professional Developers)](https://eclipseide.org/)
