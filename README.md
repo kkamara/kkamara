@@ -35,7 +35,7 @@ Google me at Kelvin award developer and Kamara award developer.
 label:read
 # Today unread emails
 # label:read newer:month-day-year
-label:unread newer:06-17-23
+label:unread newer:06-17-2023
 ```
 
 ```bash
