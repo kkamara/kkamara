@@ -43,6 +43,8 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
+On 04-Jul-2023 I have [24 Javascript repositories](https://github.com/kkamara?tab=repositories&q=&type=&language=javascript&sort=) and [6 Typescript repositories](https://github.com/kkamara?tab=repositories&q=&type=&language=typescript&sort=). I have tested [AngularJS development](https://github.com/kkamara/tour-of-heroes). I have created a [Rick & Morty encyclopedia app](https://github.com/kkamara/ram) and two [Chat General Pre-trained Transformer (Chat-GPT) apps](https://github.com/kkamara/chat-gpt-nodejs-app).
+
 [The United Kingdom works with Python as an interpreted, high-level, general-purpose programming language.](https://endoflife.date/python)
 
 [Node.js is an open-source, cross-platform JavaScript run-time environment built on Chrome’s V8 JavaScript engine that executes JavaScript code outside a browser.](https://endoflife.date/nodejs)
