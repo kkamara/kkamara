@@ -43,6 +43,8 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
+[PyDoc](https://github.com/kkamara/playground/commit/9a52dc296acea5097375692c7d320bbc2eee0394).
+
 [Debugging Python with Visual Studio Code](https://github.com/kkamara/playground/commit/95827389d83d3f47d1b99078ab601eabd33f90a9).
 
 On 04-Jul-2023 I have [24 Javascript repositories](https://github.com/kkamara?tab=repositories&q=&type=&language=javascript&sort=) and [6 Typescript repositories](https://github.com/kkamara?tab=repositories&q=&type=&language=typescript&sort=). I have tested [AngularJS development](https://github.com/kkamara/tour-of-heroes). I have created a [Rick & Morty encyclopedia app](https://github.com/kkamara/ram) and two [Chat General Pre-trained Transformer (Chat-GPT) apps](https://github.com/kkamara/chat-gpt-nodejs-app).
