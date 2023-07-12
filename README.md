@@ -336,7 +336,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/python-selenium'>python-selenium-web-scraper</a>
     </td>
     <td>
-      <img height='150' src='https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png' />
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/react-native-jobs-mobile.png' />
       <br/>
       <a href='https://github.com/kkamara/node-react-boilerplate'>javascript-nodejs-react-boilerplate</a>
     </td>
