@@ -336,7 +336,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/python-selenium'>python-selenium-web-scraper</a>
     </td>
     <td>
-      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/915937134e2f0b541e50594a9e3c630df56d8c29/see-message-java-mobile.png' />
+      <img height='150' src='https://github.com/kkamara/useful/raw/main/node-react-boilerplate.png?raw=true' />
       <br/>
       <a href='https://github.com/kkamara/node-react-boilerplate'>javascript-nodejs-react-boilerplate</a>
     </td>
@@ -353,7 +353,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/debian-linux-desktop-setup'>debian-linux-desktop-setup</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/node-react-boilerplate.png?raw=true' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/915937134e2f0b541e50594a9e3c630df56d8c29/see-message-java-mobile.png' />
       <br/>
       <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
@@ -365,12 +365,12 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/team-component'>team-component</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/node-react-boilerplate.png?raw=true' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/915937134e2f0b541e50594a9e3c630df56d8c29/see-message-java-mobile.png' />
       <br/>
       <a href='https://github.com/kkamara/blockchain'>blockchain</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/node-react-boilerplate.png?raw=true' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/915937134e2f0b541e50594a9e3c630df56d8c29/see-message-java-mobile.png' />
       <br/>
       <a href='https://github.com/kkamara/cpp'>C++</a>
     </td>
