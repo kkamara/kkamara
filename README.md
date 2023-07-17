@@ -43,6 +43,8 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
+[Php Laravel 9 Support Policy](https://laravel.com/docs/9.x/releases#support-policy).
+
 [PyDoc](https://github.com/kkamara/playground/commit/9a52dc296acea5097375692c7d320bbc2eee0394).
 
 [Debugging Python with Visual Studio Code](https://github.com/kkamara/playground/commit/95827389d83d3f47d1b99078ab601eabd33f90a9).
