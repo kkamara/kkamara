@@ -25,7 +25,7 @@ I achieved the UK government cabinet office recognition award at 22 years old (2
 
 I didn't go to university.
 
-Sql, Python, PhP, Javascript, Typescript, Bash, C++, Java.
+Sql, Python, Javascript, Typescript, Bash, C++, Java.
 
 Google me at Kelvin award developer and Kamara award developer.
 
@@ -353,7 +353,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/debian-linux-desktop-setup'>debian-linux-desktop-setup</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/915937134e2f0b541e50594a9e3c630df56d8c29/see-message-java-mobile.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm3.png' />
       <br/>
       <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
@@ -365,7 +365,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/team-component'>team-component</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/915937134e2f0b541e50594a9e3c630df56d8c29/see-message-java-mobile.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm3.png' />
       <br/>
       <a href='https://github.com/kkamara/blockchain'>blockchain</a>
     </td>
