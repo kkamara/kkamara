@@ -43,6 +43,8 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
+[App Security with Node.js](https://github.com/kkamara/nodejs-crm/blob/main/readme.md#app-security-with-nodejs)
+
 [Debugging Node.js with Visual Studio Code](https://github.com/kkamara/useful/blob/main/nodejs-crm3.png).
 
 [PyDoc](https://github.com/kkamara/playground/commit/9a52dc296acea5097375692c7d320bbc2eee0394).
