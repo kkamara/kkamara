@@ -353,7 +353,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/debian-linux-desktop-setup'>debian-linux-desktop-setup</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm3.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm4.png' />
       <br/>
       <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
@@ -365,7 +365,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/team-component'>team-component</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm3.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm4.png' />
       <br/>
       <a href='https://github.com/kkamara/blockchain'>blockchain</a>
     </td>
