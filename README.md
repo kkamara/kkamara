@@ -294,6 +294,8 @@ I remove live chat and comments with [YouTube magic options](https://www.chromea
 
 Favourite music: [EDM Remixes of Popular Songs](https://www.youtube.com/watch?v=G0x6DJ9eVsM).
 
+Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png)
+
 </details>
 
 <details>
