@@ -298,6 +298,10 @@ Favourite music: [EDM Remixes of Popular Songs](https://www.youtube.com/watch?v=
 
 Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png)
 
+Nationality: I have a UK passport.
+
+I am born and raised in Lewisham, South East London. I am from lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria twice. 
+
 </details>
 
 <details>
