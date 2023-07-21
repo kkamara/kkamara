@@ -300,7 +300,19 @@ Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/u
 
 Nationality: I have a UK passport.
 
-I am born and raised in Lewisham, South East London. I am from lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria twice. 
+I am born and raised in Lewisham, South East London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria twice. 
+
+Favourite music mixes of all time:
+
+- [GQ Podcast - Drum and Bass Mix & Rogue Guest Mix [Ep.70]](https://www.youtube.com/watch?v=UvAMaXBEO6A)
+
+- [GQ Podcast - Liquid Dubstep Mix & The McMash Clan Guest Mix [Ep.102]](https://www.youtube.com/watch?v=d6Aj2J8bMLI)
+
+- [GQ Podcast - DNB / Drumstep Mix & Phetsta Guest Mix [Ep.111]](https://www.youtube.com/watch?v=ANj-5HBUA3c)
+
+- [GQ Podcast - Dubstep Mix & Konec Guest Mix [Ep.110]](https://www.youtube.com/watch?v=gNFU9bf3qJE)
+
+- [Upbeat Study Music, Cognition Enhancer, Clearer and Faster Thinking](https://www.youtube.com/watch?v=ByM9dJNWgKQ).
 
 </details>
 
