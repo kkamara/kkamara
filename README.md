@@ -10,6 +10,19 @@ Programmer pages: [Github](https://www.github.com/kkamara), [Bitbucket](https://
 
 <img src="https://github.com/kkamara/useful/blob/main/profile.jpeg?raw=true" alt="profile.jpeg" width="50"/> <img src="https://github.com/kkamara/useful/blob/main/profile2.jpg?raw=true" alt="profile2.jpg" width="50"/> <img src="https://github.com/kkamara/useful/blob/main/profile3.jpg?raw=true" alt="profile3.jpg" width="50"/>
 
+Hi
+
+Here are few samples from www.kelvinkamara.com
+
+- [a Sound App](https://github.com/kkamara/kelvinkamara)
+- [Marvel comics browse and manage your favourite comics for the web](https://github.com/kkamara/mrvl-web)
+- [Marvel comics browse and manage your favourite comics for the desktop](https://github.com/kkamara/mrvl-web)
+
+<details>
+<summary>
+  Cover letter:
+</summary>
+
 > <p>Hi</p>
 >
 > <p>Born & raised in south east London, I have excellent IT skills. I am a great time keeper with outstanding organisational skills. I am also always willing to learn new skills. I am friendly, helpful and polite, with a good sense of humour. I am able to work both independently and in busy teams.</p>
@@ -20,6 +33,8 @@ Programmer pages: [Github](https://www.github.com/kkamara), [Bitbucket](https://
 ><p>I am a firm believer in using the right tool for the job. Specializing in backend server development I was fortunate to achieve a UK government award for my work with secure web systems.</p>
 >
 >www.kelvinkamara.com
+
+</details>
 
 I achieved the UK government cabinet office recognition award at 22 years old (22/04/19) ([link](https://kelvinkamara.com/award.jpg)) ([link2](https://github.com/kkamara/kelvinkamara.com/blob/main/public/award.jpg)) ([link3](https://camo.githubusercontent.com/26b5dfe8484f6222b7beec38187ef82c6f24790379f638b0f9c0cce8cb5225f8/68747470733a2f2f7777772e6b656c76696e6b616d6172612e636f6d2f61776172642e6a7067)).
 
