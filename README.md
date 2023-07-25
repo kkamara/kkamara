@@ -329,6 +329,8 @@ Favourite music mixes of all time:
 
 - [GQ Podcast - Dubstep Mix & Konec Guest Mix [Ep.110]](https://www.youtube.com/watch?v=gNFU9bf3qJE)
 
+- [GQ Podcast - DNB Mix & Muzzy Guest Mix [Ep.116]](https://www.youtube.com/watch?v=3zLiiZSOBTE)
+
 - [Upbeat Study Music, Cognition Enhancer, Clearer and Faster Thinking](https://www.youtube.com/watch?v=ByM9dJNWgKQ).
 
 </details>
