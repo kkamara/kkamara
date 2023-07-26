@@ -343,7 +343,9 @@ Mentionable songs:
 
 - [Legends](https://www.youtube.com/watch?v=M8gUv4MJf-M&list=PL5D82E2CA8BD9D4DC&index=21)
 
-- [Soldier](https://www.youtube.com/watch?v=mSU-TWxNjJA&list=PL3318306AE34218BC&index=6).
+- [Soldier](https://www.youtube.com/watch?v=mSU-TWxNjJA&list=PL3318306AE34218BC&index=6)
+
+- [Junction Seven](https://www.youtube.com/watch?v=vBH0tDqGjts&list=PL3318306AE34218BC&index=7).
 
 </details>
 
