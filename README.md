@@ -341,7 +341,9 @@ Mentionable songs:
 
 - [Hero](https://www.youtube.com/watch?v=5lLclBfKj48&list=PL5D82E2CA8BD9D4DC&index=26)
 
-- [Legends](https://www.youtube.com/watch?v=M8gUv4MJf-M&list=PL5D82E2CA8BD9D4DC&index=21).
+- [Legends](https://www.youtube.com/watch?v=M8gUv4MJf-M&list=PL5D82E2CA8BD9D4DC&index=21)
+
+- [Soldier](https://www.youtube.com/watch?v=mSU-TWxNjJA&list=PL3318306AE34218BC&index=6).
 
 </details>
 
