@@ -339,7 +339,9 @@ Mentionable songs:
 
 - [The End](https://www.youtube.com/watch?v=oIhzKZOcyuc&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=38)
 
-- [Hero](https://www.youtube.com/watch?v=5lLclBfKj48&list=PL5D82E2CA8BD9D4DC&index=26).
+- [Hero](https://www.youtube.com/watch?v=5lLclBfKj48&list=PL5D82E2CA8BD9D4DC&index=26)
+
+- [Legends](https://www.youtube.com/watch?v=M8gUv4MJf-M&list=PL5D82E2CA8BD9D4DC&index=21).
 
 </details>
 
