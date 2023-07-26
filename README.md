@@ -333,6 +333,14 @@ Favourite music mixes of all time:
 
 - [Upbeat Study Music, Cognition Enhancer, Clearer and Faster Thinking](https://www.youtube.com/watch?v=ByM9dJNWgKQ).
 
+Mentionable songs:
+
+- [Waking Dreams](https://www.youtube.com/watch?v=eNF0VF9oTf8&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=6)
+
+- [The End](https://www.youtube.com/watch?v=oIhzKZOcyuc&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=38)
+
+- [Hero](https://www.youtube.com/watch?v=5lLclBfKj48&list=PL5D82E2CA8BD9D4DC&index=26).
+
 </details>
 
 <details>
