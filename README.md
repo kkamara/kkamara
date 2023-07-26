@@ -335,6 +335,8 @@ Favourite music mixes of all time:
 
 Mentionable songs:
 
+- [Rattlesnake](https://www.youtube.com/watch?v=x0E39ug6t70)
+
 - [Waking Dreams](https://www.youtube.com/watch?v=eNF0VF9oTf8&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=6)
 
 - [The End](https://www.youtube.com/watch?v=oIhzKZOcyuc&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=38)
