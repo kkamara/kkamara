@@ -345,7 +345,9 @@ Mentionable songs:
 
 - [Soldier](https://www.youtube.com/watch?v=mSU-TWxNjJA&list=PL3318306AE34218BC&index=6)
 
-- [Junction Seven](https://www.youtube.com/watch?v=vBH0tDqGjts&list=PL3318306AE34218BC&index=7).
+- [Junction Seven](https://www.youtube.com/watch?v=vBH0tDqGjts&list=PL3318306AE34218BC&index=7)
+
+- [Bring The Madness](https://www.youtube.com/watch?v=8dZDdW7v4Q8&list=PL3318306AE34218BC&index=13).
 
 </details>
 
