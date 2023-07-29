@@ -357,7 +357,11 @@ Mentionable songs:
 
 - [Dreams](https://www.youtube.com/watch?v=yYPXVcgZo-U&list=PL3318306AE34218BC&index=28)
 
-- [Gina](https://www.youtube.com/watch?v=sVNn8Wgzqws&list=PL3318306AE34218BC&index=42).
+- [Gina](https://www.youtube.com/watch?v=sVNn8Wgzqws&list=PL3318306AE34218BC&index=42)
+
+- [Reasons](https://www.youtube.com/watch?v=DYzxMAyrEEM&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=3)
+
+- [Follow My Heart](https://www.youtube.com/watch?v=0cmm4FAAgrU&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=15).
 
 </details>
 
