@@ -361,7 +361,9 @@ Mentionable songs:
 
 - [Reasons](https://www.youtube.com/watch?v=DYzxMAyrEEM&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=3)
 
-- [Follow My Heart](https://www.youtube.com/watch?v=0cmm4FAAgrU&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=15).
+- [Follow My Heart](https://www.youtube.com/watch?v=0cmm4FAAgrU&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=15)
+
+- [Champions](https://www.youtube.com/watch?v=mj7nhGezdJ8&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=49).
 
 </details>
 
