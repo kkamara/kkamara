@@ -1,6 +1,6 @@
-<img src="https://github.com/kkamara/useful/blob/main/nodejs-crm-desktop3.png?raw=true" alt="nodejs-crm-desktop3.png" width="820px" />
+<img src="https://github.com/kkamara/useful/blob/main/nodejs-crm-desktop3.png?raw=true" alt="nodejs-crm-desktop3.png" width="600px" />
 
-<img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png" alt="mrvl5.png" width="410px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara4.png" alt="kelvinkamara4.png" width="410px"/>
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png" alt="mrvl5.png" width="300px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara4.png" alt="kelvinkamara4.png" width="300px"/>
 
 <img src="https://github.com/kkamara/useful/raw/main/business-systems.png" alt="business-systems.png" width=""/>  
 
