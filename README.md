@@ -323,6 +323,8 @@ I am born and raised in Lewisham, South East London. I am from Lagos, Nigeria on
 
 Favourite music mixes of all time:
 
+- [Music Mix 2022 🎧 EDM Remixes of Popular Songs 🎧 EDM Best Music Mix](https://www.youtube.com/watch?v=G0x6DJ9eVsM)
+
 - [GQ Podcast - Drum and Bass Mix & Rogue Guest Mix [Ep.70]](https://www.youtube.com/watch?v=UvAMaXBEO6A)
 
 - [GQ Podcast - Liquid Dubstep Mix & The McMash Clan Guest Mix [Ep.102]](https://www.youtube.com/watch?v=d6Aj2J8bMLI)
