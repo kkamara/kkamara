@@ -44,7 +44,7 @@ I achieved the UK government cabinet office recognition award at 22 years old (2
 
 I didn't go to university.
 
-Sql, Python, Javascript, Typescript, Bash, C++, Java.
+Sql, Python, PHP, Javascript, Typescript, Bash, C++, Java.
 
 Google me at Kelvin award developer and Kamara award developer.
 
@@ -61,16 +61,6 @@ label:unread newer:06-17-2023
 # Search repos with the search input on github.com (Github API)
 user:kkamara in:readme node.js
 ```
-
-[App Security with Node.js](https://github.com/kkamara/nodejs-crm/blob/main/readme.md#app-security-with-nodejs)
-
-[Debugging Node.js with Visual Studio Code](https://github.com/kkamara/useful/blob/main/nodejs-crm3.png).
-
-[PyDoc](https://github.com/kkamara/playground/commit/9a52dc296acea5097375692c7d320bbc2eee0394).
-
-[Debugging Python with Visual Studio Code](https://github.com/kkamara/playground/commit/95827389d83d3f47d1b99078ab601eabd33f90a9).
-
-On 04-Jul-2023 I have [24 Javascript repositories](https://github.com/kkamara?tab=repositories&q=&type=&language=javascript&sort=) and [6 Typescript repositories](https://github.com/kkamara?tab=repositories&q=&type=&language=typescript&sort=). I have tested [AngularJS development](https://github.com/kkamara/tour-of-heroes). I have created a [Rick & Morty encyclopedia app](https://github.com/kkamara/ram) and two [Chat General Pre-trained Transformer (Chat-GPT) apps](https://github.com/kkamara/chat-gpt-nodejs-app).
 
 [The United Kingdom works with Python as an interpreted, high-level, general-purpose programming language.](https://endoflife.date/python)
 
