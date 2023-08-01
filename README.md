@@ -402,17 +402,17 @@ https://kelvinkamara.com
   </tr>
   <tr>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/blob/main/chat-gpt-nodejs-app2.png?raw=true' />
+      <img height='150' width='267' src='https://github.com/kkamara/useful/blob/main/MainClass.png?raw=true' />
       <br/>
       <a href='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-building4.png'>github-to-bitbucket-backup-repo-updater</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/blob/main/chat-gpt-nodejs-app2.png?raw=true' />
+      <img height='150' width='267' src='https://github.com/kkamara/useful/blob/main/MainClass.png?raw=true' />
       <br/>
       <a href='https://github.com/kkamara/debian-linux-desktop-setup'>debian-linux-desktop-setup</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm4.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/MainClass.png' />
       <br/>
       <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
@@ -424,7 +424,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/team-component'>team-component</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm4.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/MainClass.png' />
       <br/>
       <a href='https://github.com/kkamara/blockchain'>blockchain</a>
     </td>
