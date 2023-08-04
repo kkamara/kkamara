@@ -327,6 +327,8 @@ Favourite music mixes of all time:
 
 Mentionable songs:
 
+- [My Friend](https://www.youtube.com/watch?v=M0CfCdQ2zPU&list=PL3318306AE34218BC&index=14)
+
 - [Rattlesnake](https://www.youtube.com/watch?v=x0E39ug6t70)
 
 - [Waking Dreams](https://www.youtube.com/watch?v=eNF0VF9oTf8&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=6)
