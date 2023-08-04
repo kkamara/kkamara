@@ -327,6 +327,8 @@ Favourite music mixes of all time:
 
 Mentionable songs:
 
+- [Blue](https://www.youtube.com/watch?v=y7pi5VGTEz0&list=PL3318306AE34218BC&index=22)
+
 - [My Friend](https://www.youtube.com/watch?v=M0CfCdQ2zPU&list=PL3318306AE34218BC&index=14)
 
 - [Rattlesnake](https://www.youtube.com/watch?v=x0E39ug6t70)
