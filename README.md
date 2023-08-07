@@ -382,41 +382,24 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/premium-artist-cms-template'>premium-artist-cms-template</a>
     </td>
     <td>
-      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/wordpress.png' />
-      <br/>
-      <a href='https://github.com/kkamara/wordpress'>wordpress</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height='150' src='https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png' />
-      <br/>
-      <a href='https://github.com/kkamara/python-react-boilerplate'>python-react-boilerplate</a>
-    </td>
-    <td>
       <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/selenium-py.png' />
       <br/>
       <a href='https://github.com/kkamara/python-selenium'>python-selenium-web-scraper</a>
     </td>
-    <td>
-      <img height='150' src='https://github.com/kkamara/useful/raw/main/node-react-boilerplate.png?raw=true' />
-      <br/>
-      <a href='https://github.com/kkamara/node-react-boilerplate'>javascript-nodejs-react-boilerplate</a>
-    </td>
   </tr>
   <tr>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/blob/main/nodejs-crm-desktop-building.png?raw=true' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png' />
       <br/>
-      <a href='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-building4.png'>github-to-bitbucket-backup-repo-updater</a>
+      <a href='https://github.com/kkamara/mrvl-web'>mrvl-web</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/blob/main/nodejs-crm-desktop-building.png?raw=true' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png' />
       <br/>
-      <a href='https://github.com/kkamara/debian-linux-desktop-setup'>debian-linux-desktop-setup</a>
+      <a href='https://github.com/kkamara/mrvl-desktop'>mrvl-desktop</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/blob/main/nodejs-crm-desktop-building.png?raw=true' />
+      <img height='150' width='267' src='https://github.com/kkamara/useful/blob/main/see-message-java-mobile.png?raw=true' />
       <br/>
       <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
@@ -428,7 +411,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/team-component'>team-component</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/blob/main/nodejs-crm-desktop-building.png?raw=true' />
+      <img height='150' width='267' src='https://github.com/kkamara/useful/blob/main/see-message-java-mobile.png?raw=true' />
       <br/>
       <a href='https://github.com/kkamara/blockchain'>blockchain</a>
     </td>
