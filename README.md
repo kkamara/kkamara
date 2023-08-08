@@ -64,8 +64,6 @@ user:kkamara in:readme node.js
 
 [Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png) [(extra)](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33).
 
-[Responsive todo app with react 18 and light and dark theme switch.](https://kkamara.github.io/todo-app)
-
 [I built Premium Artist CMS Template in one week in early 2020.](https://github.com/kkamara/premium-artist-cms-template#premium-artist-cms-template)
 
 [Building the MRVL (15 Jun 23) desktop app](https://github.com/kkamara/useful/blob/main/mrvl-desktop-building5.png) ([MRVL desktop](https://github.com/kkamara/mrvl-desktop)) ([MRVL web](https://github.com/kkamara/mrvl)).
@@ -73,8 +71,6 @@ user:kkamara in:readme node.js
 [Building the MRVL (15 Jun 23) desktop app 2](https://github.com/kkamara/useful/blob/main/mrvl-desktop-building6.png).
 
 [Building the MRVL (15 Jun 23) desktop app 3](https://github.com/kkamara/useful/blob/main/mrvl-desktop-building7.png).
-
-[Crawl and click buttons on websites with gui.](https://github.com/kkamara/php-scraper#php-scraper)
 
 <details>
 <summary>
