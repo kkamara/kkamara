@@ -247,7 +247,7 @@ Vimrc:
 https://github.com/kkamara/useful/blob/main/vimrc
 </details>
 
-<details open>
+<details>
 <summary>
 Pictures:
 </summary>
