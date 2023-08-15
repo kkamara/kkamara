@@ -60,6 +60,8 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
+[Successful admin/ authenticate after big SQL upgrade](https://github.com/kkamara/nodejs-crm/commit/367baf57c62ab8cadf8147ffaee3467c8de7917f).
+
 [The United Kingdom works with Python as an interpreted, high-level, general-purpose programming language.](https://endoflife.date/python)
 
 [Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png) [(extra)](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33).
