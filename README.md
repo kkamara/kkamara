@@ -60,9 +60,9 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
-[Fix variables for views after big SQL usage upgrade](https://github.com/kkamara/nodejs-crm/commit/66c40c5a38c62ac9938ed2ddabc6f0162c19498c).
+[Fix variables for views after big SQL usage upgrade](https://github.com/kkamara/nodejs-crm/commit/47d589aa8ce3c11e434c9a9c8cb8457743a21638).
 
-[Successful admin/ authenticate after big SQL upgrade](https://github.com/kkamara/nodejs-crm/commit/367baf57c62ab8cadf8147ffaee3467c8de7917f).
+[Successful admin/ authenticate after big SQL usage upgrade](https://github.com/kkamara/nodejs-crm/commit/671fafb05feff7552baba199e57a5bceb20af3bf).
 
 [The United Kingdom works with Python as an interpreted, high-level, general-purpose programming language.](https://endoflife.date/python)
 
