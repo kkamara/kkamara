@@ -60,6 +60,8 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
+[Tests Pipeline](https://github.com/kkamara/nodejs-crm/actions).
+
 [Fix variables for views after big SQL usage upgrade](https://github.com/kkamara/nodejs-crm/commit/47d589aa8ce3c11e434c9a9c8cb8457743a21638).
 
 [Successful admin/ authenticate after big SQL usage upgrade](https://github.com/kkamara/nodejs-crm/commit/671fafb05feff7552baba199e57a5bceb20af3bf).
