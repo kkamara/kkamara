@@ -60,7 +60,7 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
-[Prepare ghbbupdater](https://github.com/kkamara/ghbbupdater/commit/3aaa316f80fad43b63d49ffe8bd6fee01508465b).
+[Prepare ghbbupdater](https://github.com/kkamara/ghbbupdater/commit/8eadbc8e988810f718c6ff06cff2b218f7164ba9).
 
 [Expressjs debugging & file logs for development](https://github.com/kkamara/nodejs-crm/commit/2feb9115c7894cae5a3d31b3a7c1e93c6199247f).
 
