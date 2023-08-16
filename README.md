@@ -60,6 +60,8 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
+[Expressjs debugging & file logs for development](https://github.com/kkamara/nodejs-crm/commit/2feb9115c7894cae5a3d31b3a7c1e93c6199247f).
+
 [Tests Pipeline](https://github.com/kkamara/nodejs-crm/actions).
 
 [Fix variables for views after big SQL usage upgrade](https://github.com/kkamara/nodejs-crm/commit/47d589aa8ce3c11e434c9a9c8cb8457743a21638).
