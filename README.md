@@ -60,6 +60,8 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
+[Add core app completing crm-laravel-10 upgrade](https://github.com/kkamara/crm-laravel-10/commit/418fee7edca61d6c7e1f382d18f044f9ee67de0f).
+
 [Github to Bitbucket Backup Repo Updater](https://github.com/kkamara/github-to-bitbucket-backup-repo-updater/blob/develop/app.js).
 
 [Expressjs debugging & file logs for development](https://github.com/kkamara/nodejs-crm/commit/2feb9115c7894cae5a3d31b3a7c1e93c6199247f).
