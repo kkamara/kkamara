@@ -278,7 +278,7 @@ Pictures:
 
 <img src="https://github.com/kkamara/useful/raw/main/mrvl2.png" alt="mrvl2.png" width="400"/>   <img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl-desktop2.png" alt="mrvl-desktop2.png" width="400"/>
 
-<img src="https://github.com/kkamara/useful/blob/main/nodejs-crm2.png?raw=true" alt="nodejs-crm2.png" width="400"/>   <img src="https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png" alt="admin.png" width="400"/>
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/crm-2-laravel-10-4.png" alt="crm-2-laravel-10-4.png" width="400"/>   <img src="https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png" alt="admin.png" width="400"/>
 
 <img src="https://raw.githubusercontent.com/kkamara/useful/main/go-workspace.png" alt="go-workspace.png" width="400"/>   <img src="https://raw.githubusercontent.com/kkamara/useful/main/php-workspace.png" alt="php-workspace.png" width="400"/>
 
