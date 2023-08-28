@@ -371,6 +371,8 @@ Mentionable songs:
 
 - [Champions](https://www.youtube.com/watch?v=mj7nhGezdJ8&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=49).
 
+Favourite movie: Indiana Jones and the Dial of Destiny (2023)
+
 </details>
 
 <details>
