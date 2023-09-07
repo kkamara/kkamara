@@ -337,7 +337,9 @@ Favourite music mixes of all time:
 
 - [GQ Podcast - Dubstep Mix & Konec Guest Mix [Ep.110]](https://www.youtube.com/watch?v=gNFU9bf3qJE)
 
-- [GQ Podcast - DNB Mix & Muzzy Guest Mix [Ep.116]](https://www.youtube.com/watch?v=3zLiiZSOBTE).
+- [GQ Podcast - DNB Mix & Muzzy Guest Mix [Ep.116]](https://www.youtube.com/watch?v=3zLiiZSOBTE)
+
+- [GQ Podcast - Dubstep Mix & Fractal Guest Mix [Ep.118]](https://www.youtube.com/watch?v=jFeK7YaYPr4).
 
 Mentionable songs:
 
