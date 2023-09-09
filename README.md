@@ -390,7 +390,7 @@ https://kelvinkamara.com
   </tr>
   <tr>
     <td>
-      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light-2.png' />
+      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' />
       <br/>
       <a href='https://github.com/kkamara/kelvinkamara.com'>kelvinkamara.com</a>
     </td>
