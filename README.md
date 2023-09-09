@@ -280,6 +280,8 @@ Pictures:
 
 <img src="https://raw.githubusercontent.com/kkamara/useful/main/crm-2-laravel-10-4.png" alt="crm-2-laravel-10-4.png" width="400"/>   <img src="https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png" alt="admin.png" width="400"/>
 
+<img src="https://github.com/kkamara/useful/raw/main/ram.png" alt="ram.png" width="400"/>   <img src="https://github.com/kkamara/useful/raw/main/crm2.png" alt="crm2.png" width="400"/>
+
 <img src="https://raw.githubusercontent.com/kkamara/useful/main/go-workspace.png" alt="go-workspace.png" width="400"/>   <img src="https://raw.githubusercontent.com/kkamara/useful/main/php-workspace.png" alt="php-workspace.png" width="400"/>
 
 <img src="https://github.com/kkamara/useful/raw/main/amazon-scrapers.png" alt="amazon-scrapers.png" width="400"/> <img src="https://github.com/kkamara/playground/raw/main/System-of-Gates.jpg" alt="system-of-gates.jpg" width="400" />
