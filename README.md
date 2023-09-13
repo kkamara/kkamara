@@ -447,7 +447,15 @@ https://kelvinkamara.com
       <br/>
       <a href='https://github.com/kkamara/php-react-boilerplate'>php-react-boilerplate</a>
     </td>
-    <td></td>
-    <td></td>
+    <td>
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/crm2.png' />
+      <br/>
+      <a href='https://github.com/kkamara/crm'>crm</a>
+    </td>
+    <td>
+      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/crm-2-laravel-10-4.png' />
+      <br/>
+      <a href='https://github.com/kkamara/crm-2-laravel-10'>crm-2-laravel-10</a>
+    </td>
   </tr>
 </table>
