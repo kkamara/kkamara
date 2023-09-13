@@ -438,7 +438,7 @@ https://kelvinkamara.com
     <td>
       <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/vbox.png' />
       <br/>
-      <a href='https://github.com/kkamara/cpp'>cpp</a>
+      <a href='https://github.com/kkamara/cpp'>c++</a>
     </td>
   </tr>
   <tr>
