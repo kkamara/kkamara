@@ -450,7 +450,7 @@ https://kelvinkamara.com
     <td>
       <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/crm2.png' />
       <br/>
-      <a href='https://github.com/kkamara/crm'>crm</a>
+      <a href='https://github.com/kkamara/crm'>crm-laravel-5</a>
     </td>
     <td>
       <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/crm-2-laravel-10-4.png' />
