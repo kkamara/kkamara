@@ -445,7 +445,7 @@ https://kelvinkamara.com
     <td>
       <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/lrb.png' />
       <br/>
-      <a href='https://github.com/kkamara/php-react-boilerplate'>php-react-boilerplate</a>
+      <a href='https://github.com/kkamara/php-reactjs-boilerplate'>php-reactjs-boilerplate</a>
     </td>
     <td>
       <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/crm2.png' />
