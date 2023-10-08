@@ -443,7 +443,7 @@ https://kelvinkamara.com
   </tr>
   <tr>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/lrb.png' />
+      <img height='150' width='267' src='https://github.com/kkamara/useful/blob/main/php-reactjs-boilerplate2.png?raw=true' />
       <br/>
       <a href='https://github.com/kkamara/php-reactjs-boilerplate'>php-reactjs-boilerplate</a>
     </td>
