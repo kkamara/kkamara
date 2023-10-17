@@ -327,6 +327,8 @@ I am born and raised in Lewisham, South East London. I am from Lagos, Nigeria on
 
 Favourite music mixes of all time:
 
+- [Best Remixes & Mashups Of Popular Songs 2022 | Music Mix 2022 | New Charts](https://www.youtube.com/watch?v=zUJjoFfID50)
+
 - [Upbeat Study Music, Cognition Enhancer, Clearer and Faster Thinking](https://www.youtube.com/watch?v=ByM9dJNWgKQ)
 
 - [Music Mix 2022 🎧 EDM Remixes of Popular Songs 🎧 EDM Best Music Mix](https://www.youtube.com/watch?v=G0x6DJ9eVsM)
