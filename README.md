@@ -60,6 +60,10 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
+[Add PHP Backend For Creating PDFs (Frontend Already Done)](https://github.com/kkamara/pdf-php-reactjs-app/commit/9156f04fcb3f37374582d2be7adf45bd8d41c7d0).
+
+[Add Creating Pdfs in Reactjs App](https://github.com/kkamara/pdf-php-reactjs-app/commit/f849a29667c9c32a4a4f6bc9c5856a1adce84759).
+
 [PHP Github to bitbucket backup repo updater](https://github.com/kkamara/ghbbupdater/blob/main/src/MainClass.php).
 
 [Node.js Github to bitbucket backup repo updater](https://github.com/kkamara/github-to-bitbucket-backup-repo-updater).
