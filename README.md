@@ -321,7 +321,7 @@ Favourite football team: Arsenal.
 
 I remove live chat and comments with [YouTube magic options](https://www.chromeactions.com/) (referring to YouTube video playing page).
 
-Favourite music: [EDM Remixes of Popular Songs](https://www.youtube.com/watch?v=G0x6DJ9eVsM), Reggae.
+Favourite music: [EDM Remixes of Popular Songs](https://www.youtube.com/watch?v=G0x6DJ9eVsM), [DJ Easy](https://www.youtube.com/@DjeasyMixmaster/streams).
 
 Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png)
 
