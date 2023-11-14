@@ -38,7 +38,7 @@ Here are few samples from www.kelvinkamara.com
 
 </details>
 
-I achieved the UK government cabinet office recognition award at 22 years old (22/04/19) ([link](https://kelvinkamara.com/award.jpg)) ([link2](https://github.com/kkamara/kelvinkamara.com/blob/main/public/award.jpg)) ([link3](https://camo.githubusercontent.com/26b5dfe8484f6222b7beec38187ef82c6f24790379f638b0f9c0cce8cb5225f8/68747470733a2f2f7777772e6b656c76696e6b616d6172612e636f6d2f61776172642e6a7067)).
+I achieved the UK government cabinet office recognition award at 22 years old (22/04/19) ([link](https://kelvinkamara.com/award.jpg)) ([link2](https://github.com/kkamara/kelvinkamara.com/blob/main/public/award.jpg)) ([link3](https://bitbucket.org/kkamara2/kelvinkamara.com/src/main/public/award.jpg)).
 
 I didn't go to university.
 
