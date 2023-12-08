@@ -321,69 +321,15 @@ Favourite football team: Arsenal.
 
 [What is bilateral music?](https://www.ementalhealth.ca/Waterloo-Regional-Municipality/Bilateral-Music-for-Anxiety-Stress-and-Trauma/index.php?m=article&ID=84502)
 
-I remove live chat and comments with [YouTube magic options](https://www.chromeactions.com/) (referring to YouTube video playing page).
+When using YouTube I remove live chat and comments with [YouTube magic options](https://www.chromeactions.com/).
 
-Favourite music: [EDM Remixes of Popular Songs](https://www.youtube.com/watch?v=G0x6DJ9eVsM), [Melodic Drum and Bass](https://soundcloud.com/search?q=melodic%20drum%20and%20bass), Reggae.
+Favourite music: [SoundCloud](https://soundcloud.com/search?q=melodic%20drum%20and%20bass).
 
 Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png)
 
 Nationality: I have a UK passport.
 
 I am born and raised in Lewisham, South East London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria twice. 
-
-Favourite music mixes of all time:
-
-- [Best Remixes & Mashups Of Popular Songs 2022 | Music Mix 2022 | New Charts](https://www.youtube.com/watch?v=zUJjoFfID50)
-
-- [Upbeat Study Music, Cognition Enhancer, Clearer and Faster Thinking](https://www.youtube.com/watch?v=ByM9dJNWgKQ)
-
-- [Music Mix 2022 🎧 EDM Remixes of Popular Songs 🎧 EDM Best Music Mix](https://www.youtube.com/watch?v=G0x6DJ9eVsM)
-
-- [GQ Podcast - Drum and Bass Mix & Rogue Guest Mix [Ep.70]](https://www.youtube.com/watch?v=UvAMaXBEO6A)
-
-- [GQ Podcast - Liquid Dubstep Mix & The McMash Clan Guest Mix [Ep.102]](https://www.youtube.com/watch?v=d6Aj2J8bMLI)
-
-- [GQ Podcast - DNB / Drumstep Mix & Phetsta Guest Mix [Ep.111]](https://www.youtube.com/watch?v=ANj-5HBUA3c)
-
-- [GQ Podcast - Dubstep Mix & Konec Guest Mix [Ep.110]](https://www.youtube.com/watch?v=gNFU9bf3qJE)
-
-- [GQ Podcast - DNB Mix & Muzzy Guest Mix [Ep.116]](https://www.youtube.com/watch?v=3zLiiZSOBTE)
-
-- [GQ Podcast - Dubstep Mix & Fractal Guest Mix [Ep.118]](https://www.youtube.com/watch?v=jFeK7YaYPr4).
-
-Mentionable songs:
-
-- [Blue](https://www.youtube.com/watch?v=y7pi5VGTEz0&list=PL3318306AE34218BC&index=22)
-
-- [My Friend](https://www.youtube.com/watch?v=M0CfCdQ2zPU&list=PL3318306AE34218BC&index=14)
-
-- [Rattlesnake](https://www.youtube.com/watch?v=x0E39ug6t70)
-
-- [Waking Dreams](https://www.youtube.com/watch?v=eNF0VF9oTf8&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=6)
-
-- [The End](https://www.youtube.com/watch?v=oIhzKZOcyuc&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=38)
-
-- [Hero](https://www.youtube.com/watch?v=5lLclBfKj48&list=PL5D82E2CA8BD9D4DC&index=26)
-
-- [Legends](https://www.youtube.com/watch?v=M8gUv4MJf-M&list=PL5D82E2CA8BD9D4DC&index=21)
-
-- [Soldier](https://www.youtube.com/watch?v=mSU-TWxNjJA&list=PL3318306AE34218BC&index=6)
-
-- [Junction Seven](https://www.youtube.com/watch?v=vBH0tDqGjts&list=PL3318306AE34218BC&index=7)
-
-- [Bring The Madness](https://www.youtube.com/watch?v=8dZDdW7v4Q8&list=PL3318306AE34218BC&index=13)
-
-- [Dreams](https://www.youtube.com/watch?v=yYPXVcgZo-U&list=PL3318306AE34218BC&index=28)
-
-- [Gina](https://www.youtube.com/watch?v=sVNn8Wgzqws&list=PL3318306AE34218BC&index=42)
-
-- [Reasons](https://www.youtube.com/watch?v=DYzxMAyrEEM&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=3)
-
-- [Follow My Heart](https://www.youtube.com/watch?v=0cmm4FAAgrU&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=15)
-
-- [Champions](https://www.youtube.com/watch?v=mj7nhGezdJ8&list=PLe8jmEHFkvsb5FHtfbLiaU1dn7WIb4QRE&index=49).
-
-Favourite movie: Indiana Jones and the Dial of Destiny (2023)
 
 </details>
 
