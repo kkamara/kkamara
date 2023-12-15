@@ -323,8 +323,6 @@ Favourite football team: Arsenal.
 
 When using YouTube I remove live chat and comments with [YouTube magic options](https://www.chromeactions.com/).
 
-Favourite music: [SoundCloud](https://soundcloud.com/search?q=melodic%20drum%20and%20bass).
-
 Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png)
 
 Nationality: I have a UK passport.
