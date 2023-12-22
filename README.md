@@ -325,7 +325,7 @@ When using YouTube I remove live chat and comments with [YouTube magic options](
 
 Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png)
 
-Favourite music: Lofi Hip-hop.
+Favourite music: [Capital FM Radio](https://ukradiolive.com/capital-fm).
 
 Nationality: I have a UK passport.
 
