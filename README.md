@@ -325,8 +325,6 @@ When using YouTube I remove live chat and comments with [YouTube magic options](
 
 Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png)
 
-Favourite music: [Capital Chill Radio](https://ukradiolive.com/capital-chill).
-
 Nationality: I have a UK passport.
 
 I am born and raised in Lewisham, South East London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria twice. 
