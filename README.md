@@ -321,6 +321,8 @@ Favourite football team: Arsenal.
 
 [What is bilateral music?](https://www.ementalhealth.ca/Waterloo-Regional-Municipality/Bilateral-Music-for-Anxiety-Stress-and-Trauma/index.php?m=article&ID=84502)
 
+Favourite music: [EDM Remixes of Popular Songs](https://www.youtube.com/watch?v=G0x6DJ9eVsM), [Melodic Drum and Bass](https://soundcloud.com/search?q=melodic%20drum%20and%20bass)
+
 When using YouTube I remove live chat and comments with [YouTube magic options](https://www.chromeactions.com/).
 
 Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png)
