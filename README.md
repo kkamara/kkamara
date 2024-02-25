@@ -42,7 +42,7 @@ I achieved the UK government cabinet office recognition award at 22 years old (2
 
 I didn't go to university.
 
-Sql, Python, PHP, Javascript, Typescript, Bash, C++, Java.
+Sql, Python, PHP, JavaScript, Typescript, Bash, C++, Java.
 
 Google me at Kelvin award developer and Kamara award developer.
 
