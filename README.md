@@ -29,7 +29,7 @@ Here are few samples from www.kelvinkamara.com
 >
 > <p>Born & raised in south east London, I have excellent IT skills. I am a great time keeper with outstanding organisational skills. I am also always willing to learn new skills. I am friendly, helpful and polite, with a good sense of humour. I am able to work both independently and in busy teams.</p>
 >
-><p>From my time as the lead developer at Jobsender. I am outgoing, tactful and capable of listening effectively when solving problems. Most importantly - I am dedicated and committed to performing to the best ability. I am a person who strives to complete personal and team goals.</p>
+><p>From my time as the lead developer at Jobsender. I am outgoing, tactful and capable of listening effectively when solving problems. Most importantly, I am dedicated and committed to performing to the best ability. I am a person who strives to complete personal and team goals.</p>
 >
 >
 ><p>I am a firm believer in using the right tool for the job. Specializing in backend server development I was fortunate to achieve a UK government award for my work with secure web systems.</p>
