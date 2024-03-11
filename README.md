@@ -66,9 +66,9 @@ user:kkamara in:readme node.js
 
 [Add Creating Pdfs in Reactjs App](https://github.com/kkamara/pdf-php-reactjs-app/commit/f849a29667c9c32a4a4f6bc9c5856a1adce84759).
 
-[PHP Github to bitbucket backup repo updater](https://github.com/kkamara/ghbbupdater/blob/main/src/MainClass.php).
+[PHP Github to Bitbucket Backup Repo Updater](https://github.com/kkamara/ghbbupdater/blob/main/src/MainClass.php).
 
-[Node.js Github to bitbucket backup repo updater](https://github.com/kkamara/github-to-bitbucket-backup-repo-updater).
+[Node.js Github to Bitbucket Backup Repo Updater](https://github.com/kkamara/github-to-bitbucket-backup-repo-updater).
 
 [Define roles & permissions for all access user](https://github.com/kkamara/crm-2-laravel-10/commit/1064a5b6ab52f4e2dcb003051e9b29ecb6ffdefd).
 
