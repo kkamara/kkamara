@@ -60,6 +60,8 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
+[Remastered Baseball PHP Reactjs App](https://www.github.com/kkamara/remastered-baseball-php-reactjs-app).
+
 [Baseball PHP Reactjs App](https://www.github.com/kkamara/baseball-php-reactjs-app).
 
 [Add PHP Backend For Creating PDFs (Frontend Already Done)](https://github.com/kkamara/pdf-php-reactjs-app/commit/9156f04fcb3f37374582d2be7adf45bd8d41c7d0).
