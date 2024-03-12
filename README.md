@@ -375,7 +375,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/mrvl-desktop'>mrvl-desktop</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/vbox.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/vbox2.png' />
       <br/>
       <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
@@ -387,12 +387,12 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/team-component'>team-component</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/vbox.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/vbox2.png' />
       <br/>
       <a href='https://github.com/kkamara/blockchain'>blockchain</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/vbox.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/vbox2.png' />
       <br/>
       <a href='https://github.com/kkamara/cpp'>c++</a>
     </td>
