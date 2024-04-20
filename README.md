@@ -1,10 +1,10 @@
 <img src="https://github.com/kkamara/useful/raw/main/business-systems.png" alt="business-systems.png" width=""/>
 
-<img src="https://github.com/kkamara/useful/blob/main/stickersmash.png?raw=true" alt="stickersmash.png" width="300px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png" alt="mrvl5.png" width="300px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/remastered-baseball-php-reactjs-app.png" alt="remastered-baseball-php-reactjs-app.png" width="300px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/remastered-movies-php-reactjs-app-2.png" alt="remastered-movies-php-reactjs-app-2.png" width="300px"/>
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png" alt="mrvl5.png" width="300px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/remastered-baseball-php-reactjs-app.png" alt="remastered-baseball-php-reactjs-app.png" width="300px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/remastered-movies-php-reactjs-app-2.png" alt="remastered-movies-php-reactjs-app-2.png" width="300px"/> <img src="https://github.com/kkamara/useful/blob/main/stickersmash.png?raw=true" alt="stickersmash.png" width="300px"/>
 
 Programmer pages: [Github](https://www.github.com/kkamara), [Bitbucket](https://bitbucket.org/kkamara2).
 
-[![Web](https://img.shields.io/badge/-Web-black?style=for-the-badge&labelColor=white&logo=internet-explorer&logoColor=black)](#) [![Mobile](https://img.shields.io/badge/-Mobile-black?style=for-the-badge&labelColor=white&logo=android&logoColor=black)](#) [![Desktop](https://img.shields.io/badge/-Desktop-black?style=for-the-badge&labelColor=white&logo=whatsapp&logoColor=black)](#) [![Embedded Devices](https://img.shields.io/badge/-Embedded%20Devices-black?style=for-the-badge&labelColor=white&logo=youtube&logoColor=black)](#)
+[![Web](https://img.shields.io/badge/-Web-black?style=for-the-badge&labelColor=white&logo=internet-explorer&logoColor=black)](#) [![Desktop](https://img.shields.io/badge/-Desktop-black?style=for-the-badge&labelColor=white&logo=whatsapp&logoColor=black)](#) [![Mobile](https://img.shields.io/badge/-Mobile-black?style=for-the-badge&labelColor=white&logo=android&logoColor=black)](#)  [![Embedded Devices](https://img.shields.io/badge/-Embedded%20Devices-black?style=for-the-badge&labelColor=white&logo=youtube&logoColor=black)](#)
 
 ![visitors](https://komarev.com/ghpvc/?username=kkamara&color=blueviolet&style=for-the-badge)
 
