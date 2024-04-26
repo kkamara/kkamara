@@ -17,8 +17,8 @@ Hi
 Here are few samples from www.kelvinkamara.com
 
 - [a sound app](https://github.com/kkamara/kelvinkamara)
+- [Marvel comics browse and manage your favourite comics for the desktop (download)](https://github.com/kkamara/mrvl-desktop)
 - [Marvel comics browse and manage your favourite comics for the web](https://github.com/kkamara/mrvl-web)
-- [Marvel comics browse and manage your favourite comics for the desktop](https://github.com/kkamara/mrvl-desktop)
 
 <details>
 <summary>
