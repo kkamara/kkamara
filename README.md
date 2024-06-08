@@ -327,7 +327,7 @@ Favourite football team: Arsenal.
 
 [What is bilateral music?](https://www.ementalhealth.ca/Waterloo-Regional-Municipality/Bilateral-Music-for-Anxiety-Stress-and-Trauma/index.php?m=article&ID=84502)
 
-Favourite music: [Best Remixes of Popular Songs](https://www.youtube.com/watch?v=zUJjoFfID50), [Music For Work — Night Productive Mix](https://www.youtube.com/watch?v=QxtigSvGnD8).
+Favourite music: [Best Remixes of Popular Songs](https://www.youtube.com/watch?v=zUJjoFfID50), [BBC Radio 1Xtra](https://www.bbc.co.uk/sounds/play/live:bbc_1xtra).
 
 When using YouTube I remove live chat and comments with [YouTube magic options](https://www.chromeactions.com/).
 
