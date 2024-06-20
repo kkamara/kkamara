@@ -27,7 +27,9 @@ Here are few samples from www.kelvinkamara.com
 
 > Hi
 > <p>Born & raised in south east London, I have excellent IT skills. I am a great time keeper with outstanding organisational skills. I am also always willing to learn new skills. I am friendly, helpful and polite, with a good sense of humour. I am able to work both independently and in busy teams.</p>
-> <p>From my time as the lead web developer at Jobsender in 2020, I am outgoing, tactful and capable of listening effectively when solving problems. Most importantly - I am dedicated and committed to performing to the best ability. I am a person who strives to complete personal and team goals.</p>
+> <p>From my time as the lead web developer at Jobsender in 2020, I am outgoing, tactful and capable of listening effectively when solving problems.</p>
+> <p>Most importantly - I am dedicated and committed to performing to the best ability.</p>
+> <p>I am a person who strives to complete personal and team goals.</p>
 > <p>I have over 10 years programming experience working with Unix systems to a high level. I have enjoyed working with both monolithic and microservice applications.</p>
 > <p>I am a firm believer in using the right tool for the job. Specializing in backend server development I was fortunate to achieve the Recognition Award in April 2019 from the UK government Cabinet Office for my work with secure web systems. You can find out more about the award on my website at https://www.kelvinkamara.com</p>
 > <p>I was in the team at Mission Labs in 2019 that made the JD Sports mobile app with ReactJS Native, and the warehouse delivery management software for which I had project ownership with ReactJS, NodeJS and AWS.</p>
