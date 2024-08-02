@@ -36,7 +36,7 @@ Here are few samples from www.kelvinkamara.com
 
 > Hi
 > <p>Born & raised in south east London, I have excellent IT skills. I am a great time keeper with outstanding organisational skills. I am also always willing to learn new skills. I am friendly, helpful and polite, with a good sense of humour. I am able to work both independently and in busy teams.</p>
-> <p>From my time as the lead web developer at Jobsender in 2020, I am outgoing, tactful and capable of listening effectively when solving problems.</p>
+> <p>I am outgoing, tactful and capable of listening effectively when solving problems.</p>
 > <p>Most importantly - I am dedicated and committed to performing to the best ability.</p>
 > <p>I am a person who strives to complete personal and team goals.</p>
 > <p>I have over 10 years programming experience working with Unix systems to a high level. I have enjoyed working with both monolithic and microservice applications.</p>
@@ -44,7 +44,7 @@ Here are few samples from www.kelvinkamara.com
 > <p>I was a software engineer at Mission Labs (2019 - 2020) in the team that made the JD Sports mobile app with ReactJS Native, and the warehouse delivery management software for which I had project ownership with AWS, ReactJS and NodeJS.</p>
 > <p>I created, managed and deployed the website and mobile app for PlayPal in 2024 with ReactJS Native, and the website with PHP Laravel and ReactJS. At PlayPal the website and mobile app needed to have the same look and feel as the PlayPal logo. I was responsible for design, delivery and deployment of these platforms. The website and mobile app for PlayPal had translation support for English and Spanish.
 > <p>I worked as a contractor lead web developer at VacancySoft for 23 months (April 2022 - February 2024) where I created systems in Python Django and PHP Laravel that would scrape millions of websites in routines, gathering data as VacancySoft is a publishing data company.</p>
-> <p>At Jobsender, aforementioned, I was responsible for the entire IT side of things for its job-posting platform. I oversaw and contributed towards the complete technical operations for the company including but not limited to managing programming, IT infrastructure, task management, development and product technical direction. I learned and used the pre-existing FuelPHP-framework app to add a job board and to create an API for third parties to access system operations like job posting.</p>
+> <p>At Job Sender I was responsible for the entire IT side of things for its job-posting platform. I oversaw and contributed towards the complete technical operations for the company including but not limited to managing programming, IT infrastructure, task management, development and product technical direction. I learned and used the pre-existing FuelPHP-framework app to add a job board and to create an API for third parties to access system operations like job posting.</p>
 > www.kelvinkamara.com
 
 </details>
