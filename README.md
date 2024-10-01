@@ -340,15 +340,15 @@ Favourite football team: Arsenal.
 
 Favourite music: [The Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara).
 
-When using YouTube I remove live chat and comments with [YouTube magic options](https://www.chromeactions.com/).
-
 Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png)
 
 Nationality: I have a UK passport.
 
-I am born and raised in Lewisham, South East London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria twice. 
+I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice. 
 
-[f.lux](https://justgetflux.com/) - reduce eye strain on Windows operating system.
+I use [f.lux](https://justgetflux.com/) to reduce eye strain. This software is available for Windows operating system.
+
+I have an alarm every day at 8pm to stop coding and rest. I mostly adhere to this except for rare cases.
 
 </details>
 
