@@ -71,6 +71,8 @@ label:unread newer:06-17-2023
 user:kkamara in:readme node.js
 ```
 
+[My Anime List](https://github.com/kkamara/anime-list).
+
 [_layout.tsx](https://github.com/kkamara/playground/blob/main/typescript/_layout.tsx).
 
 [Button.tsx](https://github.com/kkamara/playground/blob/main/typescript/Button.tsx).
