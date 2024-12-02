@@ -14,7 +14,7 @@ Programmer pages: [Github](https://www.github.com/kkamara), [Bitbucket](https://
 
 Hi
 
-Here are a few samples from www.kelvinkamara.com
+Here are a few samples from www.kelvinkamara.com .
 
 - [a sound app](https://github.com/kkamara/kelvinkamara)
 - [Marvel comics browse and manage your favourite comics for the desktop (download)](https://github.com/kkamara/mrvl-desktop)
