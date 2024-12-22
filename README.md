@@ -329,7 +329,7 @@ Pictures:
 
 <details>
 <summary>
-Version control:
+Version control (programmer pages):
 </summary>
 
 * [Github](https://github.com/kkamara/kkamara)
