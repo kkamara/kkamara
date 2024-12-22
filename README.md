@@ -160,7 +160,7 @@ user:kkamara in:readme node.js
 
 <details open>
 <summary>
-  The best IDEs (Integration Development Environment):
+  The best IDEs (Integration Development Environment) in no particular order:
 </summary>
 
 I am working with [Visual Studio Code](https://code.visualstudio.com/).
