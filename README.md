@@ -73,6 +73,11 @@ user:kkamara in:readme node.js
 
 [My Anime List](https://github.com/kkamara/anime-list).
 
+<details>
+<summary>
+  Code Snippets:
+</summary>
+
 [_layout.tsx](https://github.com/kkamara/playground/blob/main/typescript/_layout.tsx).
 
 [Button.tsx](https://github.com/kkamara/playground/blob/main/typescript/Button.tsx).
@@ -116,6 +121,8 @@ user:kkamara in:readme node.js
 [Building the MRVL (15 Jun 23) desktop app 2](https://github.com/kkamara/useful/blob/main/mrvl-desktop-building6.png).
 
 [Building the MRVL (15 Jun 23) desktop app 3](https://github.com/kkamara/useful/blob/main/mrvl-desktop-building7.png).
+
+</details>
 
 <details>
 <summary>
