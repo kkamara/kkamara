@@ -58,9 +58,9 @@ Google me at Kelvin award developer and Kamara award developer.
 ```bash
 # Search operators that you can use with Gmail.
 # Unread emails
-label:read
+label:unread
 # Today unread emails
-# label:read newer:month-day-year
+# label:unread newer:month-day-year
 label:unread newer:06-17-2023
 ```
 
