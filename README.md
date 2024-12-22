@@ -82,7 +82,7 @@ user:kkamara in:readme node.js
 
 <details>
 <summary>
-  Code Snippets:
+  Code snippets:
 </summary>
 
 [_layout.tsx](https://github.com/kkamara/playground/blob/main/typescript/_layout.tsx).
@@ -177,7 +177,7 @@ I am working with [Visual Studio Code](https://code.visualstudio.com/).
 
 <details>
 <summary>
-  Production Best Practices: Security
+  Production best practices: security
 </summary>
 
 * [PHPTheRightWay](https://phptherightway.com)
@@ -228,7 +228,7 @@ I am working with [Visual Studio Code](https://code.visualstudio.com/).
 
 <details>
 <summary>
-  Open source projects I've contributed to:
+  Open-source projects I've contributed to:
 </summary>
 
 * https://www.flamingo.me/flamingo-commerce.html#Home
