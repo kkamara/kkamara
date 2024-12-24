@@ -14,9 +14,9 @@ Hi
 
 Here are a few samples from www.kelvinkamara.com .
 
-- [a sound app](https://github.com/kkamara/kelvinkamara)
-- [Marvel comics browse and manage your favourite comics for the desktop (download)](https://github.com/kkamara/mrvl-desktop)
-- [Marvel comics browse and manage your favourite comics for the web](https://github.com/kkamara/mrvl-web)
+- [a sound app for the desktop (download)](https://github.com/kkamara/kelvinkamara)
+- [Marvel Comics: browse and manage your favourite comics for the desktop (download)](https://github.com/kkamara/mrvl-desktop)
+- [Marvel Comics: browse and manage your favourite comics for the web](https://github.com/kkamara/mrvl-web) .
 
 <details>
 <summary>
