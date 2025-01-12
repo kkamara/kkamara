@@ -85,8 +85,6 @@ user:kkamara in:readme node.js
   Code snippets:
 </summary>
 
-[golang-data-types.png](https://github.com/kkamara/playground/blob/main/go/golang-data-types.png).
-
 [_layout.tsx](https://github.com/kkamara/playground/blob/main/typescript/_layout.tsx).
 
 [Button.tsx](https://github.com/kkamara/playground/blob/main/typescript/Button.tsx).
