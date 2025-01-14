@@ -196,7 +196,6 @@ I am working with [Visual Studio Code](https://code.visualstudio.com/).
 </summary>
 
 * https://phptherightway.com/
-* https://www.youtube.com/watch?v=NeeBXWbQvJE
 * https://github.com/kkamara/playground/tree/main/py
 * https://github.com/kkamara/playground/tree/main/php
 * https://github.com/kkamara/playground/blob/main/go/fibonacci/main.go
