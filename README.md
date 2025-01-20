@@ -106,9 +106,9 @@ Pictures:
 
 [Add Creating Pdfs in Reactjs App](https://github.com/kkamara/pdf-php-reactjs-app/commit/f849a29667c9c32a4a4f6bc9c5856a1adce84759).
 
-[PHP Github to Bitbucket Backup Repo Updater](https://github.com/kkamara/ghbbupdater/blob/main/src/MainClass.php).
+[PHP Github to Bitbucket Backup Repo Updater](https://github.com/kkamara/php-github-to-bitbucket-backup-repo-updater/blob/main/src/MainClass.php).
 
-[Node.js Github to Bitbucket Backup Repo Updater](https://github.com/kkamara/github-to-bitbucket-backup-repo-updater).
+[NodeJS Github to Bitbucket Backup Repo Updater](https://github.com/kkamara/nodejs-github-to-bitbucket-backup-repo-updater).
 
 [Define roles & permissions for all access user](https://github.com/kkamara/crm-2-laravel-10/commit/1064a5b6ab52f4e2dcb003051e9b29ecb6ffdefd).
 
@@ -152,7 +152,7 @@ Pictures:
   Packages:
 </summary>
 
-* [www.npmjs.com/package/github-to-bitbucket-backup-repo-updater](https://www.npmjs.com/package/github-to-bitbucket-backup-repo-updater)
+* [www.npmjs.com/package/nodejs-github-to-bitbucket-backup-repo-updater](https://www.npmjs.com/package/nodejs-github-to-bitbucket-backup-repo-updater)
 
 </details>
 
@@ -419,7 +419,7 @@ https://kelvinkamara.com
     <td>
       <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/vbox2.png' />
       <br/>
-      <a href='https://github.com/kkamara/github-to-bitbucket-backup-repo-updater'>github-to-bitbucket-backup-repo-updater</a>
+      <a href='https://github.com/kkamara/nodejs-github-to-bitbucket-backup-repo-updater'>nodejs-github-to-bitbucket-backup-repo-updater</a>
     </td>
     <td>
       <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/gmail-clone.png' />
