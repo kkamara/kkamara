@@ -73,7 +73,7 @@ Pictures:
 
 <img src="https://raw.githubusercontent.com/kkamara/ecommerce/develop/public/v4-ecommerce.png" alt="v4-ecommerce.png" width="400"/>   <img src="https://github.com/kkamara/useful/raw/main/todo-app.png" alt="todo-app.png" width="400"/>
 
-<img src="https://github.com/kkamara/useful/raw/main/mrvl2.png" alt="mrvl2.png" width="400"/>   <img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl-desktop2.png" alt="mrvl-desktop2.png" width="400"/>
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl-desktop2.png" alt="mrvl-desktop2.png" width="400"/>   <img src="https://github.com/kkamara/useful/raw/main/mrvl2.png" alt="mrvl2.png" width="400"/>
 
 <img src="https://raw.githubusercontent.com/kkamara/useful/main/crm-2-laravel-10-2.png" alt="crm-2-laravel-10-2.png" width="400"/>   <img src="https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png" alt="admin.png" width="400"/>
 
@@ -385,12 +385,12 @@ https://kelvinkamara.com
     <td>
       <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png' />
       <br/>
-      <a href='https://github.com/kkamara/mrvl-web'>mrvl-web</a>
+      <a href='https://github.com/kkamara/mrvl-desktop'>mrvl-desktop</a>
     </td>
     <td>
       <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png' />
       <br/>
-      <a href='https://github.com/kkamara/mrvl-desktop'>mrvl-desktop</a>
+      <a href='https://github.com/kkamara/mrvl-web'>mrvl-web</a>
     </td>
     <td>
       <img height='150' width='267' src='https://github.com/kkamara/useful/blob/main/php-reactjs-boilerplate2.png?raw=true' />
