@@ -23,7 +23,7 @@ Here are a few samples from www.kelvinkamara.com .
   Short Cover Letter:
 </summary>
 
-> I am the lead web and mobile developer at PlayPal, for which I have received an outstanding reference. I work at PlayPal with PHP Laravel, ReactJS and ReactJS Native. I added translation support for English and Spanish across the website and mobile app. I achieved the Recognition Award from the UK government Cabinet Office in April 2019 using Bash, PHP, Java and JavaScript. I was in the team at Mission Labs (2019 - 2020) that made the JD Sports mobile app using ReactJS Native. At Mission Labs I had ownership of the warehouse delivery management CRM software, made with AWS, NodeJS and ReactJS. See my website for more at https://www.kelvinkamara.com .
+> I am the lead web and mobile developer at PlayPal, for which I have received an outstanding reference. I created the website and mobile app. I work at PlayPal with PHP Laravel, ReactJS and ReactJS Native. I added translation support for English and Spanish across the website and mobile app. I achieved the Recognition Award from the UK government Cabinet Office in April 2019 using Bash, PHP, Java and JavaScript. I was in the team at Mission Labs (2019 - 2020) that made the JD Sports mobile app using ReactJS Native. At Mission Labs I had ownership of the warehouse delivery management CRM software, made with AWS, NodeJS and ReactJS. See my website for more at https://www.kelvinkamara.com .
 
 </details>
 
