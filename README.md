@@ -144,7 +144,7 @@ SQL, Python, PHP, JavaScript, Bash.
 
 </details>
 
-<details open>
+<details>
 <summary>
   The best IDEs (Integration Development Environment) in no particular order:
 </summary>
