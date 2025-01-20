@@ -409,7 +409,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/mrvl-desktop'>mrvl-desktop</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/vbox2.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/gmail-clone.png' />
       <br/>
       <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
