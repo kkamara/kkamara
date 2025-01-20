@@ -53,22 +53,6 @@ I didn't go to university.
 
 SQL, Python, PHP, JavaScript, Bash.
 
-Google me at Kelvin award developer and Kamara award developer.
-
-```bash
-# Search operators that you can use with Gmail.
-# Unread emails
-label:unread
-# Today unread emails
-# label:unread newer:month-day-year
-label:unread newer:06-17-2023
-```
-
-```bash
-# Search repos with the search input on github.com (Github API)
-user:kkamara in:readme node.js
-```
-
 [My Anime List](https://github.com/kkamara/anime-list).
 
 <details>
