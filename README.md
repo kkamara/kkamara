@@ -33,7 +33,7 @@ Here are a few samples from www.kelvinkamara.com .
 </summary>
 
 > Hi
-> <p>Born & raised in south east London, I have excellent IT skills. I am a great time keeper with outstanding organisational skills. I am also always willing to learn new skills. I am friendly, helpful and polite, with a good sense of humour. I am able to work both independently and in busy teams.</p>
+> <p>Born and raised in south east London, I have excellent IT skills. I am a great time keeper with outstanding organisational skills. I am also always willing to learn new skills. I am friendly, helpful and polite, with a good sense of humour. I am able to work both independently and in busy teams.</p>
 > <p>I am outgoing, tactful and capable of listening effectively when solving problems.</p>
 > <p>Most importantly - I am dedicated and committed to performing to the best ability.</p>
 > <p>I am a person who strives to complete personal and team goals.</p>
