@@ -230,6 +230,8 @@ I am working with [Visual Studio Code](https://code.visualstudio.com/).
 
 * https://en.m.wikipedia.org/wiki/Don%27t_repeat_yourself
 
+* https://en.wikipedia.org/wiki/Yoda_conditions
+
 </details>
 
 <details>
