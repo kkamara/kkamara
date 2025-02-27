@@ -320,7 +320,6 @@ Version control (programmer pages):
 </summary>
 
 * [Github](https://github.com/kkamara/kkamara)
-* [Bitbucket](https://bitbucket.org/kkamara2)
 
 </details>
 
