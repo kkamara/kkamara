@@ -352,7 +352,7 @@ I use [f.lux](https://justgetflux.com/) to reduce eye strain. This software is a
 
 I have an alarm every day at 8pm to stop coding and rest. I mostly adhere to this except in rare cases.
 
-PTSD Healing: https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing
+PTSD Healing (64kbps): https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing
 
 </details>
 
