@@ -358,15 +358,6 @@ PTSD Healing (64kbps): https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCP
 
 <details>
 <summary>
-Best Remixes of Popular Songs:
-</summary>
-
-- [Best Remixes & Mashups Of Popular Songs 2022 | Music Mix 2022 | New Charts](https://www.youtube.com/watch?v=zUJjoFfID50&t=861s&ab_channel=DJEkkiMusic)
-
-</details>
-
-<details>
-<summary>
 Drum and Bass (DnB) Music:
 </summary>
 
