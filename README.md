@@ -358,6 +358,15 @@ PTSD Healing (64kbps): https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCP
 
 <details>
 <summary>
+House Music Live:
+</summary>
+
+- [Deep & Melodic House 24/7: Relaxing Music • Chill Study Music](https://www.youtube.com/watch?v=WsDyRAPFBC8&ab_channel=MonstercatSilk).
+
+</details>
+
+<details>
+<summary>
 Drum and Bass (DnB) Music:
 </summary>
 
@@ -369,7 +378,7 @@ Drum and Bass (DnB) Music:
 - [GQ Podcast - Dubstep Mix & Konec Guest Mix [Ep.110]](https://www.youtube.com/watch?v=gNFU9bf3qJE)
 - [GQ Podcast - DNB Mix & Muzzy Guest Mix [Ep.116]](https://www.youtube.com/watch?v=3zLiiZSOBTE)
 - [GQ Podcast - Drum & Bass Mix & Maduk Guest Mix [Ep.95]](https://www.youtube.com/watch?v=ylRyNOaWOSU)
-- [GQ Podcast - Dubstep Mix & Fractal Guest Mix [Ep.118]](https://www.youtube.com/watch?v=jFeK7YaYPr4)
+- [GQ Podcast - Dubstep Mix & Fractal Guest Mix [Ep.118]](https://www.youtube.com/watch?v=jFeK7YaYPr4).
 
 </details>
 
