@@ -51,7 +51,7 @@ I achieved the UK government Cabinet Office Recognition Award at 22 years old (2
 
 I didn't go to university.
 
-SQL, Python, PHP, JavaScript, Bash.
+PHP, JavaScript, TypeScript, SQL, Python Bash.
 
 [My Anime List](https://github.com/kkamara/anime-list).
 
