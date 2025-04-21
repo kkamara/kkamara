@@ -20,29 +20,13 @@ Here are a few samples from www.kelvinkamara.com .
 
 <details>
 <summary>
-  Short Cover Letter:
-</summary>
-
-> I am the lead web and mobile developer at Joystick, for which I have received an outstanding reference. I created the website and mobile app. I work at Joystick with PHP Laravel, ReactJS and ReactJS Native. I added translation support for English and Spanish across the website and mobile app. I am responsible for deploying the website and mobile app. I create and manage tasks on Jira, and I distribute work throughout the team. I create AWS Serverless microservices APIs with TypeScript. I achieved the Recognition Award from the UK government Cabinet Office in April 2019 using Bash, PHP, Java and JavaScript. I was in the team at Mission Labs (2019 - 2020) that made the JD Sports mobile app using ReactJS Native. At Mission Labs I had ownership of the warehouse delivery management CRM software, made with AWS, NodeJS and ReactJS. See my website for more at www.kelvinkamara.com .
-
-</details>
-
-<details>
-<summary>
   Cover Letter:
 </summary>
 
 > Hi
-> <p>Born and raised in south east London, I have excellent IT skills. I am a great time keeper with outstanding organisational skills. I am also always willing to learn new skills. I am friendly, helpful and polite, with a good sense of humour. I am able to work both independently and in busy teams.</p>
-> <p>I am outgoing, tactful and capable of listening effectively when solving problems.</p>
-> <p>Most importantly - I am dedicated and committed to performing to the best ability.</p>
-> <p>I am a person who strives to complete personal and team goals.</p>
-> <p>I have over 10 years programming experience working with Unix systems to a high level. I have enjoyed working with both monolithic and microservice applications.</p>
-> <p>I am a firm believer in using the right tool for the job. Specializing in backend server development I was fortunate to achieve the Recognition Award in April 2019 from the UK government Cabinet Office for my work with secure web systems, using Bash, PHP, Java and JavaScript. You can find out more about the award on my website at https://www.kelvinkamara.com .</p>
-> <p>I was a software engineer at Mission Labs (2019 - 2020) in the team that made the JD Sports mobile app with ReactJS Native, and the warehouse delivery management software for which I had project ownership with AWS, ReactJS and NodeJS.</p>
-> <p>I created, managed and deployed the website and mobile app for Joystick. I created the website with PHP Laravel and ReactJS, and I created the mobile app with ReactJS Native. I received an outstanding reference for this role. At Joystick the website and mobile app needed to have the same look and feel as the Joystick logo. The website app and mobile app for Joystick have translation support for English and Spanish. I was responsible for deploying the website and mobile app. I created and managed tasks on Jira, and I distributed work throughout the team. I created AWS Serverless microservices APIs with TypeScript.</p>
-> <p>I worked as a contractor lead web developer at VacancySoft for 23 months (April 2022 - February 2024) where I created systems in Python Django and PHP Laravel that would scrape millions of websites in routines, gathering data as VacancySoft is a publishing data company.</p>
-> <p>At Job Sender in 2020, I was responsible for the entire IT side of things for its job-posting platform. I oversaw and contributed towards the complete technical operations for the company including but not limited to managing programming, IT infrastructure, task management, development and product technical direction. I learned and used the pre-existing FuelPHP-framework app to add a job board and to create an API for third parties to access system operations like job posting.</p>
+> 
+> As the Chief Technical Officer (CTO) of Joystick, I create, manage, and deploy the software solutions that Joystick offers. I oversee and contribute towards the complete technical operations for the company, including, but not limited to, managing programming, IT infrastructure, task management, development, team members, and product technical direction.
+> 
 > www.kelvinkamara.com
 
 </details>
