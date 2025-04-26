@@ -232,7 +232,7 @@ I am working with [Visual Studio Code](https://code.visualstudio.com/).
 Business cards printed: 
 </summary>
 
-4000.
+6500.
 </details>
 
 <details>
