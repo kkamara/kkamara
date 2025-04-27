@@ -33,8 +33,10 @@ Here are a few samples from www.kelvinkamara.com .
 </summary>
 
 > Hi
+>
+> As the lead web and mobile developer at Joystick, since February 2024, I created the mobile app and website for the company. In April 2025, I was then promoted to chief technical officer (CTO).
 > 
-> As the Chief Technical Officer (CTO) of Joystick, I create, manage, and deploy the software solutions that Joystick offers. I oversee and contribute towards the complete technical operations for the company, including, but not limited to, managing programming, IT infrastructure, task management, development, team members, and product technical direction.
+> As the chief technical officer (CTO) of Joystick, I create, manage, and deploy the software solutions that Joystick offers. I oversee and contribute towards the complete technical operations for the company, including but not limited to managing programming, IT infrastructure, task management, development, team members, and product technical direction.
 > 
 > www.kelvinkamara.com
 
