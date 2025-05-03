@@ -316,29 +316,21 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite football team: Arsenal.
+Favourite football team: Arsenal, but I stopped following football when I was a teenager.
 
-[Free Text To Speech Reader Online](https://ttsreader.com). I use that to listen to articles, books and tutorials.
+Favourite radio: BBC Radio 1 because of its variety. The station plays loads of different types of music. You can listen to UK radio stations by downloading the [Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara).
 
-[YouTube Video and Audio Downloader Online](https://www.ytbvideoly.com/d10-home/).
-
-[Binaural Beats Explained (see description for 5 different wave types).](https://www.youtube.com/watch?v=p1HasPl3QvU)
-
-[What is bilateral music?](https://www.ementalhealth.ca/Waterloo-Regional-Municipality/Bilateral-Music-for-Anxiety-Stress-and-Trauma/index.php?m=article&ID=84502)
-
-Favourite music: [The Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara).
-
-Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png)
+Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png).
 
 Nationality: I have a UK passport.
 
 I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice. 
 
-I use [f.lux](https://justgetflux.com/) to reduce eye strain. This software is available for Windows operating system.
+I use [f.lux](https://justgetflux.com/) to reduce eye strain. The software is available for Windows operating system.
 
-I have an alarm every day at 8pm to stop coding and rest. I mostly adhere to this except in rare cases.
+I used to have an alarm every day at 8pm to stop coding, to rest, and prepare for bed.
 
-PTSD Healing (64kbps): https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing
+PTSD Healing (64 kbps): [link](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing).
 
 </details>
 
