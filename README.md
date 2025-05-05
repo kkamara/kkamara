@@ -357,9 +357,9 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/premium-artist-cms-template'>premium-artist-cms-template</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/php-scraper.gif' />
+      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/nodejs-scraper.gif' />
       <br/>
-      <a href='https://github.com/kkamara/php-scraper'>php-selenium-web-scraper</a>
+      <a href='https://github.com/kkamara/nodejs-scraper'>nodejs-scraper</a>
     </td>
   </tr>
   <tr>
