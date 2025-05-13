@@ -318,7 +318,7 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal, but I stopped following football when I was a teenager.
 
-Favourite music: I go on [soundcloud.com](https://www.soundcloud.com) and I listen to the daily mixes that are mixed for me. It's typically some sort of electronic music. For ambience I accompany that with the [Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara).
+Favourite music: I listen to the ambient sounds of the [Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara).
 
 Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png).
 
