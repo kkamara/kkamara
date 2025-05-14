@@ -212,6 +212,8 @@ I am working with [Visual Studio Code](https://code.visualstudio.com/).
   Principles:
 </summary>
 
+* Do the hardest task(s) first
+
 * https://en.m.wikipedia.org/wiki/Separation_of_concerns
 
 * https://en.m.wikipedia.org/wiki/Don%27t_repeat_yourself
