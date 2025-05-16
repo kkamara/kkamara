@@ -322,11 +322,9 @@ Favourite football team: Arsenal, but I stopped following football when I was a 
 
 Favourite music: I listen to the ambient sounds of the [Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara). I like music with no vocals.
 
-Nationality: I have a UK passport.
+Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice. 
 
-I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice. 
-
-I use [f.lux](https://justgetflux.com/) to reduce eye strain. The software is available for Windows operating system.
+I used [f.lux](https://justgetflux.com/) for many years to reduce eye strain. Now, I don't use that anymore. For programming, I use Solarized themes because it reduces eye strain and improves the visual clarity of text. For web browsing, I use [Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) Google Chrome web browser extension, where I can easily configure it to turn off, for operability, for some sites like Github.com .
 
 I used to have an alarm every day at 8pm to stop coding, to rest, and prepare for bed.
 
