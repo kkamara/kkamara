@@ -9,7 +9,7 @@
 
 <img src="https://github.com/kkamara/useful/raw/main/business-systems.png" alt="business-systems.png" width=""/>
 
-<img src="https://github.com/kkamara/useful/raw/main/the-kelvin-kamara-sound-app.png?raw=true" alt="the-kelvin-kamara-sound-app.png" width="175px"/> <img src="https://github.com/kkamara/useful/raw/main/nodejs-crm5.png?raw=true" alt="nodejs-crm5.png" width="175px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png" alt="mrvl5.png" width="175px"/> <img src="https://github.com/kkamara/useful/blob/main/ReactJSNativeMobileAppBoilerplate.png?raw=true" alt="ReactJSNativeMobileAppBoilerplate.png" width="175px"/>
+<img src="https://github.com/kkamara/useful/raw/main/the-kelvin-kamara-sound-app.png?raw=true" alt="the-kelvin-kamara-sound-app.png" width="175px"/> <img src="https://github.com/kkamara/useful/raw/main/nodejs-reactjs-boilerplate.png?raw=true" alt="nodejs-reactjs-boilerplate.png" width="175px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png" alt="mrvl5.png" width="175px"/> <img src="https://github.com/kkamara/useful/blob/main/ReactJSNativeMobileAppBoilerplate.png?raw=true" alt="ReactJSNativeMobileAppBoilerplate.png" width="175px"/>
 
 Programmer pages: [Github](https://www.github.com/kkamara), [Bitbucket](https://bitbucket.org/kkamara2).
 
@@ -322,8 +322,6 @@ Favourite football team: Arsenal, but I stopped following football when I was a 
 
 Favourite music: I listen to the ambient sounds of the [Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara).
 
-Favourite photo: [Node.js CRM 5.png](https://raw.githubusercontent.com/kkamara/useful/main/nodejs-crm5.png).
-
 Nationality: I have a UK passport.
 
 I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice. 
@@ -376,7 +374,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/mrvl-web'>mrvl-web</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/nodejs-crm5.png?raw=true' />
+      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/nodejs-reactjs-boilerplate.png?raw=true' />
       <br/>
       <a href='https://github.com/kkamara/nodejs'>nodejs-reactjs-boilerplate</a>
     </td>
