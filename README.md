@@ -320,7 +320,7 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal, but I stopped following football when I was a teenager.
 
-Favourite music: I listen to the ambient sounds of the [Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara).
+Favourite music: I listen to the ambient sounds of the [Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara). I like music with no vocals.
 
 Nationality: I have a UK passport.
 
