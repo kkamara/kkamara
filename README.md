@@ -11,7 +11,7 @@
 
 <img src="https://github.com/kkamara/useful/raw/main/the-kelvin-kamara-sound-app.png?raw=true" alt="the-kelvin-kamara-sound-app.png" width="175px"/> <img src="https://github.com/kkamara/useful/raw/main/nodejs-reactjs-boilerplate.png?raw=true" alt="nodejs-reactjs-boilerplate.png" width="175px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png" alt="mrvl5.png" width="175px"/> <img src="https://github.com/kkamara/useful/blob/main/ReactJSNativeMobileAppBoilerplate.png?raw=true" alt="ReactJSNativeMobileAppBoilerplate.png" width="175px"/>
 
-Programmer pages: [Github](https://www.github.com/kkamara), [Bitbucket](https://bitbucket.org/kkamara2).
+Programmer pages: [Github](https://www.github.com/kkamara).
 
 [![Websites](https://img.shields.io/badge/-Websites-black?style=for-the-badge&labelColor=white&logo=gnometerminal&logoColor=black)](#) [![Mobile Apps](https://img.shields.io/badge/-Mobile%20Apps-black?style=for-the-badge&labelColor=white&logo=android&logoColor=black)](#) [![Desktop Apps](https://img.shields.io/badge/-Desktop%20Apps-black?style=for-the-badge&labelColor=white&logo=whatsapp&logoColor=black)](#) [![Embedded Devices](https://img.shields.io/badge/-Embedded%20Devices-black?style=for-the-badge&labelColor=white&logo=youtube&logoColor=black)](#)
 
