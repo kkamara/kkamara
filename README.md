@@ -85,8 +85,6 @@ Pictures:
   Code snippets:
 </summary>
 
-[GetInput](https://github.com/kkamara/playground/blob/main/java/GetInput/src/kelvinkamara/Main.java).
-
 [_layout.tsx](https://github.com/kkamara/playground/blob/main/typescript/_layout.tsx).
 
 [Button.tsx](https://github.com/kkamara/playground/blob/main/typescript/Button.tsx).
