@@ -85,6 +85,8 @@ Pictures:
   Code snippets:
 </summary>
 
+[MessageProvider.tsx applied in ReactJSNativeMobileAppBoilerplate app](https://github.com/kkamara/ReactJSNativeMobileAppBoilerplate/blob/main/src/providers/MessageProvider.tsx).
+
 [Button.tsx applied in ReactJSNativeMobileAppBoilerplate app](https://github.com/kkamara/ReactJSNativeMobileAppBoilerplate/blob/main/src/components/Button.tsx).
 
 [_layout.tsx applied in ReactJSNativeMobileAppBoilerplate app](https://github.com/kkamara/ReactJSNativeMobileAppBoilerplate/blob/main/src/app/(tabs)/(user)/_layout.tsx).
