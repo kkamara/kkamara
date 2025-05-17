@@ -85,11 +85,9 @@ Pictures:
   Code snippets:
 </summary>
 
+[Button.tsx applied in ReactJSNativeMobileAppBoilerplate app](https://github.com/kkamara/ReactJSNativeMobileAppBoilerplate/blob/main/src/components/Button.tsx).
+
 [_layout.tsx applied in ReactJSNativeMobileAppBoilerplate app](https://github.com/kkamara/ReactJSNativeMobileAppBoilerplate/blob/main/src/app/(tabs)/(user)/_layout.tsx).
-
-[_layout.tsx](https://github.com/kkamara/playground/blob/main/typescript/_layout.tsx).
-
-[Button.tsx](https://github.com/kkamara/playground/blob/main/typescript/Button.tsx).
 
 [dob.js](https://github.com/kkamara/playground/blob/main/javascript/dob/dob.js).
 
