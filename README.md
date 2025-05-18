@@ -368,12 +368,17 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/mrvl-web'>mrvl-web</a>
     </td>
     <td>
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/ReactJSNativeMobileAppBoilerplate.png' />
+      <br/>
+      <a href='https://github.com/kkamara/ReactJSNativeMobileAppBoilerplate'>ReactJSNativeMobileAppBoilerplate</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/nodejs-reactjs-boilerplate.png?raw=true' />
       <br/>
       <a href='https://github.com/kkamara/nodejs-reactjs-boilerplate'>nodejs-reactjs-boilerplate</a>
     </td>
-  </tr>
-  <tr>
     <td>
       <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/beauty-parlour-management-system.png?raw=true' />
       <br/>
@@ -384,17 +389,12 @@ https://kelvinkamara.com
       <br/>
       <a href='https://github.com/kkamara/book-store-management-system'>book-store-management-system</a>
     </td>
+  </tr>
+  <tr>
     <td>
       <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/ram.png' />
       <br/>
       <a href='https://github.com/kkamara/ram'>rick-and-morty</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/ReactJSNativeMobileAppBoilerplate.png' />
-      <br/>
-      <a href='https://github.com/kkamara/ReactJSNativeMobileAppBoilerplate'>ReactJSNativeMobileAppBoilerplate</a>
     </td>
     <td>
       <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/gmail-clone.png' />
