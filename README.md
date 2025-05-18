@@ -23,7 +23,7 @@ Hi
 
 Here are a few samples from www.kelvinkamara.com .
 
-- [a sound app for the desktop (download)](https://github.com/kkamara/kelvinkamara)
+- [a sound app for the desktop (download)](https://github.com/kkamara/the-kelvin-kamara-sound-app)
 - [Marvel Comics: browse and manage your favourite comics for the desktop (download)](https://github.com/kkamara/mrvl-desktop)
 - [Marvel Comics: browse and manage your favourite comics for the web](https://github.com/kkamara/mrvl-web) .
 
@@ -320,13 +320,9 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal, but I stopped following football when I was a teenager.
 
-Favourite music: I listen to the ambient sounds of the [Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara). I like music with no vocals.
+Favourite music: I like music with no vocals. I listen to deep focus music and the ambient sounds of the [Kelvin Kamara sound app](https://github.com/kkamara/the-kelvin-kamara-sound-app), usually just the rain sound that is featured on my app.
 
 Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice. 
-
-I used [f.lux](https://justgetflux.com/) for many years to reduce eye strain. Now, I don't use that anymore. For programming, I use Solarized themes because it reduces eye strain and improves the visual clarity of text. For web browsing, I use [Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) Google Chrome web browser extension, where I can easily configure it to turn off, for operability, for some sites like Github.com .
-
-I used to have an alarm every day at 8pm to stop coding, to rest, and prepare for bed.
 
 PTSD Healing (64 kbps): [link](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing).
 
