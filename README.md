@@ -324,10 +324,6 @@ Favourite music: I listen to the ambient sounds of [The Kelvin Kamara Sound App]
 
 Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice. 
 
-PTSD Healing (64 kbps): [link](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing).
-
-I use [Flux](https://justgetflux.com) to set the tone for my computer's display. It's easier on the eyes.
-
 </details>
 
 <details>
