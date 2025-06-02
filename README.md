@@ -1,6 +1,6 @@
 <details open>
 <summary>
-  UK Government Cabinet Office Recognition Award:
+UK Government Cabinet Office Recognition Award:
 </summary>
 
 ![government award](https://www.kelvinkamara.com/award.jpg)
@@ -29,7 +29,7 @@ Here are a few samples from www.kelvinkamara.com .
 
 <details>
 <summary>
-  Cover Letter:
+Cover Letter:
 </summary>
 
 > Hi
@@ -52,7 +52,7 @@ JavaScript, SQL, Bash.
 
 <details>
 <summary>
-  Github stats:
+Github stats:
 </summary>
 
 [![kkamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamara&count_private=true)](https://github.com/kkamara/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamara&langs_count=8)](https://github.com/kkamara/github-readme-stats)
@@ -82,60 +82,18 @@ Pictures:
 
 <details>
 <summary>
-  Code snippets:
+Technology Misc:
 </summary>
 
-[MessageProvider.tsx applied in ReactJSNativeMobileAppBoilerplate app](https://github.com/kkamara/ReactJSNativeMobileAppBoilerplate/blob/main/src/providers/MessageProvider.tsx).
+[Desktop 2023 Extra](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33).
 
-[Button.tsx applied in ReactJSNativeMobileAppBoilerplate app](https://github.com/kkamara/ReactJSNativeMobileAppBoilerplate/blob/main/src/components/Button.tsx).
-
-[_layout.tsx applied in ReactJSNativeMobileAppBoilerplate app](https://github.com/kkamara/ReactJSNativeMobileAppBoilerplate/blob/main/src/app/(tabs)/(user)/_layout.tsx).
-
-[dob.js](https://github.com/kkamara/playground/blob/main/javascript/dob/dob.js).
-
-[Remastered Baseball PHP Reactjs App](https://www.github.com/kkamara/remastered-baseball-php-reactjs-app).
-
-[Baseball PHP Reactjs App](https://www.github.com/kkamara/baseball-php-reactjs-app).
-
-[Add PHP Backend For Creating PDFs (Frontend Already Done)](https://github.com/kkamara/pdf-php-reactjs-app/commit/9156f04fcb3f37374582d2be7adf45bd8d41c7d0).
-
-[Add Creating Pdfs in Reactjs App](https://github.com/kkamara/pdf-php-reactjs-app/commit/f849a29667c9c32a4a4f6bc9c5856a1adce84759).
-
-[PHP Github to Bitbucket Backup Repo Updater](https://github.com/kkamara/php-github-to-bitbucket-backup-repo-updater/blob/main/src/MainClass.php).
-
-[NodeJS Github to Bitbucket Backup Repo Updater](https://github.com/kkamara/nodejs-github-to-bitbucket-backup-repo-updater).
-
-[Define roles & permissions for all access user](https://github.com/kkamara/crm-2-laravel-10/commit/1064a5b6ab52f4e2dcb003051e9b29ecb6ffdefd).
-
-[Add login with rememberToken](https://github.com/kkamara/crm-2-laravel-10/commit/350fe607b7d71eab0bb222b527a299c84d338e86).
-
-[Test Driven Development Movies App](https://github.com/kkamara/movies).
-
-[Add core app completing crm-laravel-10 upgrade](https://github.com/kkamara/crm-laravel-10/commit/418fee7edca61d6c7e1f382d18f044f9ee67de0f).
-
-[Expressjs debugging & file logs for development](https://github.com/kkamara/nodejs-crm/commit/2feb9115c7894cae5a3d31b3a7c1e93c6199247f).
-
-[Fix variables for views after big SQL usage upgrade](https://github.com/kkamara/nodejs-crm/commit/47d589aa8ce3c11e434c9a9c8cb8457743a21638).
-
-[Successful admin/ authenticate after big SQL usage upgrade](https://github.com/kkamara/nodejs-crm/commit/671fafb05feff7552baba199e57a5bceb20af3bf).
-
-[The United Kingdom works with Python as an interpreted, high-level, general-purpose programming language.](https://endoflife.date/python)
-
-[Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png) [(extra)](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33).
-
-[I built Premium Artist CMS Template in one week in early 2020.](https://github.com/kkamara/premium-artist-cms-template#premium-artist-cms-template)
-
-[Building the MRVL (15 Jun 23) desktop app](https://github.com/kkamara/useful/blob/main/mrvl-desktop-building5.png) ([MRVL desktop](https://github.com/kkamara/mrvl-desktop)) ([MRVL web](https://github.com/kkamara/mrvl)).
-
-[Building the MRVL (15 Jun 23) desktop app 2](https://github.com/kkamara/useful/blob/main/mrvl-desktop-building6.png).
-
-[Building the MRVL (15 Jun 23) desktop app 3](https://github.com/kkamara/useful/blob/main/mrvl-desktop-building7.png).
+[Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png).
 
 </details>
 
 <details>
 <summary>
-  Premium templates:
+Premium templates:
 </summary>
 
 * https://github.com/kkamara/premium-artist-cms-template
@@ -144,7 +102,7 @@ Pictures:
 
 <details>
 <summary>
-  Packages:
+Packages:
 </summary>
 
 * [www.npmjs.com/package/nodejs-github-to-bitbucket-backup-repo-updater](https://www.npmjs.com/package/nodejs-github-to-bitbucket-backup-repo-updater)
@@ -153,7 +111,7 @@ Pictures:
 
 <details>
 <summary>
-  The best IDEs (Integration Development Environment) in no particular order:
+The best IDEs (Integration Development Environment) in no particular order:
 </summary>
 
 I am working with [Visual Studio Code](https://code.visualstudio.com/).
@@ -170,7 +128,7 @@ I am working with [Visual Studio Code](https://code.visualstudio.com/).
 
 <details>
 <summary>
-  Production best practices: security
+Production best practices: security
 </summary>
 
 * [PHPTheRightWay](https://phptherightway.com)
@@ -183,7 +141,7 @@ I am working with [Visual Studio Code](https://code.visualstudio.com/).
 
 <details>
 <summary>
-  Interview Prep:
+Interview Prep:
 </summary>
 
 * https://github.com/kkamara/playground/blob/main/javascript/descending-order/test.spec.js
@@ -200,7 +158,7 @@ I am working with [Visual Studio Code](https://code.visualstudio.com/).
 
 <details>
 <summary>
-  My gists:
+My Gists:
 </summary>
 
 * https://gist.github.com/kkamara
@@ -209,7 +167,7 @@ I am working with [Visual Studio Code](https://code.visualstudio.com/).
 
 <details>
 <summary>
-  Principles:
+Principles:
 </summary>
 
 * Do the hardest task(s) first
@@ -224,7 +182,7 @@ I am working with [Visual Studio Code](https://code.visualstudio.com/).
 
 <details>
 <summary>
-  Open-source projects I've contributed to:
+Open-source projects I've contributed to:
 </summary>
 
 * https://www.flamingo.me/flamingo-commerce.html#Home
@@ -241,7 +199,7 @@ Business cards printed:
 
 <details>
 <summary>
-Useful commands:
+Useful Commands:
 </summary>
 
 ```
