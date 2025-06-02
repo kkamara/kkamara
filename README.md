@@ -11,7 +11,7 @@ UK Government Cabinet Office Recognition Award:
 
 <img src="https://github.com/kkamara/useful/raw/main/the-kelvin-kamara-sound-app.png?raw=true" alt="the-kelvin-kamara-sound-app.png" width="175px"/> <img src="https://github.com/kkamara/useful/raw/main/nodejs-reactjs-boilerplate.png?raw=true" alt="nodejs-reactjs-boilerplate.png" width="175px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png" alt="mrvl5.png" width="175px"/> <img src="https://github.com/kkamara/useful/blob/main/ReactJSNativeMobileAppBoilerplate.png?raw=true" alt="ReactJSNativeMobileAppBoilerplate.png" width="175px"/>
 
-Programmer pages: [Github](https://www.github.com/kkamara).
+Official programmer pages: [Github](https://www.github.com/kkamara).
 
 [![Websites](https://img.shields.io/badge/-Websites-black?style=for-the-badge&labelColor=white&logo=gnometerminal&logoColor=black)](#) [![Mobile Apps](https://img.shields.io/badge/-Mobile%20Apps-black?style=for-the-badge&labelColor=white&logo=android&logoColor=black)](#) [![Desktop Apps](https://img.shields.io/badge/-Desktop%20Apps-black?style=for-the-badge&labelColor=white&logo=whatsapp&logoColor=black)](#) [![Embedded Devices](https://img.shields.io/badge/-Embedded%20Devices-black?style=for-the-badge&labelColor=white&logo=youtube&logoColor=black)](#)
 
@@ -52,7 +52,7 @@ JavaScript, SQL, Bash.
 
 <details>
 <summary>
-Github stats:
+Github Stats:
 </summary>
 
 [![kkamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamara&count_private=true)](https://github.com/kkamara/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamara&langs_count=8)](https://github.com/kkamara/github-readme-stats)
@@ -93,7 +93,7 @@ Technology Misc:
 
 <details>
 <summary>
-Premium templates:
+Premium Templates:
 </summary>
 
 * https://github.com/kkamara/premium-artist-cms-template
@@ -106,23 +106,23 @@ Packages:
 </summary>
 
 * [www.npmjs.com/package/nodejs-github-to-bitbucket-backup-repo-updater](https://www.npmjs.com/package/nodejs-github-to-bitbucket-backup-repo-updater)
+* [www.packagist.org/packages/kkamara/php-github-to-bitbucket-backup-repo-updater](https://packagist.org/packages/kkamara/php-github-to-bitbucket-backup-repo-updater)
+* [www.github.com/kkamara/debian-linux-desktop-setup](https://github.com/kkamara/debian-linux-desktop-setup)
 
 </details>
 
 <details>
 <summary>
-The best IDEs (Integration Development Environment) in no particular order:
+My IDE:
 </summary>
 
-I am working with [Visual Studio Code](https://code.visualstudio.com/).
+I work with [Visual Studio Code](https://code.visualstudio.com) and [Vim](https://www.vim.org).
 
-* Use TAB key to trigger [emmet snippets](https://vimawesome.com/plugin/emmet-vim) in Vim (https://stackoverflow.com/questions/34822074/vim-key-mapping-for-emmet-vim)
-* [Eclipse (Windows, macOs, Ubuntu Linux) (The Leading Open Platform for Professional Developers)](https://eclipseide.org/)
-* [Notepad++ (Windows)](https://notepad-plus-plus.org/)
-* [TextMate (macOs)](https://macromates.com/)
-* [Sublime Text (Windows, macOs, Ubuntu Linux) (written in C++, Python)](https://www.sublimetext.com/)
+Here is my VSCode configuration:
 * [vscode-install-extensions.sh](https://github.com/kkamara/useful/blob/main/vscode-install-extensions.sh)
 * [vscode-settings.json](https://github.com/kkamara/useful/blob/main/vscode-settings.json).
+
+When using Vim I have the TAB key configured to trigger [Emmet snippets](https://vimawesome.com/plugin/emmet-vim). You can configure that at https://stackoverflow.com/questions/34822074/vim-key-mapping-for-emmet-vim .
 
 </details>
 
@@ -131,10 +131,9 @@ I am working with [Visual Studio Code](https://code.visualstudio.com/).
 Production best practices: security
 </summary>
 
-* [PHPTheRightWay](https://phptherightway.com)
-* [Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
-* [Forms, File Uploads and Security with Node.js and Express](https://www.sitepoint.com/forms-file-uploads-security-node-express/)
-* [The Open Worldwide Application Security Project (OWASP)](https://en.wikipedia.org/wiki/OWASP)
+* [Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html).
+* [Forms, File Uploads and Security with Node.js and Express](https://www.sitepoint.com/forms-file-uploads-security-node-express/).
+* [The Open Worldwide Application Security Project (OWASP)](https://en.wikipedia.org/wiki/OWASP).
 * [The Modern JavaScript Tutorial](https://github.com/javascript-tutorial/en.javascript.info).
 
 </details>
@@ -144,15 +143,7 @@ Production best practices: security
 Interview Prep:
 </summary>
 
-* https://github.com/kkamara/playground/blob/main/javascript/descending-order/test.spec.js
-* https://github.com/kkamara/playground/blob/main/javascript/template-literal/test.spec.js
-* https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/popover
-* https://phptherightway.com/
-* https://github.com/kkamara/playground/tree/main/py
-* https://github.com/kkamara/playground/tree/main/php
-* https://github.com/kkamara/playground/blob/main/go/fibonacci/main.go
-* https://github.com/kkamara/playground/blob/main/go/projectsearcher/main.go
-* https://github.com/kkamara/playground/blob/main/go/wait-groups/main.go
+* https://github.com/kkamara/playground
 
 </details>
 
@@ -182,7 +173,7 @@ Principles:
 
 <details>
 <summary>
-Open-source projects I've contributed to:
+Open-Source Projects I've Contributed To:
 </summary>
 
 * https://www.flamingo.me/flamingo-commerce.html#Home
@@ -191,7 +182,7 @@ Open-source projects I've contributed to:
 
 <details>
 <summary>
-Business cards printed: 
+Business Cards Printed: 
 </summary>
 
 6500.
@@ -213,9 +204,9 @@ npx gitignore
 [gitignore](https://www.npmjs.com/package/gitignore)
 
 ```
-$( pnpm bin )/react-scripts
+$( yarn bin )/react-scripts
 ```
-[pnpm bin](https://pnpm.io/cli/bin) [npm bin](https://docs.npmjs.com/cli/v7/commands/npm-bin)
+[yarn bin](https://yarnpkg.com/cli/bin)
 
 ```
 npm cache clean --force
@@ -248,7 +239,7 @@ netstat -ltpn
 
 <details>
 <summary>
-Software engineering challenges with solutions and tests:
+Software Engineering Challenges With Solutions and Tests:
 </summary>
 https://github.com/kkamara/playground
 </details>
@@ -262,7 +253,7 @@ https://github.com/kkamara/useful/blob/main/vimrc
 
 <details>
 <summary>
-Version control (programmer pages):
+Official Programmer Pages:
 </summary>
 
 * [Github](https://github.com/kkamara/kkamara)
