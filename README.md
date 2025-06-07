@@ -48,8 +48,6 @@ I didn't go to university.
 
 JavaScript, SQL, Bash.
 
-[My Anime List](https://github.com/kkamara/anime-list).
-
 <details>
 <summary>
 Github Stats:
@@ -271,7 +269,9 @@ Favourite football team: Arsenal, but I stopped following football when I was a 
 
 Favourite music: I listen to the ambient sounds of [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app). I also sometimes accompany this with bird song. Click [here](https://www.youtube.com/@BEONatureBirdSinging) for the best nature birds singing.
 
-Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice. 
+Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice.
+
+[My Anime List](https://github.com/kkamara/anime-list).
 
 </details>
 
