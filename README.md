@@ -122,6 +122,10 @@ Here is my VSCode configuration:
 
 When using Vim I have the TAB key configured to trigger [Emmet snippets](https://vimawesome.com/plugin/emmet-vim). You can configure that at https://stackoverflow.com/questions/34822074/vim-key-mapping-for-emmet-vim .
 
+Here is my Vim configuration:
+
+* [vimrc](https://github.com/kkamara/useful/blob/main/vimrc).
+
 </details>
 
 <details>
@@ -240,13 +244,6 @@ netstat -ltpn
 Software Engineering Challenges With Solutions and Tests:
 </summary>
 https://github.com/kkamara/playground
-</details>
-
-<details>
-<summary>
-Vimrc:
-</summary>
-https://github.com/kkamara/useful/blob/main/vimrc
 </details>
 
 <details>
