@@ -264,7 +264,7 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal, but I stopped following football when I was a teenager.
 
-Favourite music: On [Soundcloud](https://soundcloud.com) I listen to the "Rock, Metal, Punk" trending playlist, and similar. On the radio I listen to [Radio X Classic Rock](https://www.radiox.co.uk/classic-rock) and [Radio X](https://www.radiox.co.uk). Sometimes I listen to the ambient sounds of [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app). I also sometimes listen to bird song. Click [here](https://www.youtube.com/@BEONatureBirdSinging) for the best recordings of birds singing.
+Favourite music: On [Soundcloud](https://soundcloud.com) I listen to the ["Rock, Metal, Punk"](https://soundcloud.com/trending-music-gb/sets/rock-metal-punk) trending playlist, and similar. On the radio I listen to [Radio X Classic Rock](https://www.radiox.co.uk/classic-rock) and [Radio X](https://www.radiox.co.uk). Sometimes I listen to the ambient sounds of [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app). I also sometimes listen to bird song. Click [here](https://www.youtube.com/@BEONatureBirdSinging) for the best recordings of birds singing.
 
 Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice.
 
