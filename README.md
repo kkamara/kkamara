@@ -270,6 +270,8 @@ Nationality: I have a UK passport. I was born and raised in Lewisham, south east
 
 [My Anime List](https://github.com/kkamara/anime-list).
 
+[24 FPS vs 30 FPS vs 60 FPS (comparison)](https://www.youtube.com/watch?v=_SzGQkI-IwM&ab_channel=TechDamis).
+
 </details>
 
 <details>
