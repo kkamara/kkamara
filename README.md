@@ -264,7 +264,7 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal, but I stopped following football when I was a teenager.
 
-Favourite music: I listen to [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app). Particularly, the rain sound which is featured on the app.
+Favourite music: I listen to [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app).
 
 Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice.
 
