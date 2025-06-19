@@ -264,13 +264,11 @@ Height: 6 foot 4 inches.
 
 Favourite football team: Arsenal, but I stopped following football when I was a teenager.
 
-Favourite music: I listen to [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app).
+Favourite music: I listen to the pop music livestream at https://www.youtube.com/@liveradiomix/streams .
 
 Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice.
 
 [My Anime List](https://github.com/kkamara/anime-list).
-
-[24 FPS vs 30 FPS vs 60 FPS (comparison)](https://www.youtube.com/watch?v=_SzGQkI-IwM&ab_channel=TechDamis).
 
 </details>
 
