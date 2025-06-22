@@ -262,7 +262,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: Everything [Chill Music Lab](https://www.youtube.com/@MusicLabChill/featured).
+Favourite music: [The Kelvin Kamara Sound App](https://www.github.com/kkamara/the-kelvin-kamara-sound-app).
 
 Favourite football team: Arsenal, but I stopped following football when I was a teenager.
 
