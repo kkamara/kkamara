@@ -270,6 +270,8 @@ Nationality: I have a UK passport. I was born and raised in Lewisham, south east
 
 [My Anime List](https://github.com/kkamara/anime-list).
 
+Where do I get my project ideas from? https://1000projects.org/projects/php-projects .
+
 </details>
 
 <details>
