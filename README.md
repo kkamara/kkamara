@@ -326,14 +326,14 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/nodejs-reactjs-boilerplate'>nodejs-reactjs-boilerplate</a>
     </td>
     <td>
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/refs/heads/main/grocery-store-management-system.png' />
+      <br/>
+      <a href='https://github.com/kkamara/grocery-store-management-system'>grocery-store-management-system</a>
+    </td>
+    <td>
       <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/beauty-parlour-management-system.png?raw=true' />
       <br/>
       <a href='https://github.com/kkamara/beauty-parlour-management-system'>beauty-parlour-management-system</a>
-    </td>
-    <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/book-store-management-system.png' />
-      <br/>
-      <a href='https://github.com/kkamara/book-store-management-system'>book-store-management-system</a>
     </td>
   </tr>
   <tr>
