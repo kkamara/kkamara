@@ -25,7 +25,8 @@ Here are a few samples from www.kelvinkamara.com .
 
 - [a sound app for the desktop (download)](https://github.com/kkamara/the-kelvin-kamara-sound-app)
 - [Marvel Comics: browse and manage your favourite comics for the desktop (download)](https://github.com/kkamara/mrvl-desktop)
-- [Marvel Comics: browse and manage your favourite comics for the web](https://github.com/kkamara/mrvl-web) .
+- [Marvel Comics: browse and manage your favourite comics for the web](https://github.com/kkamara/mrvl-web)
+- [a place for challenge solutions with tests, code snippets, and custom-made presentations](https://github.com/kkamara/playground).
 
 <details>
 <summary>
