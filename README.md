@@ -263,7 +263,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: I search "no vocals" on [SoundCloud](https://soundcloud.com) and I accompany that with some ambience. There are ambient sounds in [The Kelvin Kamara Sound App](https://www.github.com/kkamara/the-kelvin-kamara-sound-app) which is free to download.
+Favourite music: I search "no vocals" on [SoundCloud](https://soundcloud.com) and I accompany that with some ambience. There are ambient sounds in [The Kelvin Kamara Sound App](https://www.github.com/kkamara/the-kelvin-kamara-sound-app) which is free to download. Sometimes I listen to radios on the sound app, or music on YouTube.
 
 Favourite football team: Arsenal, but I stopped following football when I was a teenager.
 
