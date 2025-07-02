@@ -263,7 +263,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: I pay for Amazon Music and listen to "artist and similar radio". There are ambient sounds, offline music, and radios on [The Kelvin Kamara Sound App](https://www.github.com/kkamara/the-kelvin-kamara-sound-app) which is free to download. Sometimes I listen to radios (mostly SmoothFM), or music on YouTube.
+Favourite music: I pay for Amazon Music. The most important benefit is no ads. There are great features like genre and artist stations, and autoplay, which is when similar music continues playing after your playlist ends. Otherwise, there are ambient sounds, offline music, and radios on [The Kelvin Kamara Sound App](https://www.github.com/kkamara/the-kelvin-kamara-sound-app) which is free to download. Sometimes I listen to radios (usually SmoothFM), or music on YouTube.
 
 Favourite football team: Arsenal, but I stopped following football when I was a teenager.
 
