@@ -327,7 +327,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/nodejs-reactjs-boilerplate'>nodejs-reactjs-boilerplate</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/refs/heads/main/grocery-store-management-system.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/refs/heads/main/grocery-store-management-system3.png' />
       <br/>
       <a href='https://github.com/kkamara/grocery-store-management-system'>grocery-store-management-system</a>
     </td>
