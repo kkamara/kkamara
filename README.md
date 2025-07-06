@@ -288,12 +288,12 @@ https://kelvinkamara.com
   </tr>
   <tr>
     <td>
-      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' />
       <br/>
       <a href='https://github.com/kkamara/kelvinkamara.com'>kelvinkamara.com</a>
     </td>
     <td>
-      <img height='150' src='https://github.com/kkamara/premium-artist-cms-template/raw/main/premium-artist-cms-theme/admin/dashboard.png' />
+      <img height='150' width='267' src='https://github.com/kkamara/premium-artist-cms-template/raw/main/premium-artist-cms-theme/admin/dashboard.png' />
       <br/>
       <a href='https://github.com/kkamara/premium-artist-cms-template'>premium-artist-cms-template</a>
     </td>
@@ -349,7 +349,7 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
     <td>
-      <img height='150' src='https://raw.githubusercontent.com/kkamara/useful/main/team-component.png' />
+      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/team-component.png' />
       <br/>
       <a href='https://github.com/kkamara/team-component'>team-component</a>
     </td>
