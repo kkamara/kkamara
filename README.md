@@ -263,7 +263,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: I pay for Spotify. The most important benefit is no ads. Crucially, Spotify allows you to use one Spotify device to control playback on another, essentially using one device as a remote. So with Spotify I am able to play music from my laptop and control playback from my phone. There are also great features like genre and artist stations, and autoplay, which is when similar music continues playing after your playlist ends. Amazon Music also has these features. Otherwise, there are ambient sounds, offline music, and radios on [The Kelvin Kamara Sound App](https://www.github.com/kkamara/the-kelvin-kamara-sound-app) which is free to download. Sometimes I listen to radios - any of the radios on the sound app.
+Favourite music: I pay for Spotify. The most important benefit is no ads. Crucially, Spotify allows you to use one Spotify device to control playback on another, essentially using one device as a remote. So with Spotify I am able to play music from my laptop and control playback from my phone. There are also great features like genre and artist stations, and autoplay, which is when similar music continues playing after your playlist ends. Amazon Music also has these features. Otherwise, there are ambient sounds, offline music, and radios on [The Kelvin Kamara Sound App](https://www.github.com/kkamara/the-kelvin-kamara-sound-app) which is free to download. A worthy mention for bird song is the [BEO Nature](https://www.youtube.com/@BEONatureBirdSinging/videos) YouTube channel.
 
 Favourite football team: Arsenal, but I stopped following football when I was a teenager.
 
