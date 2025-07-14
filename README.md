@@ -265,7 +265,9 @@ Height: 6 foot 4 inches.
 
 Favourite music: I pay for Spotify. The most important benefit is no ads. Crucially, Spotify allows you to use one Spotify device to control playback on another, essentially using one device as a remote. So with Spotify I am able to play music from my laptop and control playback from my phone. There are also great features like genre and artist stations, and autoplay, which is when similar music continues playing after your playlist ends. Amazon Music also has these features. Otherwise, there are ambient sounds, offline music, and radios on [The Kelvin Kamara Sound App](https://www.github.com/kkamara/the-kelvin-kamara-sound-app) which is free to download. A worthy mention for bird song is the [BEO Nature](https://www.youtube.com/@BEONatureBirdSinging/videos) YouTube channel. In general, specifics as to what I listen to is punk rock, pop, 80's hits, classic rock, rock, dancehall, reggae lover's rock, and electronic. Sometimes I listen to [DJ Treasure](https://www.youtube.com/@DJTreasure/videos) (not his mixes but his production label songs - they're on Spotify and also YouTube from about 1 hour into his videos) and DJ Easy ([link 1](https://www.youtube.com/@DjeasyMixmaster), [link 2](https://www.youtube.com/@DjeasyMuzikRyder/videos)).
 
-Favourite football team: Arsenal, but I stopped following football when I was a teenager.
+Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
+
+Favourite football team: It was Arsenal, but I stopped following football when I was a teenager.
 
 Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice.
 
