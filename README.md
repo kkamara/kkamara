@@ -39,7 +39,7 @@ Cover Letter:
 > 
 > As the chief technical officer (CTO) of Joystick, I create, manage, and deploy the software solutions that Joystick offers. I oversee and contribute towards the complete technical operations for the company, including but not limited to managing programming, IT infrastructure, task management, development, team members, and product technical direction.
 >
-> I create and manage websites, mobile apps, and APIs using JavaScript, ExpressJS, NodeJS, ReactJS, ReactJS Native and more.
+> I create and manage websites, mobile apps, and APIs using JavaScript, ExpressJS, NodeJS, ReactJS, ReactJS Native, and more.
 >
 > www.kelvinkamara.com
 
