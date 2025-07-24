@@ -267,7 +267,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: I pay for [Spotify](https://spotify.com) and I search for "no vocals".
+Favourite music: I pay for [Spotify](https://spotify.com) and I search for "no vocals". I also listen to the [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso?si=bd392258fbbe4860) playlist.
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
