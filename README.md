@@ -267,7 +267,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: I don't listen to music but I usually listen to ambient sounds like birds song at [BEO Nature](https://www.youtube.com/@BEONatureBirdSinging/videos) on YouTube.
+Favourite music: I listen to pop, punk rock, heavy metal, 80's hits, classic rock, rock, dancehall, reggae lover's rock, electronic, and drill.
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
