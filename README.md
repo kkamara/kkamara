@@ -267,7 +267,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: I listen to pop, punk rock, heavy metal, 80's hits, classic rock, rock, dancehall, reggae lover's rock, electronic, and drill.
+Favourite music: I don't listen to music but I listen to the ambient sounds on [The Kelvin Kamara Sound App](https://www.github.com/kkamara/the-kelvin-kamara-sound-app).
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
