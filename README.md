@@ -267,7 +267,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: I pay for [Spotify](https://www.spotify.com). While sleeping, I listen to the ambient sounds on [The Kelvin Kamara Sound App](https://www.github.com/kkamara/the-kelvin-kamara-sound-app).
+Favourite music: I pay for [Spotify](https://www.spotify.com) and I mostly listen to the [Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U?si=b7f3949de0ba4925) playlist. While sleeping, I listen to the ambient sounds on [The Kelvin Kamara Sound App](https://www.github.com/kkamara/the-kelvin-kamara-sound-app).
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
