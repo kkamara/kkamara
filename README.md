@@ -267,7 +267,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: I don't listen to music. I listen to the ambient rain sounds freely available at [The Relaxed Guy](https://www.youtube.com/@therelaxedguy/streams) on YouTube. There are free ambient sounds on [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app).
+Favourite music: I don't listen to music. I listen to the ambient rain sound freely available on [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app). Sometimes I find other ambient sounds to listen to for free on YouTube, like coffee shop noises.
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
