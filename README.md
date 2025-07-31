@@ -267,7 +267,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: I listen to [Quiet Quest Study Music](https://www.youtube.com/@QuietQuest/streams) and [The Relaxed Guy](https://www.youtube.com/@therelaxedguy/streams). There are also ambient sounds, including rain, on [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app) which is free to download.
+Favourite music: I listen to the radio stations freely available on [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app). Usually [Capital UK Radio](https://www.capitalfm.com) which plays pop music. Sometimes I accompany my music listening with the ambient rain sounds freely available at [The Relaxed Guy](https://www.youtube.com/@therelaxedguy/streams) on YouTube.
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
