@@ -267,7 +267,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: I listen to the radio stations freely available on [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app). Usually [Capital UK Radio](https://www.capitalfm.com) which plays pop music.
+Favourite music: There are radio stations, ambient sounds (like rain), and more, freely available on [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app). The app is offline-first.
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
