@@ -88,7 +88,7 @@ Pictures:
 Technology Misc:
 </summary>
 
-[Desktop 2023 Extra](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33).
+[Desktop 2023 Extra](https://github.com/kkamara/useful/commit/1b8bff1a91936f8c06ef0eed644882f4f914c5c0).
 
 [Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png).
 
