@@ -267,7 +267,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: I don't like hearing ads and I don't like paying for music. I use [SoundCloud](https://soundcloud.com) with an ad-blocker.
+Favourite music: I don't like hearing ads and I don't like paying for music. I use [SoundCloud](https://soundcloud.com) with an ad-blocker. I usually listen to mixes that are recommended to me. And the genre of those mixes vary. It's always a sub-genre of the electronic music genre, like drum and bass or chill.
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
