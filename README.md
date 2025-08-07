@@ -267,7 +267,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: There are radio stations, ambient sounds (like rain), and more, freely available on [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app). The app is offline-first. While sleeping, and sometimes when I'm awake, I listen to [positive "I am" affirmations](https://www.youtube.com/watch?v=9x8U_EQf85w).
+Favourite music: I don't like hearing ads and I don't like paying for music. I use [SoundCloud](https://soundcloud.com) with an ad-blocker.
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
