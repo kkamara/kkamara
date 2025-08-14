@@ -34,16 +34,14 @@ Cover Letter:
 </summary>
 
 > Hi
->
-> In April 2019, I was fortunate to achieve the UK government Recognition Award from the Cabinet Office. You can see this award at my website (below).
->
-> As the lead web and mobile developer at Joystick, since February 2024, I created the mobile app and website for the company. In April 2025, I was then promoted to chief technical officer (CTO).
 > 
-> As the CTO of Joystick, I create, manage, and deploy the software solutions that Joystick offers. I oversee and contribute towards the complete technical operations for the company, including but not limited to managing programming, IT infrastructure, task management, development, team members, and product technical direction.
->
-> I create and manage websites, mobile apps, and APIs using JavaScript, ExpressJS, NodeJS, ReactJS, ReactJS Native, and more.
->
-> www.kelvinkamara.com
+> I am the chief technical officer (CTO) at Joystick. I make websites, mobile apps and desktop apps. I have over 10 years of commercial experience in the programming industry.
+> 
+> I have received an award from the UK government Cabinet Office for my work. Also, I was in the team that developed the JD Sports mobile app which has millions of users.
+> 
+> Please see my website for more at www.kelvinkamara.com .
+> 
+> Kelvin Kamara
 
 </details>
 
