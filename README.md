@@ -265,11 +265,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite music: I listen to any of the streams by [Lofi Girl](https://www.youtube.com/@LofiGirl/streams) that are not lofi. I sometimes listen to ambient sounds as background noise, like rain. In early 2023, I created [The Kelvin Kamara Sound App](https://github.com/kkamara/the-kelvin-kamara-sound-app).
-
-Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
-
-Favourite football team: It was Arsenal, but I stopped following football when I was a teenager.
+Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true ..
 
 Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice.
 
