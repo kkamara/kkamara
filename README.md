@@ -265,7 +265,7 @@ Misc:
 
 Height: 6 foot 4 inches.
 
-Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true ..
+Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
 Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice.
 
