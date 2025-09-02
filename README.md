@@ -258,7 +258,7 @@ Where do I get my project ideas from? https://1000projects.org/projects/php-proj
 
 I use https://pomofocus.io to work more efficiently. There is a desktop app version which I use.
 
-Favourite music: Heavy metal. I listen to heavy metal playlists on [SoundCloud](https://soundcloud.com) with an ad-blocker.
+Favourite music: Heavy metal and classic rock.
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
