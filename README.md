@@ -83,17 +83,6 @@ Pictures:
 
 <details>
 <summary>
-Technology Misc:
-</summary>
-
-[Desktop 2023 Extra](https://github.com/kkamara/useful/blob/main/desktop-2023-extra.png).
-
-[Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png).
-
-</details>
-
-<details>
-<summary>
 Premium Templates:
 </summary>
 
