@@ -265,13 +265,17 @@ Misc:
 
 Height: 6 foot 4 inches.
 
+Where do I get my project ideas from? https://1000projects.org/projects/php-projects .
+
+I use https://pomofocus.io to work more efficiently. There is a desktop app version which I use.
+
+Favourite music: Heavy metal. I listen to heavy metal playlists on [SoundCloud](https://soundcloud.com) with an ad-blocker.
+
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
 Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice.
 
 [My Anime List](https://github.com/kkamara/anime-list).
-
-Where do I get my project ideas from? https://1000projects.org/projects/php-projects .
 
 </details>
 
