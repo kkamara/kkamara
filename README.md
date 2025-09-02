@@ -262,6 +262,8 @@ Favourite music: Heavy metal. I listen to heavy metal playlists on [SoundCloud](
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
+My current desktop wallpaper: https://github.com/kkamara/useful/blob/main/desktop-wallpaper.jpg .
+
 Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice.
 
 [My Anime List](https://github.com/kkamara/anime-list).
