@@ -266,6 +266,8 @@ Nationality: I have a UK passport. I was born and raised in Lewisham, south east
 
 [My Anime List](https://github.com/kkamara/anime-list).
 
+I have an alarm that goes off at 8pm every day (including weekends) that tells me to wind down. This means to stop doing any work and to get ready for bed.
+
 </details>
 
 <details>
