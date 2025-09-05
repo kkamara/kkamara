@@ -256,7 +256,7 @@ Height: 6 foot 4 inches.
 
 Where do I get my project ideas from? https://1000projects.org/projects/php-projects .
 
-I use https://pomofocus.io to work more efficiently. There is a desktop app version which I use.
+I use https://pomofocus.io to work more efficiently. There is a desktop app version that I use.
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
 
