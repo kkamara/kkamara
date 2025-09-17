@@ -3,7 +3,9 @@
 UK Government Cabinet Office Recognition Award:
 </summary>
 
-![government award](https://www.kelvinkamara.com/award.jpg)
+<img src="https://www.kelvinkamara.com/award.jpg" alt="award.jpg" width="500px"/>
+
+<img src="https://github.com/kkamara/useful/blob/main/desktop-wallpaper.jpg" alt="desktop-wallpaper.jpg" width="500px"/>
 
 </details>
 
