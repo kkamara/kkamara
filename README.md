@@ -270,6 +270,8 @@ Nationality: I have a UK passport. I was born and raised in Lewisham, south east
 
 I have an alarm that goes off at 8pm every day (including weekends) that tells me to wind down. This means to stop doing any work and to get ready for bed.
 
+I use the free Windows app [f.lux](https://justgetflux.com) for making the computer screen easier on the eyes.
+
 </details>
 
 <details>
