@@ -67,19 +67,19 @@ Github Stats:
 Pictures:
 </summary>
 
-<img src="https://github.com/kkamara/useful/raw/main/mpts-london.jpg" alt="mpts-london.jpg" width="170"/> <img src="https://github.com/kkamara/useful/raw/main/business-card.jpeg" alt="business-card.jpeg" width="400"/> <img src="https://github.com/kkamara/useful/raw/main/EcommerceMobile-1.jpg" alt="EcommerceMobile-1.jpg" width="100"/>   <img src="https://github.com/kkamara/useful/raw/main/city-maps-splash-screen.jpg" alt="city-maps-splash-screen.jpg" width="100"/> 
+<img src="https://github.com/kkamara/useful/raw/main/mpts-london.jpg" alt="mpts-london.jpg" width="170px"/> <img src="https://github.com/kkamara/useful/raw/main/business-card.jpeg" alt="business-card.jpeg" width="400px"/> <img src="https://github.com/kkamara/useful/raw/main/EcommerceMobile-1.jpg" alt="EcommerceMobile-1.jpg" width="100px"/>   <img src="https://github.com/kkamara/useful/raw/main/city-maps-splash-screen.jpg" alt="city-maps-splash-screen.jpg" width="100px"/> 
 
-<img src="https://raw.githubusercontent.com/kkamara/ecommerce/develop/public/v4-ecommerce.png" alt="v4-ecommerce.png" width="400"/>   <img src="https://github.com/kkamara/useful/raw/main/todo-app.png" alt="todo-app.png" width="400"/>
+<img src="https://raw.githubusercontent.com/kkamara/ecommerce/develop/public/v4-ecommerce.png" alt="v4-ecommerce.png" width="400px"/>   <img src="https://github.com/kkamara/useful/raw/main/todo-app.png" alt="todo-app.png" width="400px"/>
 
-<img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl-desktop2.png" alt="mrvl-desktop2.png" width="400"/>   <img src="https://github.com/kkamara/useful/raw/main/mrvl2.png" alt="mrvl2.png" width="400"/>
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl-desktop2.png" alt="mrvl-desktop2.png" width="400px"/>   <img src="https://github.com/kkamara/useful/raw/main/mrvl2.png" alt="mrvl2.png" width="400px"/>
 
-<img src="https://raw.githubusercontent.com/kkamara/useful/main/crm-2-laravel-10-2.png" alt="crm-2-laravel-10-2.png" width="400"/>   <img src="https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png" alt="admin.png" width="400"/>
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/crm-2-laravel-10-2.png" alt="crm-2-laravel-10-2.png" width="400px"/>   <img src="https://raw.githubusercontent.com/kkamara/premium-artist-cms-template/main/premium-artist-cms-theme/admin/admin.png" alt="admin.png" width="400px"/>
 
-<img src="https://github.com/kkamara/useful/raw/main/ram.png" alt="ram.png" width="400"/>   <img src="https://github.com/kkamara/useful/raw/main/crm2.png" alt="crm2.png" width="400"/>
+<img src="https://github.com/kkamara/useful/raw/main/ram.png" alt="ram.png" width="400px"/>   <img src="https://github.com/kkamara/useful/raw/main/crm2.png" alt="crm2.png" width="400px"/>
 
-<img src="https://raw.githubusercontent.com/kkamara/useful/main/go-workspace.png" alt="go-workspace.png" width="400"/>   <img src="https://raw.githubusercontent.com/kkamara/useful/main/php-workspace.png" alt="php-workspace.png" width="400"/>
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/go-workspace.png" alt="go-workspace.png" width="400px"/>   <img src="https://raw.githubusercontent.com/kkamara/useful/main/php-workspace.png" alt="php-workspace.png" width="400px"/>
 
-<img src="https://github.com/kkamara/useful/raw/main/amazon-scrapers.png" alt="amazon-scrapers.png" width="400"/> <img src="https://github.com/kkamara/playground/raw/main/System-of-Gates.jpg" alt="system-of-gates.jpg" width="400" />
+<img src="https://github.com/kkamara/useful/raw/main/amazon-scrapers.png" alt="amazon-scrapers.png" width="400px"/> <img src="https://github.com/kkamara/playground/raw/main/System-of-Gates.jpg" alt="system-of-gates.jpg" width="400px" />
 
 </details>
 
@@ -287,68 +287,68 @@ https://kelvinkamara.com
   </tr>
   <tr>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' />
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' />
       <br/>
       <a href='https://github.com/kkamara/kelvinkamara.com'>kelvinkamara.com</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/premium-artist-cms-template/raw/main/premium-artist-cms-theme/admin/dashboard.png' />
+      <img height='150px' width='267px' src='https://github.com/kkamara/premium-artist-cms-template/raw/main/premium-artist-cms-theme/admin/dashboard.png' />
       <br/>
       <a href='https://github.com/kkamara/premium-artist-cms-template'>premium-artist-cms-template</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/nodejs-scraper.gif' />
+      <img height='150px' width='267px' src='https://github.com/kkamara/useful/raw/main/nodejs-scraper.gif' />
       <br/>
       <a href='https://github.com/kkamara/nodejs-scraper'>nodejs-scraper</a>
     </td>
   </tr>
   <tr>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png' />
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png' />
       <br/>
       <a href='https://github.com/kkamara/mrvl-desktop'>mrvl-desktop</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png' />
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png' />
       <br/>
       <a href='https://github.com/kkamara/mrvl-web'>mrvl-web</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/ReactJSNativeMobileAppBoilerplate.png' />
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/ReactJSNativeMobileAppBoilerplate.png' />
       <br/>
       <a href='https://github.com/kkamara/ReactJSNativeMobileAppBoilerplate'>ReactJSNativeMobileAppBoilerplate</a>
     </td>
   </tr>
   <tr>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/nodejs-reactjs-boilerplate.png?raw=true' />
+      <img height='150px' width='267px' src='https://github.com/kkamara/useful/raw/main/nodejs-reactjs-boilerplate.png?raw=true' />
       <br/>
       <a href='https://github.com/kkamara/nodejs-reactjs-boilerplate'>nodejs-reactjs-boilerplate</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/refs/heads/main/grocery-store-management-system3.png' />
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/refs/heads/main/grocery-store-management-system3.png' />
       <br/>
       <a href='https://github.com/kkamara/grocery-store-management-system'>grocery-store-management-system</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/beauty-parlour-management-system.png?raw=true' />
+      <img height='150px' width='267px' src='https://github.com/kkamara/useful/raw/main/beauty-parlour-management-system.png?raw=true' />
       <br/>
       <a href='https://github.com/kkamara/beauty-parlour-management-system'>beauty-parlour-management-system</a>
     </td>
   </tr>
   <tr>
     <td>
-      <img height='150' width='267' src='https://github.com/kkamara/useful/raw/main/ram.png' />
+      <img height='150px' width='267px' src='https://github.com/kkamara/useful/raw/main/ram.png' />
       <br/>
       <a href='https://github.com/kkamara/ram'>rick-and-morty</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/gmail-clone.png' />
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/gmail-clone.png' />
       <br/>
       <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
     <td>
-      <img height='150' width='267' src='https://raw.githubusercontent.com/kkamara/useful/main/team-component.png' />
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/team-component.png' />
       <br/>
       <a href='https://github.com/kkamara/team-component'>team-component</a>
     </td>
