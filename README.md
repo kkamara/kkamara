@@ -39,7 +39,7 @@ Cover Letter:
 > 
 > I am the chief technical officer (CTO) at Joystick. I make websites, mobile apps and desktop apps. I have over 10 years of commercial experience in the programming industry.
 > 
-> I have received an award from the UK government Cabinet Office for my work. Also, I was in the team that developed the JD Sports mobile app which has millions of users.
+> I have received an award from the UK Government Cabinet Office for my work. Also, I was in the team that developed the JD Sports mobile app which has millions of users.
 > 
 > Please see my website for more at www.kelvinkamara.com .
 > 
@@ -47,7 +47,7 @@ Cover Letter:
 
 </details>
 
-I achieved the UK government Cabinet Office Recognition Award at 22 years old (22/04/19) ([link](https://kelvinkamara.com/award.jpg)) ([link2](https://github.com/kkamara/kelvinkamara.com/blob/main/public/award.jpg)).
+I achieved the UK Government Cabinet Office Recognition Award at 22 years old (22/04/19) ([link](https://kelvinkamara.com/award.jpg)) ([link2](https://github.com/kkamara/kelvinkamara.com/blob/main/public/award.jpg)).
 
 I didn't go to university.
 
