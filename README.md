@@ -36,12 +36,14 @@ Cover Letter:
 </summary>
 
 > Hi
-> 
-> I am the chief technical officer (CTO) at Joystick. I make websites, mobile apps and desktop apps. I have over 10 years of commercial experience in the programming industry.
-> 
-> I have received an award from the UK Government Cabinet Office for my work. Also, I was in the team that developed the JD Sports mobile app which has millions of users.
-> 
-> Please see my website for more at www.kelvinkamara.com .
+>
+> I make websites, mobile apps and desktop apps. I have over 10 years of commercial experience.
+>
+> I won the Recognition Award from the UK Government Cabinet Office in April 2019.
+>
+> I was in the team that made the JD Sports mobile app which has millions of users.
+>
+> Please see my website at www.kelvinkamara.com .
 > 
 > Kelvin Kamara
 
