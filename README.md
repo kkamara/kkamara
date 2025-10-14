@@ -350,9 +350,9 @@ https://kelvinkamara.com
       <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
     <td>
-      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/team-component.png' />
+      <img height='150px' width='267px' src='https://github.com/kkamara/useful/raw/main/nodejs-reactjs-boilerplate.png?raw=true' />
       <br/>
-      <a href='https://github.com/kkamara/team-component'>team-component</a>
+      <a href='https://github.com/kkamara/reactjs-websockets-chat-app'>reactjs-websockets-chat-app</a>
     </td>
   </tr>
 </table>
