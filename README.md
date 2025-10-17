@@ -66,7 +66,7 @@ Github Stats:
 
 <details>
 <summary>
-NodeJS WebSockets (the power of live chat):
+NodeJS WebSockets (the power behind live chat):
 </summary>
 
 * [nodejs-websockets-courses-completed](https://github.com/kkamara/nodejs-websockets-courses-completed).
