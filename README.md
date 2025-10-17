@@ -361,7 +361,7 @@ https://kelvinkamara.com
     <td>
       <img height='150px' width='267px' src='https://github.com/kkamara/useful/raw/main/nodejs-reactjs-boilerplate.png?raw=true' />
       <br/>
-      <a href='https://github.com/kkamara/reactjs-websockets-chat-app'>reactjs-websockets-chat-app</a>
+      <a href='https://github.com/kkamara/nodejs-websockets-courses-completed'>nodejs-websockets-courses-completed</a>
     </td>
   </tr>
 </table>
