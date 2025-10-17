@@ -55,7 +55,7 @@ I didn't go to university.
 
 JavaScript, SQL, Bash.
 
-<details open>
+<details>
 <summary>
 Github Stats:
 </summary>
