@@ -66,6 +66,15 @@ Github Stats:
 
 <details>
 <summary>
+NodeJS WebSockets:
+</summary>
+
+* [nodejs-websockets-courses-completed](https://github.com/kkamara/nodejs-websockets-courses-completed).
+
+</details>
+
+<details>
+<summary>
 Pictures:
 </summary>
 
