@@ -66,6 +66,15 @@ Github Stats:
 
 <details>
 <summary>
+Google Chrome Browser Extensions:
+</summary>
+
+* https://github.com/kkamara/useful/blob/main/google-chrome-browser-extensions.txt
+
+</details>
+
+<details>
+<summary>
 NodeJS WebSockets (the power behind live chat):
 </summary>
 
