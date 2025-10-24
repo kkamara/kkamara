@@ -69,7 +69,7 @@ Github Stats:
 Google Chrome Browser Extensions:
 </summary>
 
-* https://github.com/kkamara/useful/blob/main/google-chrome-browser-extensions.txt
+[google-chrome-browser-extensions.txt](https://github.com/kkamara/useful/blob/main/google-chrome-browser-extensions.txt).
 
 </details>
 
@@ -78,7 +78,7 @@ Google Chrome Browser Extensions:
 NodeJS WebSockets (the power behind live chat):
 </summary>
 
-* [nodejs-websockets-courses-completed](https://github.com/kkamara/nodejs-websockets-courses-completed).
+[nodejs-websockets-courses-completed](https://github.com/kkamara/nodejs-websockets-courses-completed).
 
 </details>
 
@@ -114,12 +114,16 @@ Premium Templates:
 
 <details>
 <summary>
-Packages:
+My Packages:
 </summary>
 
 * [www.npmjs.com/package/nodejs-github-to-bitbucket-backup-repo-updater](https://www.npmjs.com/package/nodejs-github-to-bitbucket-backup-repo-updater)
 * [www.packagist.org/packages/kkamara/php-github-to-bitbucket-backup-repo-updater](https://packagist.org/packages/kkamara/php-github-to-bitbucket-backup-repo-updater)
-* [www.github.com/kkamara/debian-linux-desktop-setup](https://github.com/kkamara/debian-linux-desktop-setup)
+* [debian-linux-desktop-setup](https://github.com/kkamara/debian-linux-desktop-setup)
+* [ReactJSNativeMobileAppBoilerplate](https://github.com/kkamara/ReactJSNativeMobileAppBoilerplate)
+* [nodejs-reactjs-boilerplate](https://github.com/kkamara/nodejs-reactjs-boilerplate)
+* [desktop-reactjs-boilerplate](https://github.com/kkamara/desktop-reactjs-boilerplate)
+* [multi-window-desktop-app](https://github.com/kkamara/multi-window-desktop-app).
 
 </details>
 
