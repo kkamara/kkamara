@@ -62,6 +62,24 @@ Github Stats:
 
 [![kkamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamara&count_private=true)](https://github.com/kkamara/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamara&langs_count=8)](https://github.com/kkamara/github-readme-stats)
 
+</details
+
+<details>
+<summary>
+Visual Studio Code (IDE) Extensions:
+</summary>
+
+[vscode-install-extensions.sh](https://github.com/kkamara/useful/blob/main/vscode-install-extensions.sh).
+
+</details>
+
+<details>
+<summary>
+Visual Studio Code (IDE) Settings:
+</summary>
+
+[vscode-settings.json](https://github.com/kkamara/useful/blob/main/vscode-settings.json).
+
 </details>
 
 <details>
