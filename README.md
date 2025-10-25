@@ -181,7 +181,7 @@ Production best practices: security
 Interview Prep:
 </summary>
 
-* https://github.com/kkamara/playground
+* [playground](https://github.com/kkamara/playground).
 
 </details>
 
@@ -279,7 +279,9 @@ netstat -ltpn
 <summary>
 Software Engineering Challenges With Solutions and Tests:
 </summary>
-https://github.com/kkamara/playground
+
+[playground](https://github.com/kkamara/playground)
+
 </details>
 
 <details>
