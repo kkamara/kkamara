@@ -126,7 +126,7 @@ Pictures:
 Premium Templates:
 </summary>
 
-* https://github.com/kkamara/premium-artist-cms-template
+* [premium-artist-cms-template](https://github.com/kkamara/premium-artist-cms-template).
 
 </details>
 
