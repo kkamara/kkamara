@@ -280,7 +280,7 @@ netstat -ltpn
 Software Engineering Challenges With Solutions and Tests:
 </summary>
 
-[playground](https://github.com/kkamara/playground)
+[playground](https://github.com/kkamara/playground).
 
 </details>
 
