@@ -199,13 +199,13 @@ My Gists:
 Principles:
 </summary>
 
-* Do the hardest task(s) first
+* [Separation of Concerns](https://en.m.wikipedia.org/wiki/Separation_of_concerns)
 
-* https://en.m.wikipedia.org/wiki/Separation_of_concerns
+* [Don't Repeat Yourself](https://en.m.wikipedia.org/wiki/Don%27t_repeat_yourself)
 
-* https://en.m.wikipedia.org/wiki/Don%27t_repeat_yourself
+* [Yoda Notation](https://en.wikipedia.org/wiki/Yoda_conditions)
 
-* https://en.wikipedia.org/wiki/Yoda_conditions
+* Do the hardest task(s) first.
 
 </details>
 
