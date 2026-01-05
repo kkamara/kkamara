@@ -39,9 +39,9 @@ Cover Letter:
 >
 > I make websites, mobile apps and desktop apps. I have over 10 years of commercial experience.
 >
-> I won the Recognition Award from the UK Government Cabinet Office in April 2019.
+> I won the Recognition Award from the UK Government Cabinet Office in April 2019 for my programming work.
 >
-> I was in the team that made the JD Sports mobile app which has millions of users.
+> I was in the team that made the JD Sports mobile app which has millions of users. Our team used React Native for this but I am currently learning Kotlin for mobile app development.
 >
 > Please see my website at www.kelvinkamara.com .
 > 
