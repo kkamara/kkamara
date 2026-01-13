@@ -55,12 +55,12 @@ I didn't go to university.
 
 JavaScript, SQL, Bash.
 
-<details>
+<details open>
 <summary>
 Github Stats:
 </summary>
 
-[![kkamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamara&count_private=true)](https://github.com/kkamara/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamara&langs_count=8)](https://github.com/kkamara/github-readme-stats)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kkamara&show_icons=true&count_private=true" height=200 /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kkamara&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&count_private=true" height=200 />
 
 </details>
 
