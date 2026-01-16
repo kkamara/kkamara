@@ -151,7 +151,7 @@ My Packages:
 My IDE:
 </summary>
 
-I work with [IntelliJ Idea](https://www.jetbrains.com/idea), [Visual Studio Code](https://code.visualstudio.com) and [Vim](https://www.vim.org).
+I work with [Visual Studio Code](https://code.visualstudio.com) and [Vim](https://www.vim.org).
 
 Here is my VSCode configuration:
 * [vscode-install-extensions.sh](https://github.com/kkamara/useful/blob/main/vscode-install-extensions.sh)
