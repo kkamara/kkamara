@@ -13,6 +13,8 @@ UK Government Cabinet Office Recognition Award:
 
 <img src="https://github.com/kkamara/useful/blob/main/ReactJSNativeMobileAppBoilerplate.png?raw=true" alt="ReactJSNativeMobileAppBoilerplate.png" width="175px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/refs/heads/main/grocery-store-management-system3.png" alt="grocery-store-management-system3.png" width="175px"/> <img src="https://github.com/kkamara/useful/raw/main/nodejs-reactjs-boilerplate.png?raw=true" alt="nodejs-reactjs-boilerplate.png" width="175px"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/mrvl5.png" alt="mrvl5.png" width="175px"/>
 
+<img height='100px' src='https://raw.githubusercontent.com/kkamara/useful/main/MobileMoviesApp.jpg' /> <img height='100px' src='https://raw.githubusercontent.com/kkamara/useful/main/MobileMoviesApp2.jpg' /> <img height='100px' src='https://raw.githubusercontent.com/kkamara/useful/main/MobileMoviesApp3.jpg' />
+
 Official programmer pages: [Github](https://www.github.com/kkamara).
 
 [![Websites](https://img.shields.io/badge/-Websites-black?style=for-the-badge&labelColor=white&logo=gnometerminal&logoColor=black)](#) [![Mobile Apps](https://img.shields.io/badge/-Mobile%20Apps-black?style=for-the-badge&labelColor=white&logo=android&logoColor=black)](#) [![Desktop Apps](https://img.shields.io/badge/-Desktop%20Apps-black?style=for-the-badge&labelColor=white&logo=whatsapp&logoColor=black)](#) [![Embedded Devices](https://img.shields.io/badge/-Embedded%20Devices-black?style=for-the-badge&labelColor=white&logo=youtube&logoColor=black)](#)
