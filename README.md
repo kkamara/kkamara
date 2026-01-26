@@ -67,7 +67,7 @@ More:
   Github Stats:
   </summary>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kkamara&show_icons=true&count_private=true" height=200 /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kkamara&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&count_private=true" height=200 />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kkamara&show_icons=true&count_private=true" height="200px" alt="General Github stats" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kkamara&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&count_private=true" height="200px" alt="Most used programming languages status" />
   
   </details>
   
