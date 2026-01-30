@@ -60,7 +60,7 @@ More:
   
   I didn't go to university.
   
-  JavaScript, SQL, Bash.
+  JavaScript, SQL, Kotlin, Java, Bash.
   
   <details open>
   <summary>
