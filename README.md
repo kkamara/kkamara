@@ -323,6 +323,8 @@ More:
   I have an alarm that goes off at 8pm every day (including weekends) that tells me to wind down. This means to stop doing any work and to get ready for bed.
   
   I use the free Windows app [f.lux](https://justgetflux.com) for making the computer screen easier on the eyes.
+
+  When did I start learning Rust? I began learning Rust on 04-Feb-2026 with Rust version 1.93.0.
   
   </details>
   
