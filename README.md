@@ -415,8 +415,20 @@ More:
     <td>
       <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
       <br/>
+      <a href='https://github.com/kkamara/cpp-2'>cpp-2</a>
+    </td>
+    <td>
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
+      <br/>
+      <a href='https://github.com/kkamara/cpp'>cpp</a>
+    </td>
+    <td>
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
+      <br/>
       <a href='https://github.com/kkamara/rust'>rust</a>
     </td>
+  </tr>
+  <tr>
     <td>
       <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
       <br/>
@@ -427,5 +439,6 @@ More:
       <br/>
       <a href='https://github.com/kkamara/Kotlin'>kotlin</a>
     </td>
+    <td></td>
   </tr>
 </table>
