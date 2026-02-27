@@ -411,4 +411,21 @@ More:
       <a href='https://github.com/kkamara/gmail-clone'>gmail-clone</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
+      <br/>
+      <a href='https://github.com/kkamara/rust'>rust</a>
+    </td>
+    <td>
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
+      <br/>
+      <a href='https://github.com/kkamara/java'>java</a>
+    </td>
+    <td>
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
+      <br/>
+      <a href='https://github.com/kkamara/Kotlin'>kotlin</a>
+    </td>
+  </tr>
 </table>
