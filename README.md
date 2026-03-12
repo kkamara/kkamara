@@ -444,7 +444,5 @@ More:
       <br/>
       <a href='https://github.com/kkamara/cpp'>cpp</a>
     </td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
