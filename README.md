@@ -415,8 +415,20 @@ More:
     <td>
       <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
       <br/>
+      <a href='https://github.com/kkamara/nodejs-security-3'>nodejs-security-3</a>
+    </td>
+    <td>
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
+      <br/>
+      <a href='https://github.com/kkamara/catdex-api'>catdex-api</a>
+    </td>
+    <td>
+      <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
+      <br/>
       <a href='https://github.com/kkamara/rust'>rust</a>
     </td>
+  </tr>
+  <tr>
     <td>
       <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
       <br/>
@@ -427,8 +439,6 @@ More:
       <br/>
       <a href='https://github.com/kkamara/java'>java</a>
     </td>
-  </tr>
-  <tr>
     <td>
       <img height='150px' width='267px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
       <br/>
