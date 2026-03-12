@@ -324,7 +324,7 @@ More:
   
   I use the free Windows app [f.lux](https://justgetflux.com) for making the computer screen easier on the eyes.
 
-  When did I start learning Rust? I began learning Rust on 04-Feb-2026 with Rust version 1.93.0. I completed the Rust book in 30 days [here](https://github.com/kkamara/rust).
+  When did I start learning Rust? I began learning Rust on 04-Feb-2026 with Rust version 1.93.0. I completed the Rust book in 30 days [here](https://github.com/kkamara/rust). I spent 5 weeks on Rust in total. I even built a robust API at [catdex-api](https://github.com/kkamara/catdex-api). This helped me learn how production Rust is written, and compare it to my tools of choice.
   
   </details>
   
