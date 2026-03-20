@@ -60,7 +60,7 @@ More:
   
   I didn't go to university.
   
-  JavaScript, TypeScript, SQL, PHP, Rust, Bash.
+  PHP, JavaScript, TypeScript, SQL, Rust, Bash.
   
   <details open>
   <summary>
