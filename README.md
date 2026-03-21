@@ -353,7 +353,7 @@ More:
       <a href='https://github.com/kkamara/premium-artist-cms-template'>premium-artist-cms-template</a>
     </td>
     <td>
-      <img height='150px' width='267px' src='https://github.com/kkamara/useful/raw/main/nodejs-scraper.gif' alt="php-scraper.gif" />
+      <img height='150px' width='267px' src='https://github.com/kkamara/useful/raw/main/php-scraper.gif' alt="php-scraper.gif" />
       <br/>
       <a href='https://github.com/kkamara/php-scraper'>php-scraper</a>
     </td>
