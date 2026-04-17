@@ -339,7 +339,7 @@ More:
 
 <table>
   <tr>
-    <td colspan="3">Featured projects</td>
+    <td colspan="3">Featured Projects ✅</td>
   </tr>
   <tr>
     <td>
