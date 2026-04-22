@@ -310,8 +310,6 @@ More:
   
   Where do I get my project ideas from? https://1000projects.org/projects/php-projects .
   
-  I use the free https://pomofocus.io to work more efficiently. There is a desktop app version that I use.
-  
   Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
   
   My current desktop wallpaper: https://github.com/kkamara/useful/blob/main/desktop-wallpaper.jpg .
@@ -319,8 +317,6 @@ More:
   Nationality: I have a UK passport. I was born and raised in Lewisham, south east London. I am from Lagos, Nigeria on my father's side. I am also from Sierra Leone. I have visited Lagos, Nigeria, twice.
   
   [My Anime List](https://github.com/kkamara/anime-list).
-  
-  I have an alarm that goes off at 8pm every day (including weekends) that tells me to wind down. This means to stop doing any work and to get ready for bed.
   
   I use the free Windows app [f.lux](https://justgetflux.com) for making the computer screen easier on the eyes.
 
