@@ -42,15 +42,17 @@ More:
   Cover Letter:
   </summary>
   
-  > Hi
-  >
-  > I make websites, mobile apps and desktop apps. I have over 10 years of commercial experience.
-  >
-  > I won the Recognition Award from the UK Government Cabinet Office in April 2019 for my programming work.
-  >
-  > I was in the team that made the JD Sports mobile app which has millions of users.
-  >
-  > Please see my website at www.kelvinkamara.com .
+  > Dear Hiring Manager,
+  > 
+  > I am an award-winning software developer based in the UK, with over ten years of commercial experience delivering websites, mobile applications and desktop software.
+  > 
+  > In April 2019, I received the UK Government Cabinet Office Recognition Award for my contribution to software delivery. I have also worked as part of the team that developed the JD Sports mobile app, used by millions of customers.
+  > 
+  > I would welcome the opportunity to bring the same level of quality and impact to your team.
+  > 
+  > Please find more information about my work at www.kelvinkamara.com.
+  > 
+  > Kind regards,
   > 
   > Kelvin Kamara
   
