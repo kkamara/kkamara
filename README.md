@@ -50,7 +50,7 @@ More:
   > 
   > I would welcome the opportunity to bring the same level of quality and impact to your team.
   > 
-  > Please find more information about my work at www.kelvinkamara.com.
+  > Please find more information about my work at www.kelvinkamara.com .
   > 
   > Kind regards,
   > 
