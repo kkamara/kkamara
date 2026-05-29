@@ -402,9 +402,9 @@ More:
       <a href='https://github.com/kkamara/ram'>rick-and-morty</a>
     </td>
     <td>
-      <img height='150px' src='https://raw.githubusercontent.com/kkamara/useful/main/MobileMoviesApp.jpg' alt="MobileMoviesApp.jpg" />
-      <img height='150px' src='https://raw.githubusercontent.com/kkamara/useful/main/MobileMoviesApp2.jpg' alt="MobileMoviesApp2.jpg" />
-      <img height='150px' src='https://raw.githubusercontent.com/kkamara/useful/main/MobileMoviesApp3.jpg' alt="MobileMoviesApp3.jpg" />
+      <img height='75px' src='https://raw.githubusercontent.com/kkamara/useful/main/MobileMoviesApp.jpg' alt="MobileMoviesApp.jpg" />
+      <img height='75px' src='https://raw.githubusercontent.com/kkamara/useful/main/MobileMoviesApp2.jpg' alt="MobileMoviesApp2.jpg" />
+      <img height='75px' src='https://raw.githubusercontent.com/kkamara/useful/main/MobileMoviesApp3.jpg' alt="MobileMoviesApp3.jpg" />
       <br/>
       <a href='https://github.com/kkamara/MobileMoviesApp'>MobileMoviesApp</a>
     </td>
