@@ -5,7 +5,7 @@ UK Government Cabinet Office Recognition Award:
 
 <img src="https://www.kelvinkamara.com/award.jpg" alt="award.jpg" width="405px"/>
 
-<img src="https://github.com/kkamara/useful/blob/main/spider-noir.png" alt="spider-noir.png" width="405px"/>
+<img src="https://github.com/kkamara/useful/blob/main/desktop-wallpaper.jpg" alt="desktop-wallpaper.jpg" width="405px"/>
 
 </details>
 
