@@ -440,19 +440,19 @@ More:
     <td>
       <img height='150px' width='255px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
       <br/>
-      <a href='https://github.com/kkamara/rust'>rust</a>
+      <a href='https://github.com/kkamara/rust-2'>rust-2</a>
     </td>
   </tr>
   <tr>
     <td>
       <img height='150px' width='255px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
       <br/>
-      <a href='https://github.com/kkamara/Kotlin'>kotlin</a>
+      <a href='https://github.com/kkamara/rust'>rust</a>
     </td>
     <td>
       <img height='150px' width='255px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
       <br/>
-      <a href='https://github.com/kkamara/java'>java</a>
+      <a href='https://github.com/kkamara/java'>java</a> / <a href='https://github.com/kkamara/Kotlin'>kotlin</a>
     </td>
     <td>
       <img height='150px' width='255px' src='https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara.com-light.png' alt="kelvinkamara.com-light.png" />
