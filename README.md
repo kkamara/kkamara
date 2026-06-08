@@ -28,7 +28,7 @@ JavaScript, TypeScript, SQL, PHP, Rust, Bash.
 
 ## Currently learning
 
-I started learning Rust on 04-Feb-2026 and completed The Rust Book in 30 days, then built production-style projects to strengthen practical understanding.
+I started learning Rust (v1.93.0) on 04-Feb-2026 and completed The Rust Book in 30 days, then built production-style projects to strengthen practical understanding.
 
 ## Contact
 
