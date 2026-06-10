@@ -25,7 +25,7 @@ I have 10+ years of commercial experience delivering websites, mobile apps, desk
 
 ## Tech stack
 
-JavaScript, TypeScript, SQL, PHP, Rust, Bash.
+PHP, JavaScript, Rust, Bash.
 
 ## Currently learning
 
