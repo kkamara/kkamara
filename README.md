@@ -18,6 +18,7 @@ I have 10+ years of commercial experience delivering websites, mobile apps, desk
 - [kelvinkamara.com](https://github.com/kkamara/kelvinkamara.com): personal website and portfolio
 - [mrvl-desktop](https://github.com/kkamara/mrvl-desktop) / [mrvl-web](https://github.com/kkamara/mrvl-web): Marvel Comics desktop and web apps
 - [catdex-api](https://github.com/kkamara/catdex-api): robust API built while deepening production Rust skills
+- [grocery-store-management-system](https://github.com/kkamara/grocery-store-management-system): full product-style management platform with admin graphs and statistics
 - [ecommerce-web](https://github.com/kkamara/ecommerce-web): full-featured ecommerce platform with vendor management, shopping cart, and order processing
 - [beauty-parlour-management-system](https://github.com/kkamara/beauty-parlour-management-system): beauty parlour platform with service booking, shopping cart, and Stripe payment integration
 - [my-websockets-chat-app](https://github.com/kkamara/my-websockets-chat-app): real-time chat with WebSockets
