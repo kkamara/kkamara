@@ -26,11 +26,7 @@ I have 10+ years of commercial experience delivering websites, mobile apps, desk
 
 ## Tech stack
 
-PHP, JavaScript, Rust, Bash.
-
-## Currently learning
-
-I started learning Rust (v1.93.0) on 04-Feb-2026 and completed The Rust Book in 30 days, then built production-style projects to strengthen practical understanding.
+PHP, JavaScript, Bash.
 
 ## Contact
 
