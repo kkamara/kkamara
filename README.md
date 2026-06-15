@@ -15,7 +15,7 @@ I have 10+ years of commercial experience delivering websites, mobile apps, desk
 
 ## Tech stack
 
-Python, JavaScript, PHP, Bash.
+Kotlin, Java, Python, Bash.
 
 ## Contact
 
