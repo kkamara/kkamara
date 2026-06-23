@@ -8,7 +8,7 @@ I have 10+ years of commercial experience delivering websites, mobile apps, desk
 
 ## Highlights
 
-- [UK Government Cabinet Office Recognition Award](https://raw.githubusercontent.com/kkamara/kelvinkamara.com/refs/heads/main/public/award.jpg) (age 22, 22-Apr-2019)
+- [UK Government Cabinet Office Recognition Award](https://raw.githubusercontent.com/kkamara/kelvinkamara.com/refs/heads/main/kelvinkamara/assets/award.jpg) (age 22, 22-Apr-2019)
 - 10+ years of commercial software engineering experience
 - Full-stack delivery across web, mobile, desktop and backend systems
 - Strong focus on production quality, security and maintainability
