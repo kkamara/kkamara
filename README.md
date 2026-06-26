@@ -1,3 +1,5 @@
+<img src="https://github.com/kkamara/useful/raw/main/python-selenium.gif?raw=true" alt="python-selenium.gif"/>
+
 # Kelvin Kamara
 
 Award-winning software developer based in the UK.
