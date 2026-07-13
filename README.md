@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kkamara/useful/main/python-selenium.gif" alt="python-selenium.gif"/>
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/python-selenium.gif" alt="python-selenium.gif" width="600px"/>
 
 # Kelvin Kamara
 
