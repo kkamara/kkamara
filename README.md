@@ -2,7 +2,7 @@
 
 # Kelvin Kamara
 
-Award-winning software developer based in the UK.
+Award-winning software engineer based in the UK.
 
 I have 10+ years of commercial experience delivering websites, mobile apps, desktop apps and APIs. In April 2019, I received the UK Government Cabinet Office Recognition Award for software delivery. I have also worked as part of the team that developed the JD Sports mobile app used by millions of customers.
 
