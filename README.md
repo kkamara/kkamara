@@ -37,7 +37,7 @@ PHP, JavaScript, TypeScript, Python, Bash.
 
 <details>
 <summary>
-Extra Details:
+More:
 </summary>
 
 <details open>
@@ -52,6 +52,21 @@ UK Government Cabinet Office Recognition Award:
 I achieved the UK Government Cabinet Office Recognition Award at 22 years old (22/04/19) ([link](https://kelvinkamara.com/static/award.jpg)) ([link2](https://github.com/kkamara/kelvinkamara.com/blob/main/kelvinkamara/assets/award.jpg)).
 
 I didn't go to university.
+
+<details>
+<summary>
+Principles:
+</summary>
+
+* [Separation of Concerns](https://en.m.wikipedia.org/wiki/Separation_of_concerns)
+
+* [Don't Repeat Yourself](https://en.m.wikipedia.org/wiki/Don%27t_repeat_yourself)
+
+* [Yoda Notation](https://en.wikipedia.org/wiki/Yoda_conditions)
+
+* Do the hardest task(s) first.
+
+</details>
 
 <details>
 <summary>
@@ -175,21 +190,6 @@ Interview Prep:
 </summary>
 
 * [playground](https://github.com/kkamara/playground).
-
-</details>
-
-<details>
-<summary>
-Principles:
-</summary>
-
-* [Separation of Concerns](https://en.m.wikipedia.org/wiki/Separation_of_concerns)
-
-* [Don't Repeat Yourself](https://en.m.wikipedia.org/wiki/Don%27t_repeat_yourself)
-
-* [Yoda Notation](https://en.wikipedia.org/wiki/Yoda_conditions)
-
-* Do the hardest task(s) first.
 
 </details>
 
