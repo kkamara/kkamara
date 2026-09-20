@@ -29,6 +29,18 @@ Strong focus on production quality, security and maintainability
 
 PHP, JavaScript, TypeScript, Python, Bash.
 
+<details>
+<summary>
+My Best Designs (In Order):
+</summary>
+
+* [My authentication mobile app](https://github.com/kkamara/AuthenticationMobileApp)
+* [Marvel Comics Encyclopaedia app (desktop)](https://github.com/kkamara/mrvl-desktop)
+* [Marvel Comics Encyclopaedia app (web)](https://github.com/kkamara/mrvl-web)
+* [Rick & Morty Encyclopaedia app](https://github.com/kkamara/ram)
+
+</details>
+
 ## Contact
 
 - Email: kamaracomputers@gmail.com
