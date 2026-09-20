@@ -41,6 +41,17 @@ My Best Designs (In Order):
 
 </details>
 
+<details>
+<summary>
+My Best Management Systems (In Order):
+</summary>
+
+* [Beauty Parlour Management System](https://github.com/kkamara/beauty-parlour-management-system)
+* [Grocery Store Management System](https://github.com/kkamara/grocery-store-management-system)
+* [Book Store Management System](https://github.com/kkamara/book-store-management-system)
+
+</details>
+
 ## Contact
 
 - Email: kamaracomputers@gmail.com
