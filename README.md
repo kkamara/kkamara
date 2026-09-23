@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kkamara/useful/main/AuthenticationMobileApp.png" alt="AuthenticationMobileApp.png" width="600px"/>
+<img src="https://raw.githubusercontent.com/kkamara/kelvinkamara.com/refs/heads/main/kelvinkamara/assets/img/award-evidence.png" alt="award-evidence.png" width=""/>
 
 <img src="https://github.com/kkamara/useful/raw/main/business-systems.png" alt="business-systems.png" width=""/>
 
