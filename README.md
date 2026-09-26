@@ -298,6 +298,8 @@ Extra Details:
 
 Height: 6 foot 4 inches.
 
+My haircut: The clipper guard is 3mm and 1/8". The razor should be raised to the max distance (the razor level (distance) should be changeable).
+
 Where do I get my project ideas from? https://1000projects.org/projects/php-projects .
 
 Favourite photo: https://github.com/kkamara/useful/raw/main/grocery-store-management-system5.png?raw=true .
