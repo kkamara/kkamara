@@ -35,6 +35,7 @@ My Best Designs (In Order):
 </summary>
 
 * [My authentication mobile app](https://github.com/kkamara/AuthenticationMobileApp)
+* [Book Store Mobile 2](https://github.com/kkamara/book-store-management-system-mobile-2)
 * [Marvel Comics Encyclopaedia app (desktop)](https://github.com/kkamara/mrvl-desktop)
 * [Marvel Comics Encyclopaedia app (web)](https://github.com/kkamara/mrvl-web)
 * [Rick & Morty Encyclopaedia app](https://github.com/kkamara/ram)
