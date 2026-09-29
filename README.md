@@ -27,7 +27,7 @@ Strong focus on production quality, security and maintainability
 
 ## Tech Stack
 
-PHP, JavaScript, TypeScript, Python, Bash.
+JavaScript, TypeScript, PHP, Python, Bash.
 
 <details>
 <summary>
