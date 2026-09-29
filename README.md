@@ -47,9 +47,9 @@ My Best Designs (In Order):
 My Best Management Systems (In Order):
 </summary>
 
+* [Grocery Store Management System](https://github.com/kkamara/grocery-store-management-system)
 * [Book Store Management System 2](https://github.com/kkamara/book-store-management-system-2)
 * [Beauty Parlour Management System](https://github.com/kkamara/beauty-parlour-management-system)
-* [Grocery Store Management System](https://github.com/kkamara/grocery-store-management-system)
 
 </details>
 
