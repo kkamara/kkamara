@@ -309,6 +309,8 @@ Nationality: I have a UK passport. I was born and raised in Lewisham, south east
 
 When did I start learning Rust? I began learning Rust on 04-Feb-2026 with Rust version 1.93.0. I completed the Rust book in 30 days [here](https://github.com/kkamara/rust). I spent 5 weeks on Rust in total. I even built a robust API at [catdex-api](https://github.com/kkamara/catdex-api). This helped me learn how production Rust is written, and compare it to my tools of choice.
 
+Favourite music: I listen to the [Deep Sleep Wind Sounds](https://music.amazon.co.uk/podcasts/03fc692f-dfde-42af-bc51-f8d9cf59a43c/deep-sleep-wind-sounds) podcast on Amazon Music, along with almost any kind of music.
+
 </details>
 
 <details>
