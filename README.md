@@ -26,7 +26,7 @@ Kind regards,
 
 Kel Kamara
 
-[Website](https://www.kelvinkamara.com) | [GitHub](https://github.com/kkamara) | [Email](mailto:kamaracomputers@gmail.com)
+[CV](https://github.com/kkamara/kelvinkamara.com/blob/main/kelvinkamara/assets/Kel-Kamara-Software-Engineer-CV.docx.pdf) | [Website](https://www.kelvinkamara.com) | [GitHub](https://github.com/kkamara) | [Email](mailto:kamaracomputers@gmail.com)
 
 <details>
 <summary>
